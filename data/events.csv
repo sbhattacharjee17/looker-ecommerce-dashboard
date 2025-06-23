@@ -1,0 +1,1001 @@
+id,user_id,sequence_number,session_id,created_at,ip_address,city,state,postal_code,browser,traffic_source,uri,event_type
+1374701,,3,ebd9e654-e2ef-4b63-a5a3-fbaeff19ba8c,2020-04-20 01:47:00.000000 UTC,66.102.116.56,São Paulo,São Paulo,02220-000,Safari,Email,/cancel,cancel
+1456853,,3,d253b34f-a9e7-48ff-986a-d8cada5e1c20,2024-08-19 19:00:00.000000 UTC,217.254.220.236,São Paulo,São Paulo,02220-000,Firefox,Email,/cancel,cancel
+1824170,,3,af0738cc-59b8-4cb9-8e55-c0cb7b20a7bd,2021-04-21 05:27:00.000000 UTC,75.83.133.64,São Paulo,São Paulo,02675-031,Safari,Email,/cancel,cancel
+1316150,,3,fb64229c-71d7-4171-a270-76b5d49ca977,2023-06-17 01:59:00.000000 UTC,140.195.70.136,São Paulo,São Paulo,02675-031,Chrome,Adwords,/cancel,cancel
+1874809,,3,6ef7d8c6-c30b-438a-acda-6ba27cf324bf,2025-03-02 07:57:00.000000 UTC,23.1.144.224,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1767022,,3,f66f3e4c-f995-48ec-89a2-f0ee5b41224e,2023-01-14 10:53:00.000000 UTC,157.230.77.26,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+2085893,,3,13547d0d-ca49-4103-bb50-b822358e3954,2023-09-15 07:27:00.000000 UTC,131.126.210.159,São Paulo,São Paulo,02675-031,Safari,Email,/cancel,cancel
+2196003,,3,46dab2e9-505e-40f8-ab5b-fcb704ca5e44,2023-06-15 16:01:00.000000 UTC,15.75.167.116,São Paulo,São Paulo,02675-031,Chrome,Facebook,/cancel,cancel
+1989280,,3,e9aa0bf4-aabe-45b7-a687-edf21a831c95,2020-11-27 09:04:00.000000 UTC,96.26.126.24,São Paulo,São Paulo,02675-031,Safari,Organic,/cancel,cancel
+2173546,,3,7d085c04-dd45-4fa4-b5ae-04d65a794bcc,2023-06-03 17:24:00.000000 UTC,53.128.162.189,São Paulo,São Paulo,02675-031,Chrome,Adwords,/cancel,cancel
+2234253,,3,6b08e478-9dba-484c-a1ca-cff1cc9e9415,2024-09-04 06:16:00.000000 UTC,129.173.165.56,São Paulo,São Paulo,02675-031,IE,Email,/cancel,cancel
+1482373,,3,12209f2a-0dae-4386-aebf-df39648abe7c,2019-04-30 14:23:00.000000 UTC,114.77.17.189,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+2041743,,3,0cd474e4-13bd-4d44-9bf5-aef97bf77aec,2019-10-10 19:07:00.000000 UTC,115.128.164.153,São Paulo,São Paulo,02675-031,Chrome,Adwords,/cancel,cancel
+1669315,,3,39023b42-2af6-455c-8ee1-cdd0e1e91cbb,2021-06-29 19:36:00.000000 UTC,26.206.255.205,São Paulo,São Paulo,02675-031,IE,Adwords,/cancel,cancel
+2414331,,3,4d392b05-b099-49a7-9fd4-67f3fca684ce,2025-03-03 02:25:00.000000 UTC,110.5.203.156,São Paulo,São Paulo,02675-031,Chrome,Facebook,/cancel,cancel
+1719490,,3,6216eb37-88e4-475b-b8fc-f5b966bfdc57,2019-07-23 02:02:00.000000 UTC,212.43.238.149,São Paulo,São Paulo,02675-031,Other,Adwords,/cancel,cancel
+1495781,,3,91dbf0dc-6a7c-4a3f-b97d-55d5ccd78e41,2023-02-14 10:17:00.000000 UTC,131.223.159.167,São Paulo,São Paulo,02675-031,Safari,Email,/cancel,cancel
+2017164,,3,b018bf41-9776-4b18-b1da-7c5caec5e692,2020-08-20 19:25:00.000000 UTC,192.227.29.131,São Paulo,São Paulo,02675-031,Safari,Organic,/cancel,cancel
+2395634,,3,2e601979-d16b-4c17-95df-9193bc95123c,2021-12-22 04:48:00.000000 UTC,205.137.110.69,São Paulo,São Paulo,02675-031,Safari,YouTube,/cancel,cancel
+1313278,,3,338fff83-2f21-4ef2-a6dc-27444299fd5e,2022-03-10 00:58:00.000000 UTC,126.208.246.184,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+2247298,,3,84257c92-cc28-4d55-b3b1-320c78162a56,2025-04-29 07:44:00.000000 UTC,66.120.138.25,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1306335,,3,f1f78069-6515-4679-8a45-e489982d5567,2020-08-18 19:19:00.000000 UTC,39.179.228.114,São Paulo,São Paulo,02675-031,Safari,Facebook,/cancel,cancel
+1335496,,3,037a46d5-7c32-4af4-8093-939d0ba5fbf1,2019-08-22 02:30:00.000000 UTC,160.206.101.210,São Paulo,São Paulo,02675-031,Chrome,Adwords,/cancel,cancel
+2371589,,3,34ddf732-6066-4f5f-b82b-9d3f35a834f6,2019-03-24 10:03:00.000000 UTC,138.114.113.66,São Paulo,São Paulo,02675-031,Other,Adwords,/cancel,cancel
+1953757,,3,7df53248-c410-46bb-b6f0-0b03158371d8,2019-10-15 11:41:00.000000 UTC,144.244.0.72,São Paulo,São Paulo,02675-031,Chrome,Adwords,/cancel,cancel
+1544984,,3,2f68729b-acf0-4f50-b521-c09026c67380,2021-02-20 04:37:00.000000 UTC,193.104.106.89,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1863254,,3,7003b1db-a84f-4d4b-a569-1489aa0cf07f,2025-05-31 04:22:00.000000 UTC,89.79.163.40,São Paulo,São Paulo,02675-031,Chrome,Adwords,/cancel,cancel
+2171940,,3,3155be17-7c88-4ea3-9bc6-a1d13dca471f,2020-12-28 09:57:00.000000 UTC,192.244.253.133,São Paulo,São Paulo,02675-031,Firefox,Organic,/cancel,cancel
+1581100,,3,083a083d-8a91-4a35-b492-81184444b16b,2022-06-27 05:07:00.000000 UTC,34.137.111.114,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1428853,,3,ded1c879-b24d-4848-a2ad-720bc996199d,2023-08-29 09:43:00.000000 UTC,182.236.59.72,São Paulo,São Paulo,02675-031,Firefox,Facebook,/cancel,cancel
+1418723,,3,75719582-064c-4371-aa1b-781d60694d7c,2025-04-08 06:22:00.000000 UTC,3.200.251.20,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1800944,,3,f5761ec9-7145-4290-bd59-c6c0af880e3c,2021-08-12 15:26:00.000000 UTC,54.174.187.223,São Paulo,São Paulo,02675-031,IE,Adwords,/cancel,cancel
+1893381,,3,57b2847f-7935-4c44-bf9b-f9dc197fa2fa,2023-09-11 09:16:00.000000 UTC,49.63.235.240,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1913584,,3,9e01441f-a76d-479d-bcd4-4c0e9737c722,2022-09-15 02:09:00.000000 UTC,68.187.223.214,São Paulo,São Paulo,02675-031,Firefox,Adwords,/cancel,cancel
+2332589,,3,fe0e1157-0bec-4d16-96d0-d938736c099d,2021-02-16 13:56:00.000000 UTC,29.253.47.0,São Paulo,São Paulo,02675-031,IE,Email,/cancel,cancel
+1617379,,3,941e39a3-8854-495f-903f-ca4415ba0d54,2022-09-28 06:49:00.000000 UTC,123.75.0.198,São Paulo,São Paulo,02675-031,Chrome,Organic,/cancel,cancel
+2091846,,3,ed4f53ad-a177-40f2-8dca-a824bc22a030,2021-01-19 11:17:00.000000 UTC,214.121.212.33,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+1463342,,3,72a72cec-e3c5-4bf0-8d91-3bd9b96e9cba,2021-05-06 17:20:00.000000 UTC,116.206.189.94,São Paulo,São Paulo,02675-031,Chrome,Organic,/cancel,cancel
+1802883,,3,62ab9558-5675-4560-91a2-88fb29b09525,2020-03-21 10:56:00.000000 UTC,191.111.199.16,São Paulo,São Paulo,02675-031,Chrome,Facebook,/cancel,cancel
+1298737,,3,bea2a7d9-4648-4418-b0a4-b488ddad62d3,2021-03-29 16:28:00.000000 UTC,173.93.220.129,São Paulo,São Paulo,02675-031,Chrome,Email,/cancel,cancel
+2321233,,3,001bf4ac-7ce0-47eb-93ce-3ad823ef75f1,2020-07-11 12:50:00.000000 UTC,143.133.88.81,São Paulo,São Paulo,02675-031,Firefox,YouTube,/cancel,cancel
+2121691,,3,3a5c5b28-2872-4ba2-997e-c8ca5d1f90d7,2023-06-20 15:21:00.000000 UTC,96.99.162.36,São Paulo,São Paulo,02675-031,Firefox,Organic,/cancel,cancel
+1438250,,3,2d54f424-0231-430d-8147-09314be38335,2022-07-07 15:05:00.000000 UTC,75.230.168.49,São Paulo,São Paulo,02675-031,Firefox,Adwords,/cancel,cancel
+1507288,,3,f542c10c-8c4f-4125-85a5-423bc95a9f23,2022-05-28 01:44:00.000000 UTC,205.72.46.54,São Paulo,São Paulo,02675-031,Firefox,Adwords,/cancel,cancel
+2192414,,3,4b0973f5-1a58-433d-8c6a-70a1ff537edf,2023-10-10 08:48:00.000000 UTC,87.100.184.214,São Paulo,São Paulo,02675-031,Firefox,Email,/cancel,cancel
+2144331,,3,49f10419-da07-4b34-b100-994e756378d2,2021-07-12 09:44:00.000000 UTC,134.19.13.9,Aomori City,Aomori,038-0042,Chrome,Email,/cancel,cancel
+1819470,,3,b80ea266-a037-4778-8ed5-1b36a148f083,2024-10-21 14:43:00.000000 UTC,171.28.173.208,São Paulo,São Paulo,04941-175,Chrome,Facebook,/cancel,cancel
+1486505,,3,9329848d-cbd7-4b7f-80f9-6acc61d89600,2019-05-29 17:17:00.000000 UTC,109.199.217.225,Vargem Grande Paulista,São Paulo,06730-000,Firefox,Adwords,/cancel,cancel
+2329129,,3,c8721c01-8b79-4e53-a9cb-810a4e888dbb,2024-07-14 01:46:00.000000 UTC,112.35.136.25,Vargem Grande Paulista,São Paulo,06730-000,Safari,Email,/cancel,cancel
+1529547,,3,d99d4c09-4a55-49d2-a400-55a0c7925c4a,2022-06-25 10:48:00.000000 UTC,173.173.52.119,Vargem Grande Paulista,São Paulo,06730-000,Chrome,Email,/cancel,cancel
+1601394,,3,1a43870f-b3f7-4a27-a9fe-9472f7b90926,2022-06-29 08:53:00.000000 UTC,158.38.199.75,Embu-Guaçu,São Paulo,06900-000,Firefox,Email,/cancel,cancel
+1305653,,3,d95a7c52-1fb0-4238-949c-7b83dafb8261,2021-03-17 10:19:00.000000 UTC,140.218.234.1,Arujá,São Paulo,07432-575,Firefox,Email,/cancel,cancel
+1752675,,3,cf30174f-1db6-44b8-984c-fa206a5e2402,2020-09-08 07:04:00.000000 UTC,73.3.155.32,Mairiporã,São Paulo,07600-000,Firefox,Adwords,/cancel,cancel
+1798510,,3,c7e27781-c9bf-4e5f-a11f-b8f580a6065a,2023-04-16 12:04:00.000000 UTC,119.26.63.55,São Paulo,São Paulo,08285-060,Firefox,Email,/cancel,cancel
+1745764,,3,7289b5f7-45ce-4040-9341-8ea86fbd5d12,2019-04-07 01:15:00.000000 UTC,91.157.212.248,São Paulo,São Paulo,08285-060,IE,Facebook,/cancel,cancel
+1575080,,3,9ed78fea-46a1-42d2-8604-6ff26f1325b9,2025-04-03 02:37:00.000000 UTC,200.82.231.77,São Paulo,São Paulo,08460-000,Firefox,Adwords,/cancel,cancel
+1479052,,3,79baa147-cb76-4b7c-a7ed-70b9e62304b9,2022-01-19 09:46:00.000000 UTC,166.36.181.9,São Paulo,São Paulo,08460-000,Chrome,YouTube,/cancel,cancel
+1590215,,3,3c90aa21-28fc-4003-9b41-f59da38e719e,2024-09-28 11:45:00.000000 UTC,111.69.72.218,São Paulo,São Paulo,08460-000,Chrome,Email,/cancel,cancel
+2072042,,3,ea133bdf-bb50-4d29-b5e0-fa47ed44f7a7,2024-03-05 07:52:00.000000 UTC,208.188.27.217,Rio Grande da Serra,São Paulo,09450-000,Safari,Adwords,/cancel,cancel
+2334746,,3,a2f93cdb-49d8-4864-ace3-b0b140d2c213,2021-11-16 11:47:00.000000 UTC,168.192.121.251,Rio Grande da Serra,São Paulo,09450-000,Chrome,Adwords,/cancel,cancel
+2201257,,3,b8968d05-49b9-47bf-8945-08b052239012,2024-12-30 14:28:00.000000 UTC,25.150.205.89,São Caetano do Sul,São Paulo,09560-000,Safari,Email,/cancel,cancel
+1556828,,3,ee590c2c-8fb7-42e4-b216-c19a9016f082,2023-02-23 05:46:00.000000 UTC,219.64.132.74,São Paulo,São Paulo,09581-680,Other,Email,/cancel,cancel
+1687137,,3,717000c3-8af7-43f7-94a2-a03ec53c6a9e,2023-07-19 13:11:00.000000 UTC,116.10.115.161,Diadema,São Paulo,09925-000,Chrome,Adwords,/cancel,cancel
+1491179,,3,854d652b-fd0f-4ece-9350-e501d9a14e5e,2024-05-21 02:22:00.000000 UTC,104.247.51.165,Seoul,Seoul,100-450,Chrome,Email,/cancel,cancel
+1428762,,3,a38418fa-43c2-48f7-a535-49d66172fd37,2019-03-10 01:38:00.000000 UTC,154.222.6.252,Bourg-en-Bresse,Auvergne-Rhône-Alpes,1000,Safari,Email,/cancel,cancel
+2382511,,3,58f1a477-e2fe-4972-a71b-64f88bd08e63,2024-08-13 09:23:00.000000 UTC,195.213.16.41,Nanyang,Beijing,100009,Firefox,Adwords,/cancel,cancel
+1778976,,3,29968b57-379d-4d2b-9f4d-8de37ff20553,2021-04-13 08:11:00.000000 UTC,93.234.140.17,Nanyang,Beijing,100009,IE,Organic,/cancel,cancel
+1662824,,3,ed402bec-60da-4d39-941f-86394a2539f9,2024-05-27 07:58:00.000000 UTC,78.19.119.7,Nanyang,Beijing,100009,Safari,Adwords,/cancel,cancel
+1581304,,3,3af3480c-d727-4a48-8baa-9c4f7c4a99d4,2020-07-29 12:28:00.000000 UTC,26.180.13.108,Huanggang,Beijing,100010,Firefox,Email,/cancel,cancel
+2218278,,3,cb2d2a74-5c61-416a-a95a-9ca0b609f052,2025-01-07 16:23:00.000000 UTC,141.143.153.100,Huanggang,Beijing,100010,Chrome,Adwords,/cancel,cancel
+2420632,,3,37063445-4a4b-4270-bb28-d33114e7b1fa,2025-02-24 03:54:00.000000 UTC,149.45.176.66,Suzhou,Beijing,100011,Chrome,Adwords,/cancel,cancel
+2152245,,3,d57ecc56-3b51-4412-b4cb-6ccf6641f9ba,2019-02-13 08:54:00.000000 UTC,181.21.30.18,Lijiang,Beijing,100012,Firefox,YouTube,/cancel,cancel
+2318411,,3,acd9a939-d710-4598-aee3-20c571c36630,2023-05-08 04:27:00.000000 UTC,205.101.255.229,Lijiang,Beijing,100012,Chrome,Email,/cancel,cancel
+1609509,,3,5db08359-3914-42a9-834f-4e88941eb396,2024-05-13 19:07:00.000000 UTC,44.242.33.96,Changzhi,Beijing,100016,IE,Facebook,/cancel,cancel
+2256106,,3,647cf267-45a6-4c7d-83c7-ed918dd47768,2025-01-06 07:35:00.000000 UTC,91.236.146.135,Chizhou,Beijing,100017,Firefox,Email,/cancel,cancel
+1467123,,3,3f6ce0f6-7165-4ac2-9f98-c4dbe36bd921,2023-07-23 02:08:00.000000 UTC,83.126.101.235,Huludao,Beijing,100018,Chrome,Facebook,/cancel,cancel
+1768780,,3,22c22375-e99a-4bbd-8cac-9bc94ce1dfb8,2023-11-23 09:52:00.000000 UTC,156.118.205.166,Huludao,Beijing,100018,Chrome,Email,/cancel,cancel
+2166966,,3,038f2556-982e-45ee-a7ab-7f6490c8c133,2020-06-11 05:54:00.000000 UTC,210.239.74.110,Huludao,Beijing,100018,Chrome,Email,/cancel,cancel
+1527005,,3,26346f7d-91d4-408d-8f48-c49ce2d7bc1c,2025-03-15 11:59:00.000000 UTC,61.109.81.225,New York,New York,10002,Chrome,Email,/cancel,cancel
+1972256,,3,793d6c14-544b-442f-b079-ae038696a79b,2022-06-16 01:34:00.000000 UTC,190.77.203.208,Weihai,Beijing,100020,Chrome,Email,/cancel,cancel
+1595761,,3,ec1fc65a-5899-4fb5-9f0e-44c781ce27e7,2019-06-01 17:13:00.000000 UTC,86.214.131.112,Weihai,Beijing,100020,Chrome,Adwords,/cancel,cancel
+1770343,,3,fc4e2581-d402-4d78-931c-f39db7e0a651,2025-04-13 16:14:00.000000 UTC,119.61.109.214,Weihai,Beijing,100020,Chrome,Email,/cancel,cancel
+1598706,,3,ed2e9db5-feae-434e-9afa-90b5958884aa,2019-05-19 02:30:00.000000 UTC,26.2.23.83,Weihai,Beijing,100020,Chrome,Email,/cancel,cancel
+2258668,,3,9b9b6c3e-fce7-443d-8fd0-c54e17e4076f,2022-01-08 11:31:00.000000 UTC,48.137.180.36,Weihai,Beijing,100020,Chrome,YouTube,/cancel,cancel
+1622584,,3,afbdc075-f411-4204-a0dc-b9bc79cf9a5f,2024-11-20 16:44:00.000000 UTC,4.31.71.60,Weihai,Beijing,100020,Chrome,Email,/cancel,cancel
+1568013,,3,4f96e9d6-ef4f-412f-ba82-82146b95c5b9,2022-07-04 07:31:00.000000 UTC,188.243.16.158,Weihai,Beijing,100020,Chrome,Adwords,/cancel,cancel
+1767981,,3,74fa6152-c9c3-48db-a7b3-1e03d876f7b8,2022-03-08 03:50:00.000000 UTC,10.15.245.128,Zhongshan,Beijing,100021,Chrome,Facebook,/cancel,cancel
+2318912,,3,faa62656-3a80-4d0b-bc39-98d4f500d303,2025-01-25 08:34:00.000000 UTC,106.57.97.106,Zhongshan,Beijing,100021,Chrome,Adwords,/cancel,cancel
+1633879,,3,8117ba31-2ddf-405c-8026-ba9ec18dc512,2020-04-02 16:28:00.000000 UTC,206.112.169.225,Zhongshan,Beijing,100021,IE,Email,/cancel,cancel
+1675621,,3,55af0b8a-1f4f-4741-a5e4-1abd7255437f,2024-10-23 10:15:00.000000 UTC,130.112.46.11,Tieling,Beijing,100023,Firefox,Email,/cancel,cancel
+2051306,,3,4637ee2f-0d0e-42fe-995c-9c93432e73d1,2025-05-01 06:44:00.000000 UTC,184.129.16.201,Tieling,Beijing,100023,Safari,Adwords,/cancel,cancel
+1623828,,3,f8f254d6-5aa2-4e58-8dea-024ba295fd2a,2022-04-30 12:15:00.000000 UTC,80.81.105.90,Tieling,Beijing,100023,Safari,Email,/cancel,cancel
+1345490,,3,cca693cd-c3c0-4fd8-a15c-b7e935f85597,2021-05-13 13:33:00.000000 UTC,60.159.242.205,Tieling,Beijing,100023,Safari,Email,/cancel,cancel
+1971783,,3,f4fae5b2-b9ca-4359-bc77-d83223e42301,2019-10-30 12:10:00.000000 UTC,101.180.244.121,Guiyang,Beijing,100025,Safari,Email,/cancel,cancel
+1570807,,3,6c3407e2-5d3a-4d74-b702-59e1c04ffd7a,2020-02-04 15:56:00.000000 UTC,5.104.130.43,Guiyang,Beijing,100025,Firefox,Facebook,/cancel,cancel
+1414278,,3,ba11ffc9-65f6-47d0-8cf8-76008ac85e58,2022-09-18 04:22:00.000000 UTC,146.102.121.111,Qingdao,Beijing,100026,Firefox,Email,/cancel,cancel
+1634734,,3,7ad41a97-0020-4d13-9799-a3e5c990802f,2023-10-02 15:32:00.000000 UTC,74.44.107.46,Beijing,Beijing,100028,Safari,Email,/cancel,cancel
+2109590,,3,af6cf3f6-1a60-40ca-9908-02b8003e8c5a,2021-06-02 16:14:00.000000 UTC,180.107.201.213,Beijing,Beijing,100028,Chrome,Email,/cancel,cancel
+2346219,,3,46f37eb6-eec1-44df-a7ce-54736841519a,2022-05-15 18:12:00.000000 UTC,7.122.46.168,Beijing,Beijing,100028,Chrome,Email,/cancel,cancel
+1720901,,3,de10b2c9-9750-40c2-ab07-5273878fa58a,2021-08-10 03:07:00.000000 UTC,52.65.97.33,Zhangzhou,Beijing,100029,Safari,Adwords,/cancel,cancel
+1709129,,3,05bf5cc5-3c58-43d3-b6c8-f89ce4f9443d,2019-12-21 08:23:00.000000 UTC,145.128.114.117,Qujing,Beijing,100032,Safari,Email,/cancel,cancel
+1425895,,3,89f16cd8-6156-44cc-910d-736eac2dddd5,2021-04-16 04:04:00.000000 UTC,205.35.73.43,Zhumadian,Beijing,100033,Firefox,Adwords,/cancel,cancel
+1909227,,3,10ab637a-5ccd-4ae8-8302-58415d8531f5,2023-04-11 14:14:00.000000 UTC,57.69.135.140,Foshan,Beijing,100035,Firefox,Email,/cancel,cancel
+2064255,,3,82da2891-56e7-4a29-9e3b-3237e72c28f3,2019-10-27 08:36:00.000000 UTC,151.173.126.157,Bayannre,Beijing,100039,Chrome,Email,/cancel,cancel
+2029930,,3,e40e3cbd-3731-45cf-8a95-5729185972a7,2024-06-02 05:37:00.000000 UTC,153.197.127.127,Cáceres,Extremadura,10004,Firefox,Adwords,/cancel,cancel
+1511147,,3,70770176-a10e-454f-ba02-74907f7b3f72,2022-09-21 09:20:00.000000 UTC,156.139.27.139,Guangzhou,Beijing,100040,Chrome,Adwords,/cancel,cancel
+1880329,,3,c955a3a9-8900-43a5-b9ac-e852e75697d1,2020-02-10 04:25:00.000000 UTC,82.67.40.235,Guangzhou,Beijing,100040,Safari,Email,/cancel,cancel
+1383375,,3,ec7da235-4b6b-4980-a3c7-8849935934df,2023-06-13 08:11:00.000000 UTC,100.12.118.95,Nanchang,Beijing,100041,Safari,Email,/cancel,cancel
+2380828,,3,285a4a7a-db38-4cce-9eec-0355c9bad652,2019-12-25 15:09:00.000000 UTC,68.239.36.177,Nanchang,Beijing,100041,Firefox,Email,/cancel,cancel
+1434911,,3,62897a9c-d2cc-4cfe-9756-22cb8e66052a,2024-10-23 17:12:00.000000 UTC,122.132.129.123,NanNing,Beijing,100043,Chrome,YouTube,/cancel,cancel
+2125015,,3,e0bbd69f-0087-4fb4-bfdb-51f140cca5b0,2022-11-16 18:34:00.000000 UTC,144.77.80.214,NanNing,Beijing,100043,Firefox,Facebook,/cancel,cancel
+1727882,,3,ca5e8ebe-5ec9-4fe6-acd6-fa0170e0452e,2019-09-03 09:54:00.000000 UTC,213.132.156.239,NanNing,Beijing,100043,Firefox,Email,/cancel,cancel
+1830706,,3,ad1c1af6-f195-4401-b294-466b311cabbb,2020-10-29 02:07:00.000000 UTC,154.247.194.230,NanNing,Beijing,100043,Other,Adwords,/cancel,cancel
+1784934,,3,c60b1a91-1173-4088-b9aa-d6493d140938,2022-09-26 04:04:00.000000 UTC,213.232.180.160,NanNing,Beijing,100043,IE,Email,/cancel,cancel
+2416431,,3,958e29fe-e36f-4641-9d54-55991cbe6b7c,2023-12-30 08:48:00.000000 UTC,13.213.202.50,NanNing,Beijing,100043,Chrome,Email,/cancel,cancel
+2116834,,3,b77f902b-fc18-457e-ba51-a3238269d4f2,2021-01-06 13:01:00.000000 UTC,175.231.162.60,NanNing,Beijing,100043,Chrome,YouTube,/cancel,cancel
+1457393,,3,47c13cb2-2805-4cc3-b787-a71e20c9487e,2024-09-18 09:38:00.000000 UTC,129.109.157.26,Pingxiang,Beijing,100053,Chrome,Email,/cancel,cancel
+2133824,,3,db79515c-94ea-4446-bb50-2d9d1adb419e,2019-01-19 10:43:00.000000 UTC,213.84.26.4,Beijing,Beijing,100054,Chrome,Email,/cancel,cancel
+1704403,,3,5a6d209c-99a8-49cd-a99a-3d01046d3965,2023-04-01 17:03:00.000000 UTC,98.64.10.224,Beijing,Beijing,100054,Chrome,Email,/cancel,cancel
+2220642,,3,225bb853-54d7-4421-a006-4928288c04e9,2025-04-09 09:37:00.000000 UTC,64.191.119.146,Beijing,Beijing,100054,Chrome,Email,/cancel,cancel
+2357815,,3,71bc5d06-6f89-4e86-8765-b1480c7965a6,2019-04-18 01:35:00.000000 UTC,204.111.19.9,Beijing,Beijing,100054,Chrome,YouTube,/cancel,cancel
+1642442,,3,8f5481bc-b77e-4658-baaf-107cf54642a3,2023-12-26 09:03:00.000000 UTC,173.80.239.159,Chaoyang,Beijing,100055,Safari,Facebook,/cancel,cancel
+1685024,,3,628d618f-ebb3-401f-b05d-52ac6d47d59f,2020-12-16 14:22:00.000000 UTC,74.143.227.181,Chaoyang,Beijing,100055,Firefox,Adwords,/cancel,cancel
+1502991,,3,4dbc3273-57b1-48bd-9cbd-56a385f48f58,2021-02-13 10:18:00.000000 UTC,36.0.8.103,Chaoyang,Beijing,100055,Firefox,Email,/cancel,cancel
+1905578,,3,32745a64-9608-4e80-9f69-ded9309d5815,2023-12-06 15:16:00.000000 UTC,137.235.46.241,Xiamen,Beijing,100061,Firefox,YouTube,/cancel,cancel
+1552289,,3,e73a7023-227d-41c2-a246-23a6b9c41f2e,2019-11-23 11:35:00.000000 UTC,39.21.141.122,Xiamen,Beijing,100061,Firefox,Email,/cancel,cancel
+1513113,,3,6a674e1d-6d0f-476e-8e11-afdb71a14ebd,2023-01-25 03:28:00.000000 UTC,42.143.122.249,Shanghai,Beijing,100062,Safari,Email,/cancel,cancel
+1929653,,3,29c40ba9-af7c-4fbb-ac20-8d21105fa009,2023-05-31 08:46:00.000000 UTC,114.56.2.133,Shanghai,Beijing,100062,Chrome,Adwords,/cancel,cancel
+1633844,,3,c08d9959-2b67-4fb0-a29a-0dd0e62dc992,2021-10-02 04:40:00.000000 UTC,50.41.66.120,Shanghai,Beijing,100068,Chrome,Adwords,/cancel,cancel
+1960336,,3,e5234866-3e9a-4073-81c1-a70910c8f061,2024-02-04 06:14:00.000000 UTC,132.244.213.8,Shanghai,Beijing,100068,Firefox,Email,/cancel,cancel
+2405017,,3,367828e1-2b9e-4874-9bff-feef098de7b6,2019-07-14 04:42:00.000000 UTC,99.44.219.198,Shanghai,Beijing,100068,Chrome,Facebook,/cancel,cancel
+1986066,,3,d4119fcd-2def-4f61-8bf2-24ee20e54965,2019-05-14 07:37:00.000000 UTC,124.212.100.158,Shanghai,Beijing,100068,Safari,Email,/cancel,cancel
+2271730,,3,dc55fe2c-0c0b-4b43-a47d-98f034d9811a,2020-07-06 17:26:00.000000 UTC,206.127.176.26,Shanghai,Beijing,100068,Chrome,Facebook,/cancel,cancel
+2002262,,3,0dee14b7-f552-4ba0-98a1-676d612094c6,2024-10-07 12:45:00.000000 UTC,10.16.228.8,Shanghai,Beijing,100068,Chrome,Email,/cancel,cancel
+2095346,,3,5f6b9b57-74e8-483f-9f7d-56130ebd7bde,2023-05-14 12:44:00.000000 UTC,30.212.183.128,Shanghai,Beijing,100070,Chrome,YouTube,/cancel,cancel
+2292381,,3,4a615e27-7a84-494a-8c4a-14281d4e8ff7,2024-12-17 18:24:00.000000 UTC,45.37.44.78,Shanghai,Beijing,100070,Chrome,Adwords,/cancel,cancel
+1924587,,3,282a4ae7-56fc-4e81-afad-9f1ff50ebb4d,2020-06-15 04:50:00.000000 UTC,3.226.177.40,Huaihua,Beijing,100073,Firefox,Email,/cancel,cancel
+2364729,,3,dce65416-02c6-44ce-89b0-69671f3d1c00,2024-04-25 03:41:00.000000 UTC,91.170.126.81,Huaihua,Beijing,100073,Safari,Adwords,/cancel,cancel
+1573662,,3,71237225-a694-45dc-aef8-e78fc4d40952,2022-07-04 06:02:00.000000 UTC,102.153.52.241,Huaihua,Beijing,100073,Chrome,Email,/cancel,cancel
+1702498,,3,5ff40a78-50d2-4a70-825d-ba4ce8729ac7,2024-02-17 03:14:00.000000 UTC,22.223.181.147,Huaihua,Beijing,100073,Chrome,Facebook,/cancel,cancel
+1323436,,3,fe2fcf03-6e00-4180-82e0-fb6b78dea2fa,2021-04-19 01:25:00.000000 UTC,41.206.225.129,Huaihua,Beijing,100073,Chrome,Adwords,/cancel,cancel
+2157531,,3,2315ceab-8e01-4a2b-8026-3821e3cb7a78,2021-09-09 13:51:00.000000 UTC,30.216.135.217,Huaihua,Beijing,100073,Firefox,Adwords,/cancel,cancel
+1659333,,3,ac492a01-8859-4aab-9436-ebbe471d4013,2023-11-21 06:24:00.000000 UTC,88.48.61.220,Shanghai,Beijing,100074,Firefox,Adwords,/cancel,cancel
+1879562,,3,7e103658-1721-44a2-8347-2a5cf2f95a06,2020-07-01 17:44:00.000000 UTC,117.51.227.187,Luoyang,Beijing,100075,Safari,Email,/cancel,cancel
+1609098,,3,a1635008-5da5-48a7-b011-ec64fad8604e,2022-10-20 01:35:00.000000 UTC,137.254.76.244,Luoyang,Beijing,100075,Firefox,Email,/cancel,cancel
+2022884,,3,6d09c451-c348-4dc0-a186-fb4f9e971ae6,2020-04-17 11:34:00.000000 UTC,36.192.185.96,Lan'Zhou,Beijing,100076,Firefox,Organic,/cancel,cancel
+1644126,,3,6f7b3d8c-4c5d-473f-a2cb-8e705524360c,2020-09-17 02:29:00.000000 UTC,174.222.158.41,Lan'Zhou,Beijing,100076,Other,Email,/cancel,cancel
+1360797,,3,0be7ed50-659e-49e0-a2bb-5285959c2aa5,2023-10-29 15:12:00.000000 UTC,42.142.108.202,Lan'Zhou,Beijing,100076,Firefox,Adwords,/cancel,cancel
+1355469,,3,101a65d5-3649-4343-8317-6a286a0f46b6,2023-06-24 12:57:00.000000 UTC,113.29.123.89,Lan'Zhou,Beijing,100076,Chrome,YouTube,/cancel,cancel
+1298774,,3,c19d559a-bbf7-40c4-92b3-53089972ea20,2024-07-11 06:32:00.000000 UTC,46.107.157.10,Lan'Zhou,Beijing,100076,Chrome,Organic,/cancel,cancel
+1974229,,3,ea3cd5fe-754d-4506-9ba4-80d950b29340,2020-12-07 13:34:00.000000 UTC,124.24.42.11,Zhongwei,Beijing,100079,Firefox,Adwords,/cancel,cancel
+2036434,,3,7455a27e-3720-4eff-adc3-be17ad11d9c2,2022-03-20 16:51:00.000000 UTC,203.101.159.234,Shanghai,Beijing,100081,Chrome,Email,/cancel,cancel
+2300551,,3,47956c97-b095-4370-8c23-4523bd0ef45c,2019-08-18 05:58:00.000000 UTC,54.154.29.13,Shanghai,Beijing,100081,Chrome,Adwords,/cancel,cancel
+1741561,,3,5146057c-d447-44f1-9664-50a6c3c07b34,2019-04-11 14:29:00.000000 UTC,78.248.108.195,Shanghai,Beijing,100081,Firefox,Email,/cancel,cancel
+1677922,,3,bfafddfc-cc9c-46da-9256-c0b35496e5c8,2021-06-22 15:39:00.000000 UTC,25.227.99.244,Shanghai,Beijing,100081,Firefox,Email,/cancel,cancel
+2040237,,3,0e6b5194-6880-4b31-99fa-746e3635f1ed,2020-07-10 18:29:00.000000 UTC,169.175.54.67,Shanghai,Beijing,100081,Chrome,Organic,/cancel,cancel
+2104262,,3,d0dd48fd-fce3-457a-9949-2dda6388b1ad,2024-04-25 16:25:00.000000 UTC,30.198.76.126,Shanghai,Beijing,100081,Safari,Email,/cancel,cancel
+2088443,,3,cb163ff2-9d63-4ac6-b80e-3cd7af3463b2,2019-04-26 02:45:00.000000 UTC,17.91.232.111,Beijing,Beijing,100082,Chrome,Adwords,/cancel,cancel
+2156855,,3,69addc29-1b46-478c-a216-96a4219e54b0,2022-02-22 14:36:00.000000 UTC,60.68.59.168,Beijing,Beijing,100082,Safari,Email,/cancel,cancel
+2342222,,3,7b2ba89a-3720-4970-9399-2c36028b520e,2022-07-26 16:37:00.000000 UTC,80.77.183.11,Taizhou,Beijing,100084,Safari,Email,/cancel,cancel
+2099961,,3,9ae8829d-75b0-4215-a2be-7e8551d81f41,2022-03-23 16:45:00.000000 UTC,190.217.25.17,Taizhou,Beijing,100084,Chrome,Facebook,/cancel,cancel
+2266748,,3,73cf0230-bc8c-4d1c-99b9-9f93ac2a817d,2019-10-29 15:40:00.000000 UTC,55.232.66.185,Taizhou,Beijing,100084,Chrome,Email,/cancel,cancel
+2363964,,3,5c74dc0f-d99b-4a4e-a5dc-7edac1b0ac78,2019-11-05 13:54:00.000000 UTC,128.244.224.243,Taizhou,Beijing,100084,Chrome,Email,/cancel,cancel
+2358937,,3,671d966f-efec-4f29-bd13-d0e20194b770,2023-01-11 07:58:00.000000 UTC,48.244.208.250,Suzhou,Beijing,100085,Firefox,YouTube,/cancel,cancel
+2089608,,3,95a629f8-470d-4512-a535-85f6b9168006,2023-07-02 08:12:00.000000 UTC,160.191.55.129,Suzhou,Beijing,100085,Chrome,Organic,/cancel,cancel
+2025516,,3,32c2b4f0-ec91-451e-956d-b913f15e9e98,2021-02-08 17:49:00.000000 UTC,20.207.21.199,Suzhou,Beijing,100085,IE,Adwords,/cancel,cancel
+1613539,,3,c921a508-74a8-481d-bd1a-d6c8b130888a,2023-06-25 19:24:00.000000 UTC,175.111.138.253,Suzhou,Beijing,100085,Safari,Email,/cancel,cancel
+1723240,,3,69c4bbdb-7d1c-4595-a6fe-156c186aa9c1,2024-03-19 06:33:00.000000 UTC,54.243.11.48,Zhongshan,Beijing,100086,Chrome,Email,/cancel,cancel
+2246584,,3,4dfeffab-34f4-455e-aca5-2240f73bd045,2024-06-13 11:05:00.000000 UTC,188.243.223.174,Zhongshan,Beijing,100086,Chrome,Adwords,/cancel,cancel
+2192823,,3,e3694919-edf9-4b65-9a12-67c73b6b4a7f,2023-04-24 01:04:00.000000 UTC,104.153.58.52,Zhongshan,Beijing,100086,Chrome,Email,/cancel,cancel
+2389773,,3,5678ad1c-934c-498d-baad-7fdb2eefb40d,2023-02-13 16:27:00.000000 UTC,49.251.3.154,Zhongshan,Beijing,100086,Chrome,Email,/cancel,cancel
+1900881,,3,ee721ecc-d811-45b0-87bb-56a4edb3d3a9,2019-09-11 09:02:00.000000 UTC,84.110.251.210,Zhongshan,Beijing,100086,Firefox,YouTube,/cancel,cancel
+1340525,,3,bf2cc8cc-5c3b-435d-8fba-a4b93fa7f5b7,2022-10-19 12:57:00.000000 UTC,158.252.242.42,Yiyang,Beijing,100088,Chrome,Email,/cancel,cancel
+1418685,,3,d8462fd0-e30a-4f0e-bc0d-a16811d29e66,2020-11-01 18:53:00.000000 UTC,47.121.69.185,Yiyang,Beijing,100088,Chrome,Facebook,/cancel,cancel
+1991729,,3,c58442f5-b33d-4f62-bc40-2ddc057c28d9,2024-10-15 15:28:00.000000 UTC,209.175.208.14,Yiyang,Beijing,100088,Chrome,YouTube,/cancel,cancel
+1945533,,3,4ca6efea-77a5-467a-861b-716081e04476,2019-01-07 05:34:00.000000 UTC,214.156.44.153,Jinzhong,Beijing,100089,Firefox,Email,/cancel,cancel
+1503529,,3,745a8735-1d17-47fb-8b02-fa15c56ca76a,2024-02-23 13:13:00.000000 UTC,28.27.51.47,New York,New York,10009,Chrome,Facebook,/cancel,cancel
+2009128,,3,3bec43c6-cf69-4b33-8343-9641ec73911e,2023-06-14 19:12:00.000000 UTC,10.86.99.2,New York,New York,10009,Chrome,Email,/cancel,cancel
+2323234,,3,2c30c352-e5b4-45f2-bcc5-aae1d7668470,2023-07-09 00:52:00.000000 UTC,103.11.248.145,Xingtai,Beijing,100091,Safari,Adwords,/cancel,cancel
+1341987,,3,8a2cf4d8-67f8-4a96-87c9-2b9bd8e45f09,2020-07-03 02:25:00.000000 UTC,128.115.149.193,Xingtai,Beijing,100091,Chrome,Adwords,/cancel,cancel
+2374746,,3,95987bc4-1522-4da6-a59e-f1dbeff08c8b,2021-05-04 09:32:00.000000 UTC,58.47.172.216,Luoyang,Beijing,100093,Chrome,Email,/cancel,cancel
+1773412,,3,94a6fb7d-8515-42fc-81ca-39acde5ac772,2019-07-08 17:43:00.000000 UTC,123.201.222.155,Luoyang,Beijing,100093,Chrome,Adwords,/cancel,cancel
+2158469,,3,d1a50fa6-5a17-40e7-8618-b6c660749d1d,2019-04-19 12:43:00.000000 UTC,6.217.132.253,Luoyang,Beijing,100093,Safari,Facebook,/cancel,cancel
+1340998,,3,28a58b2d-71ae-4124-8626-d794e8483eb0,2024-12-19 12:15:00.000000 UTC,152.182.110.241,Luoyang,Beijing,100093,IE,Email,/cancel,cancel
+2112969,,3,689c2d3c-f5d1-401b-8784-0e20cad41d61,2021-07-09 14:08:00.000000 UTC,80.23.21.12,Luoyang,Beijing,100093,Chrome,Email,/cancel,cancel
+1557782,,3,7e74a088-3bd5-4a4a-a1ad-e19887383f4a,2020-05-07 19:05:00.000000 UTC,142.81.26.26,Dongguan,Beijing,100097,Chrome,Facebook,/cancel,cancel
+1352042,,3,49db0eda-744a-48ed-800e-a2da9f8d0db5,2020-07-11 06:20:00.000000 UTC,77.6.239.22,Dongguan,Beijing,100097,Chrome,Email,/cancel,cancel
+2389004,,3,e997707f-9a1a-4935-9955-192f1b2f3b49,2024-03-28 17:50:00.000000 UTC,126.203.158.135,Shanghai,Beijing,100101,Other,Email,/cancel,cancel
+1875963,,3,7d6ec74b-a5fc-4ad9-b46e-feb1c3354c83,2020-10-25 17:29:00.000000 UTC,115.193.83.18,Shanghai,Beijing,100101,Firefox,Adwords,/cancel,cancel
+1436570,,3,d37ff001-ad60-4080-8587-b4af486f4db2,2023-12-08 00:32:00.000000 UTC,215.36.186.85,Zhengzhou,Beijing,100102,Chrome,Organic,/cancel,cancel
+1431567,,3,c31be60a-8c13-45ff-a0dd-dce7fe0b3b06,2024-04-14 15:27:00.000000 UTC,32.56.238.135,Zhengzhou,Beijing,100102,IE,Email,/cancel,cancel
+1777723,,3,e9ae5d10-712f-4962-9820-4bd175048e3f,2019-04-02 03:37:00.000000 UTC,128.143.115.11,Zhengzhou,Beijing,100102,Chrome,YouTube,/cancel,cancel
+2281072,,3,56cae351-e06b-4724-a64a-3779ac4dc682,2019-05-28 16:43:00.000000 UTC,18.195.150.249,Suzhou,Beijing,100107,Chrome,Email,/cancel,cancel
+2400381,,3,a2eb8171-c1c5-41f5-9018-85625357d15b,2025-05-15 04:51:00.000000 UTC,85.92.20.174,Suzhou,Beijing,100107,Firefox,Email,/cancel,cancel
+2092848,,3,4dc8e471-d5f6-42cb-8df8-43765b7ae231,2024-10-26 00:51:00.000000 UTC,25.30.40.180,New York,New York,10011,Chrome,Adwords,/cancel,cancel
+1467603,,3,15370948-cd45-4af1-aeb6-186091f138c0,2025-01-18 01:36:00.000000 UTC,60.69.255.160,Beijing,Inner Mongolia Autonomous Region,10011,Firefox,Adwords,/cancel,cancel
+1482272,,3,3dcb7fca-abe3-4b8a-9a56-30a09faa09a4,2024-09-08 17:07:00.000000 UTC,156.183.12.111,New York,New York,10012,Safari,Email,/cancel,cancel
+1326135,,3,4b02f726-d3c4-465f-b72b-d9e84f221ccd,2024-11-18 08:42:00.000000 UTC,152.108.129.199,Ziyang,Beijing,100120,Chrome,Facebook,/cancel,cancel
+1826298,,3,b3013279-f2c8-4b90-a502-6a839508bb46,2024-11-03 17:42:00.000000 UTC,192.5.79.98,Ziyang,Beijing,100120,Safari,Email,/cancel,cancel
+2398481,,3,45cf43b0-4c34-4e45-bcc1-eb90d98319c5,2019-01-04 19:29:00.000000 UTC,173.147.78.195,Beijing,Beijing,100122,Chrome,YouTube,/cancel,cancel
+2003780,,3,34e97583-38b1-4959-bc2f-b20f42720ca1,2023-03-20 18:54:00.000000 UTC,109.105.213.85,Beijing,Beijing,100122,Chrome,Adwords,/cancel,cancel
+2270252,,3,32154ff6-2607-459e-85c6-e377750d4e36,2023-03-17 18:58:00.000000 UTC,184.252.176.71,Beijing,Beijing,100122,Chrome,Adwords,/cancel,cancel
+1850976,,3,0baeddc4-22a1-49cb-a885-43470d22a98e,2022-07-10 13:22:00.000000 UTC,65.226.89.179,Shaoxing,Beijing,100123,Chrome,Email,/cancel,cancel
+1409442,,3,69b57145-f3a0-4a8f-8911-9d62517ec99f,2019-12-03 12:20:00.000000 UTC,168.55.75.203,Shaoxing,Beijing,100123,Chrome,Email,/cancel,cancel
+2172193,,3,f4a8dfc2-9e10-44d0-b2f0-295baf42fc9a,2025-02-04 01:37:00.000000 UTC,67.236.101.44,Beijing,Beijing,100141,Chrome,Organic,/cancel,cancel
+1682189,,3,e891440c-dcf1-4fc7-a92e-aca95583b906,2021-09-19 14:58:00.000000 UTC,192.237.129.114,NanNing,Beijing,100144,Safari,Facebook,/cancel,cancel
+2050362,,3,b061f07b-3602-4d0c-8401-3781ce7ed091,2024-03-20 19:29:00.000000 UTC,113.203.30.51,NanNing,Beijing,100144,Chrome,Email,/cancel,cancel
+2191480,,3,f52968bd-f578-45ee-90ea-c94b853629be,2023-06-27 12:38:00.000000 UTC,31.209.44.63,Dandong,Beijing,100161,Other,Facebook,/cancel,cancel
+1798709,,3,c4aaa04f-fb57-46de-bfb2-30c71cf3b480,2023-01-05 19:21:00.000000 UTC,98.198.12.135,Qingdao,Beijing,100164,Safari,Email,/cancel,cancel
+1341928,,3,b290bbaf-60d6-4da1-b06f-e862ced9cd1c,2023-07-23 09:00:00.000000 UTC,50.31.30.114,Huaian,Beijing,100165,Chrome,Adwords,/cancel,cancel
+1645512,,3,d8f0bb28-e066-499c-9237-5907a1d65e1f,2020-11-09 11:39:00.000000 UTC,100.208.231.167,Urumqi,Beijing,100166,Safari,YouTube,/cancel,cancel
+1723060,,3,3b81c4ea-dfb6-4bd0-91d3-83775ee23fcc,2023-05-29 02:05:00.000000 UTC,63.139.151.20,Urumqi,Beijing,100190,Safari,Email,/cancel,cancel
+2331587,,3,fa8e3fa7-4add-482d-ad75-874a5fcda715,2020-03-12 03:59:00.000000 UTC,101.243.189.190,Urumqi,Beijing,100190,Chrome,Email,/cancel,cancel
+2287767,,3,96fda627-7ed2-49bb-9892-af01b5763824,2024-01-21 13:02:00.000000 UTC,219.178.248.4,Urumqi,Beijing,100190,Chrome,Email,/cancel,cancel
+2207732,,3,515a01cf-17ee-431d-9f03-cee0b46f27f4,2022-09-01 06:27:00.000000 UTC,213.229.103.10,Harbin,Beijing,100193,Safari,YouTube,/cancel,cancel
+2105167,,3,4bf7d410-1dd7-4baf-8fd8-9569da9b06cc,2019-07-19 19:25:00.000000 UTC,91.187.239.127,Harbin,Beijing,100193,Safari,Adwords,/cancel,cancel
+1526748,,3,908053ad-3b9d-473f-b441-9b756481676c,2022-10-03 05:02:00.000000 UTC,27.139.20.210,Harbin,Beijing,100193,IE,Organic,/cancel,cancel
+1844468,,3,709b57a5-ac31-4d39-922a-79f673411a18,2020-02-03 12:08:00.000000 UTC,44.108.134.9,Harbin,Beijing,100193,Firefox,Email,/cancel,cancel
+2017155,,3,3875feb7-ba9f-438d-832f-3f83e1d839ef,2021-02-16 10:33:00.000000 UTC,86.78.213.124,Harbin,Beijing,100193,Chrome,Adwords,/cancel,cancel
+1811621,,3,ed50c055-026e-4458-8f6b-3666bca47a15,2021-03-09 07:47:00.000000 UTC,72.211.204.225,Xingtai,Beijing,100194,Chrome,Facebook,/cancel,cancel
+2282562,,3,b59b5f7e-f030-47aa-8849-85d192e81dce,2019-01-17 09:09:00.000000 UTC,193.86.85.226,Amherst,Massachusetts,1002,IE,Adwords,/cancel,cancel
+1694558,,3,2edd8538-e508-4eaa-a70e-e076049957e9,2019-03-08 14:28:00.000000 UTC,57.0.228.62,Amherst,Massachusetts,1002,Safari,YouTube,/cancel,cancel
+1375949,,3,6fa7c4fc-c23e-407b-8f10-fde7c1da7443,2019-01-05 02:41:00.000000 UTC,117.45.77.88,Baotou,Inner Mongolia Autonomous Region,10020,Safari,Email,/cancel,cancel
+2264293,,3,74ee6de1-fd98-4917-86eb-dcb42aaed81e,2024-03-14 09:32:00.000000 UTC,126.232.15.65,Baotou,Inner Mongolia Autonomous Region,10020,Chrome,YouTube,/cancel,cancel
+1667857,,3,d550e9e8-0ee4-4dfc-bf52-ba41a0f8a4d3,2020-05-04 19:14:00.000000 UTC,39.234.162.201,Baotou,Inner Mongolia Autonomous Region,10020,Chrome,Email,/cancel,cancel
+1532793,,3,945f0ffa-b8d1-4419-8969-d202cc3cf6fd,2022-06-29 17:23:00.000000 UTC,84.127.144.194,Baotou,Inner Mongolia Autonomous Region,10020,Chrome,Email,/cancel,cancel
+1591756,,3,f2a66762-c796-4e54-8716-7bc7387e205a,2021-01-13 11:02:00.000000 UTC,45.169.203.237,New York,New York,10025,Chrome,Facebook,/cancel,cancel
+2382291,,3,1538e9f4-6436-406d-8f06-4a914f5287b6,2020-05-07 17:39:00.000000 UTC,107.186.105.172,New York,New York,10026,Firefox,Adwords,/cancel,cancel
+2400456,,3,c3d8a948-89d2-465f-8816-4d1a272c0693,2021-09-02 18:24:00.000000 UTC,136.85.181.186,New York,New York,10026,Firefox,YouTube,/cancel,cancel
+1470784,,3,2dbcb4a3-b2c0-4a8d-ac05-953675afd154,2020-06-26 10:26:00.000000 UTC,139.22.187.25,New York,New York,10027,Chrome,Adwords,/cancel,cancel
+2009471,,3,9d4cf074-d864-4dbe-b62e-8fdb01d52b38,2021-10-05 07:08:00.000000 UTC,40.161.99.117,Shanghai,Inner Mongolia Autonomous Region,10030,Safari,Facebook,/cancel,cancel
+1782462,,3,06f06179-61e8-4f4e-93ac-94f63c129dd7,2024-02-11 18:45:00.000000 UTC,123.123.39.36,Shenzhen,Inner Mongolia Autonomous Region,10031,Chrome,YouTube,/cancel,cancel
+2299077,,3,6988bad9-9f71-499a-8bfe-06cc3c56e7d2,2024-10-30 09:41:00.000000 UTC,179.144.63.33,New York,New York,10032,Firefox,Email,/cancel,cancel
+1819917,,3,1ccb5f86-7139-4076-bcb9-38cac6ed3ac0,2024-08-03 17:23:00.000000 UTC,61.183.175.192,Tianjin,Inner Mongolia Autonomous Region,10050,Safari,Email,/cancel,cancel
+1779711,,3,3ac902bd-71f0-4e91-b977-5f81ab72026c,2025-04-24 11:10:00.000000 UTC,24.215.28.222,Fuzhou,Inner Mongolia Autonomous Region,10051,Firefox,Email,/cancel,cancel
+1915930,,3,1f28d121-e557-4d01-9f30-ed3a780236eb,2019-07-21 11:29:00.000000 UTC,162.98.63.174,Fuzhou,Inner Mongolia Autonomous Region,10051,Chrome,Email,/cancel,cancel
+1597218,,3,d60a17a1-d994-452a-8aa8-5fe771df79f0,2020-02-05 11:13:00.000000 UTC,189.165.109.170,Fuzhou,Inner Mongolia Autonomous Region,10051,IE,Facebook,/cancel,cancel
+1302003,,3,1814b6ac-ef03-4b24-a1be-9f30d447d92b,2023-11-02 14:53:00.000000 UTC,64.34.105.48,Fuzhou,Inner Mongolia Autonomous Region,10051,Firefox,Adwords,/cancel,cancel
+2110728,,3,e572f79e-a80a-4014-9aa0-6561f7b8e71a,2020-03-01 05:09:00.000000 UTC,194.54.126.190,Beijing,Inner Mongolia Autonomous Region,10060,Safari,Adwords,/cancel,cancel
+2297670,,3,d91c690a-daa6-4495-bef6-a95c3e96f857,2020-01-31 17:25:00.000000 UTC,128.190.168.232,New York,New York,10065,Safari,Adwords,/cancel,cancel
+1525861,,3,b7b691d1-af21-4192-941c-b49ef7e36a4b,2022-11-05 01:43:00.000000 UTC,148.33.102.63,Anqing,Beijing,101111,Chrome,Adwords,/cancel,cancel
+2081803,,3,a5b492e3-37ba-4816-bebe-2139a1df5f27,2024-02-10 16:48:00.000000 UTC,32.95.165.143,Anqing,Beijing,101111,Safari,Adwords,/cancel,cancel
+1584146,,3,0cf9c028-48f0-4c45-91ba-69c348bf2ebc,2023-11-27 07:57:00.000000 UTC,146.212.249.134,Zhongshan,Beijing,101125,Firefox,Email,/cancel,cancel
+1937042,,3,befcbd41-f8a7-4cee-adbe-3b11b9e6bccb,2022-02-02 17:46:00.000000 UTC,43.186.133.44,Berlin,Berlin,10117,Chrome,YouTube,/cancel,cancel
+1465345,,3,3b62bf91-62c5-407c-8094-0dba360d9fb2,2021-04-07 11:40:00.000000 UTC,179.8.85.235,Berlin,Berlin,10117,Chrome,Email,/cancel,cancel
+1568343,,3,214f5058-62a8-4706-b505-52ddcfa05d82,2025-05-26 04:02:00.000000 UTC,27.138.68.130,Handan,Beijing,101213,Firefox,Adwords,/cancel,cancel
+1592801,,3,489a92c3-d61a-4a76-b0ff-fd61f33e0d17,2021-03-08 03:09:00.000000 UTC,194.31.239.213,Handan,Beijing,101213,Chrome,Facebook,/cancel,cancel
+1483126,,3,5ab9df39-f8f3-4d08-9979-4dca08bf1373,2024-08-12 18:20:00.000000 UTC,96.189.146.18,Baoding,Beijing,101320,Safari,Adwords,/cancel,cancel
+2210396,,3,d7bdd46d-a253-4c2a-a7ae-8f456c1161d4,2019-01-23 18:52:00.000000 UTC,208.129.52.83,Baoding,Beijing,101320,Safari,Email,/cancel,cancel
+1606939,,3,4df41a6d-dc97-4397-b097-41a0f39a1fc6,2021-03-22 14:28:00.000000 UTC,213.108.124.239,Baoding,Beijing,101320,Chrome,Email,/cancel,cancel
+1640128,,3,f6f87c74-d8ad-4409-91b0-a08048c5eace,2022-09-30 14:17:00.000000 UTC,70.237.143.152,Baoding,Beijing,101320,Chrome,Email,/cancel,cancel
+2138172,,3,2b16ab9c-8485-4f47-ad02-c4b7922e29a0,2021-02-11 18:09:00.000000 UTC,119.183.254.27,Baoding,Beijing,101320,Chrome,Adwords,/cancel,cancel
+1408266,,3,728ee9eb-32ba-44f5-97a6-a81723e2dacf,2024-01-08 19:35:00.000000 UTC,98.89.194.234,Baoding,Beijing,101320,Firefox,Email,/cancel,cancel
+2284062,,3,971eb4ee-84eb-484d-85eb-d37147d55eec,2021-11-29 03:05:00.000000 UTC,100.141.140.129,Shanghai,Beijing,101401,Chrome,YouTube,/cancel,cancel
+2343421,,3,7fc633cb-fe01-43c7-80e0-7263b87c811d,2024-01-09 10:22:00.000000 UTC,83.243.145.30,Vitoria-Gasteiz,País Vasco,1015,Chrome,Email,/cancel,cancel
+2035806,,3,77115855-cd4e-4d61-9284-48ffa1897bdf,2021-12-23 04:44:00.000000 UTC,130.110.224.164,Shanghai,Beijing,101509,IE,Email,/cancel,cancel
+1521829,,3,c906d867-093b-48d9-b853-99acd9cae584,2024-06-06 16:15:00.000000 UTC,27.190.77.246,Shanghai,Beijing,101509,Chrome,Email,/cancel,cancel
+1393047,,3,07de940a-bb92-47ed-ac54-e6b8733270ec,2021-12-15 05:50:00.000000 UTC,120.203.187.119,Shanghai,Beijing,101509,Chrome,Adwords,/cancel,cancel
+1844439,,3,2b717f0c-fa0f-4b1a-ab52-8c505c77e3c9,2025-04-25 12:07:00.000000 UTC,185.249.231.207,Shanghai,Beijing,101509,Other,Email,/cancel,cancel
+1391826,,3,b80dbde5-1d74-4193-877e-16cb0d369f25,2023-06-27 14:49:00.000000 UTC,179.52.173.26,Chicopee,Massachusetts,1020,Firefox,Adwords,/cancel,cancel
+2225314,,3,41f8edda-30e0-4e5d-ae79-ace85271aaea,2022-12-26 13:28:00.000000 UTC,65.246.106.30,Chicopee,Massachusetts,1020,Firefox,YouTube,/cancel,cancel
+1567405,,3,2f524aba-4ac1-4164-9ffa-f44cb1d8c7a1,2023-08-24 07:34:00.000000 UTC,133.221.200.53,Yingkou,Beijing,102200,Chrome,Adwords,/cancel,cancel
+2081080,,3,c2180603-b31b-43d3-b2f7-17da86bb3351,2021-07-23 16:13:00.000000 UTC,211.158.141.121,Yingkou,Beijing,102200,Chrome,YouTube,/cancel,cancel
+1677297,,3,bdacd8d2-75f9-49ce-b0f3-e2c29c671e8a,2024-09-03 01:27:00.000000 UTC,38.27.187.47,Yingkou,Beijing,102200,Chrome,YouTube,/cancel,cancel
+1948551,,3,292d2351-4b6b-4d27-ba6c-bb09f2d9c2fa,2021-11-09 11:48:00.000000 UTC,128.97.78.243,Handan,Beijing,102206,Chrome,Adwords,/cancel,cancel
+2418906,,3,fc0f15f7-33ea-4759-97b9-e6a3faf80acc,2019-12-25 05:09:00.000000 UTC,44.142.166.180,Handan,Beijing,102206,Firefox,Email,/cancel,cancel
+2315020,,3,059c00b7-4f9f-43c9-be7d-78b3cb93709c,2025-04-25 19:27:00.000000 UTC,82.228.216.1,Handan,Beijing,102206,Safari,Email,/cancel,cancel
+2084932,,3,f54d1f72-c770-4f4e-a33e-0b821627a274,2023-10-09 13:03:00.000000 UTC,54.84.117.117,Wenzhou,Beijing,102208,Chrome,Adwords,/cancel,cancel
+2398286,,3,41645235-a082-4b8f-aaec-3c80a1901c94,2024-05-22 08:59:00.000000 UTC,143.235.89.16,Wenzhou,Beijing,102208,Firefox,Email,/cancel,cancel
+1657881,,3,8778d126-1a09-4b12-86c4-2fd8ff8c32d5,2022-05-08 08:34:00.000000 UTC,159.130.113.254,Wenzhou,Beijing,102208,Chrome,Email,/cancel,cancel
+1961949,,3,9d6d2180-4d98-47bd-941d-8f3b52d08276,2024-06-30 07:05:00.000000 UTC,101.122.65.11,Wenzhou,Beijing,102208,Safari,Email,/cancel,cancel
+1575462,,3,e06dbd12-562f-4a5c-bbb6-28571d501f8f,2020-11-13 02:21:00.000000 UTC,141.233.57.145,Wenzhou,Beijing,102208,Chrome,Adwords,/cancel,cancel
+1679842,,3,442b39e2-b054-4245-9a03-9e930bd3310e,2019-05-07 17:25:00.000000 UTC,51.95.16.62,Wenzhou,Beijing,102208,Chrome,Adwords,/cancel,cancel
+1560941,,3,c0e30427-e700-494b-bd64-eb13e07c278e,2022-06-01 03:14:00.000000 UTC,40.124.163.11,Wenzhou,Beijing,102208,Firefox,Email,/cancel,cancel
+1686304,,3,45541234-dec2-4d6d-a6da-d13cdce41c40,2020-04-13 19:23:00.000000 UTC,204.130.103.253,Hengshui,Beijing,102209,Chrome,Email,/cancel,cancel
+1376465,,3,82c36910-5754-47a0-af54-50fe00e725cf,2023-04-29 06:33:00.000000 UTC,149.134.13.97,Hengshui,Beijing,102209,Chrome,Facebook,/cancel,cancel
+2055231,,3,8c8ac1c0-7b94-48a5-aae5-e68fafc12b67,2019-07-09 10:08:00.000000 UTC,118.184.138.40,Hengshui,Beijing,102209,Safari,Facebook,/cancel,cancel
+2304291,,3,0e39d8ff-d191-4aac-9969-2cf9a2dafb00,2023-11-04 12:56:00.000000 UTC,46.197.154.23,Suzhou,Beijing,102218,Chrome,Email,/cancel,cancel
+2014608,,3,bd4050e3-2747-4473-8fe6-95c7c5666d38,2024-12-27 11:43:00.000000 UTC,104.106.99.14,Xuancheng,Beijing,102299,Firefox,Adwords,/cancel,cancel
+1867204,,3,276ff01b-e630-4f59-ad05-505d2d237911,2020-01-05 01:20:00.000000 UTC,7.23.125.66,Xuancheng,Beijing,102299,Firefox,Adwords,/cancel,cancel
+2048114,,3,9b082bfe-5d72-488b-8a5d-86688de4686a,2024-10-25 12:47:00.000000 UTC,55.11.131.91,Loudi,Beijing,102401,Safari,Adwords,/cancel,cancel
+2215059,,3,a728cd09-1ee9-43b8-8a55-d30c94acac18,2020-05-27 19:09:00.000000 UTC,140.247.2.226,Nanjing,Beijing,102612,Firefox,Email,/cancel,cancel
+2162928,,3,38d5fba1-7451-4624-83f9-9ac00e9ee7a1,2023-05-13 15:58:00.000000 UTC,45.92.84.180,Nanjing,Beijing,102612,Safari,Email,/cancel,cancel
+1437968,,3,bf046060-d976-4b12-918e-f55618a3b7ba,2022-09-02 11:32:00.000000 UTC,100.60.244.127,Nanjing,Beijing,102612,Chrome,Facebook,/cancel,cancel
+1815936,,3,1e38d950-e862-49bd-b731-8c56b61e8f71,2021-04-29 10:23:00.000000 UTC,125.7.230.51,Hami,Beijing,102628,IE,Adwords,/cancel,cancel
+2109638,,3,590ce45a-d8ad-4192-a748-aa8ea6fa2985,2022-09-18 06:49:00.000000 UTC,111.3.121.25,Hami,Beijing,102628,Firefox,Email,/cancel,cancel
+1656901,,3,dc6fb077-5774-4318-8001-1dd3ae25ed56,2023-04-23 18:28:00.000000 UTC,11.248.186.14,Hami,Beijing,102628,Chrome,YouTube,/cancel,cancel
+1572733,,3,85aadbf3-fd84-4a9f-9540-768ee428d9e3,2025-01-11 13:00:00.000000 UTC,88.30.37.133,Suzhou,Beijing,102676,Chrome,Adwords,/cancel,cancel
+2118638,,3,dc7e9479-6013-4195-a944-e2d526658454,2023-09-03 04:22:00.000000 UTC,185.105.221.158,Suzhou,Beijing,102676,Chrome,Email,/cancel,cancel
+2148564,,3,69f6d320-9f7e-4a94-b89a-56fe49d34d89,2025-06-17 06:59:00.000000 UTC,188.19.207.39,Suzhou,Beijing,102676,Firefox,Adwords,/cancel,cancel
+2017670,,3,494cb49c-ba44-40e4-ac97-4d37f56cef37,2022-04-17 05:41:00.000000 UTC,199.188.225.123,Suzhou,Beijing,102676,Firefox,Adwords,/cancel,cancel
+1366545,,3,0f1fae67-f42f-44de-a29b-91c87a6e3130,2019-09-03 18:22:00.000000 UTC,88.42.78.160,Suzhou,Beijing,102676,Chrome,Adwords,/cancel,cancel
+1701828,,3,37cd5513-4612-48d6-9a09-05430d136760,2024-05-03 14:03:00.000000 UTC,42.227.213.216,Suzhou,Beijing,102676,Firefox,Adwords,/cancel,cancel
+1546775,,3,5c105b25-34c7-4d44-8b4d-070f94f1fa3b,2023-09-17 07:23:00.000000 UTC,67.224.116.46,Beijing,Beijing,102699,Chrome,Facebook,/cancel,cancel
+2261607,,3,128cb76e-42a4-4832-9d9b-0cc24d9c8f3c,2023-01-11 07:17:00.000000 UTC,153.64.67.255,Schaerbeek,Brussels,1030,Chrome,Email,/cancel,cancel
+1736860,,3,6f54f82b-5ffd-461f-869e-fae56ca332a9,2023-04-01 01:59:00.000000 UTC,114.219.8.86,Schaerbeek,Brussels,1030,Chrome,Email,/cancel,cancel
+1864517,,3,e7490c9a-9e57-48ce-ae85-d51879dd4257,2023-12-02 10:42:00.000000 UTC,142.35.235.126,Schaerbeek,Brussels,1030,Chrome,YouTube,/cancel,cancel
+1675833,,3,0b3e966b-40cb-4093-924d-7365b2b1d56b,2021-12-11 10:14:00.000000 UTC,60.72.14.56,New York,New York,10305,Chrome,Email,/cancel,cancel
+1301750,,3,7d3771dc-ad69-46be-9410-84f7ff4c465f,2024-05-11 17:33:00.000000 UTC,46.38.211.152,New York,New York,10306,Safari,Facebook,/cancel,cancel
+1812715,,3,4ae58257-e949-4e55-9a6a-012119327205,2022-01-03 04:01:00.000000 UTC,183.198.33.205,New York,New York,10309,Safari,Adwords,/cancel,cancel
+1755768,,3,13af5d56-5d74-4560-9b41-d181e2bdf625,2024-05-03 17:04:00.000000 UTC,195.241.112.167,New York,New York,10312,Chrome,Facebook,/cancel,cancel
+2122861,,3,064a4334-21bf-4e5d-b282-53309565a401,2020-03-30 13:22:00.000000 UTC,123.164.203.206,Berlin,Berlin,10365,Firefox,Adwords,/cancel,cancel
+2243638,,3,e90b7722-bb36-47d7-8e8f-7aa52b7e9f23,2021-03-12 06:22:00.000000 UTC,123.243.179.254,New York,New York,10453,Chrome,YouTube,/cancel,cancel
+1503331,,3,55f40ee1-ea0a-417f-b122-681fe3f3417a,2020-06-06 14:28:00.000000 UTC,28.227.252.10,New York,New York,10457,Chrome,YouTube,/cancel,cancel
+1707609,,3,35232eb1-1a51-4c9c-8ea9-e59b62fcda53,2024-04-17 09:51:00.000000 UTC,114.190.223.148,New York,New York,10457,Firefox,Email,/cancel,cancel
+1727214,,3,3c285755-bc11-4a83-899e-965f22ce69da,2024-01-01 10:52:00.000000 UTC,158.215.75.81,New York,New York,10458,IE,Adwords,/cancel,cancel
+1938865,,3,46a1872a-1210-4170-bb5d-8df6412d619b,2019-10-13 13:55:00.000000 UTC,13.246.243.196,New York,New York,10458,Safari,YouTube,/cancel,cancel
+1741571,,3,cd33ec68-2cc7-48e3-902e-0d663d173dcd,2019-03-21 05:06:00.000000 UTC,45.144.217.104,New York,New York,10462,Chrome,YouTube,/cancel,cancel
+2273704,,3,648838be-3793-412e-84ab-a95669f5a9e8,2019-06-29 18:39:00.000000 UTC,50.30.232.136,New York,New York,10465,Chrome,YouTube,/cancel,cancel
+2251578,,3,f4b2a969-fa26-42f6-9e87-29282d36822a,2025-02-09 03:51:00.000000 UTC,63.233.25.223,New York,New York,10469,Safari,Facebook,/cancel,cancel
+2067709,,3,a0ac7f9e-5299-42fb-a4de-7d2e76d47c00,2022-09-11 03:12:00.000000 UTC,54.254.165.41,New York,New York,10471,Firefox,Email,/cancel,cancel
+1987646,,3,1ce08d27-337a-410e-a039-30b177098e12,2023-10-27 08:12:00.000000 UTC,147.146.179.183,New York,New York,10472,Firefox,Organic,/cancel,cancel
+1685894,,3,16cdf3b7-09df-41d7-ac75-29f288f4f1e5,2022-09-20 02:01:00.000000 UTC,150.49.67.210,Ixelles,Brussels,1050,Firefox,Email,/cancel,cancel
+2165764,,3,bf334bd8-6f41-462b-b6be-dadec1298566,2025-01-01 16:33:00.000000 UTC,87.36.178.158,Ixelles,Brussels,1050,Firefox,Email,/cancel,cancel
+1478650,,3,8332e3ff-be0f-4d80-8583-47e0e2aabd29,2023-11-03 11:45:00.000000 UTC,139.186.243.186,Beijing,Remote territory,10500,Safari,YouTube,/cancel,cancel
+1507979,,3,3d863fa6-ec61-493e-8c56-d831d6bc8fb7,2023-03-06 10:28:00.000000 UTC,87.208.85.248,Carmel Hamlet,New York,10512,Chrome,Email,/cancel,cancel
+1516725,,3,4ad35aa0-49d1-4be9-97c9-adffb394c3d5,2024-09-13 15:28:00.000000 UTC,200.107.72.226,Mahopac,New York,10541,Other,YouTube,/cancel,cancel
+1836326,,3,3c6336f4-496f-4f5a-97c4-1641af9f0d38,2020-12-25 13:58:00.000000 UTC,126.28.54.52,Rye Brook,New York,10573,Safari,Adwords,/cancel,cancel
+1660701,,3,80fa982e-a4a3-4eb2-8d56-2137e337f759,2021-10-09 16:26:00.000000 UTC,135.5.176.97,Scarsdale,New York,10583,Chrome,Facebook,/cancel,cancel
+1498413,,3,013548f6-5e09-4e99-b92c-01c12c751a9c,2023-11-03 18:48:00.000000 UTC,1.244.64.24,Tokyo,Tokyo,106-0032,Safari,Email,/cancel,cancel
+1883180,,3,fddf5e0b-974a-48a0-9942-d8c27772d0a3,2022-03-28 19:23:00.000000 UTC,115.152.30.165,Tokyo,Tokyo,106-0047,Safari,Facebook,/cancel,cancel
+2382894,,3,6d06efab-e4c3-412a-b1a8-9c0cbb457a05,2023-01-24 12:36:00.000000 UTC,209.83.20.218,Saint-Gilles,Brussels,1060,Firefox,Email,/cancel,cancel
+1692870,,3,ea5fc50a-4152-4f9b-80d2-60998fcca641,2019-08-02 03:19:00.000000 UTC,170.211.132.34,Dresden,Sachsen,1069,Chrome,Email,/cancel,cancel
+1353035,,3,36d0af8d-fb77-4f91-b8ef-0b266ab0e0cf,2021-05-31 07:25:00.000000 UTC,66.145.144.130,Anderlecht,Brussels,1070,Firefox,Email,/cancel,cancel
+2174355,,3,46f356b9-072c-4e04-9a1c-d3fdb9e4d822,2022-06-03 04:23:00.000000 UTC,4.67.34.59,Anderlecht,Brussels,1070,Chrome,Facebook,/cancel,cancel
+2344682,,3,d7c96c92-1b9d-4619-92df-22a7c5ff5b99,2022-12-23 16:22:00.000000 UTC,99.25.137.174,Anderlecht,Brussels,1070,Other,YouTube,/cancel,cancel
+2373766,,3,63bd8c22-7619-4e4a-8a73-5f21786a28ee,2022-06-02 09:45:00.000000 UTC,140.243.30.252,Tokyo,Tokyo,108-0071,Firefox,YouTube,/cancel,cancel
+1307574,,3,58a38c0a-00bc-4f47-bcc9-436dbdd01760,2022-10-02 16:54:00.000000 UTC,120.167.143.231,Sint-Jans-Molenbeek,Brussels,1080,Chrome,Adwords,/cancel,cancel
+1407119,,3,87d50f25-c3d1-47af-b797-cdacf5b5e1cb,2023-03-07 10:02:00.000000 UTC,27.175.31.67,Jette,Brussels,1090,Safari,Adwords,/cancel,cancel
+2321343,,3,9fb04ce2-db3b-48eb-968e-e84cb18ef68a,2020-03-10 14:49:00.000000 UTC,54.81.7.26,Middletown,New York,10940,Chrome,Adwords,/cancel,cancel
+1872058,,3,b257eb61-4242-47b4-9907-e3bd5df43fe0,2020-01-04 12:40:00.000000 UTC,150.116.195.239,South Blooming Grove,New York,10950,Chrome,YouTube,/cancel,cancel
+1508252,,3,4f97fdb0-a2ac-4fe2-bf27-e6bd98dcde9a,2021-02-25 04:55:00.000000 UTC,135.134.123.77,South Blooming Grove,New York,10950,Chrome,YouTube,/cancel,cancel
+2287270,,3,da87135b-33f0-4e15-a79b-dd188450b8e3,2024-04-04 08:06:00.000000 UTC,78.45.4.200,Airmont,New York,10952,Chrome,Email,/cancel,cancel
+2176268,,3,c1cf68fe-86c0-486c-8fb5-eff317623cda,2021-02-28 01:25:00.000000 UTC,62.245.147.32,New City,New York,10956,Safari,Email,/cancel,cancel
+1623891,,3,68170c5a-620c-4160-8586-66bd6ce22842,2023-04-01 18:20:00.000000 UTC,103.62.20.115,Chestnut Ridge,New York,10977,Chrome,Email,/cancel,cancel
+2352604,,3,d48a81a6-155c-4721-9402-96418944832a,2022-05-23 15:16:00.000000 UTC,144.157.128.166,Dresden,Sachsen,1099,Firefox,Adwords,/cancel,cancel
+1781366,,3,9dc5125f-7a2b-4334-8931-5745801f1d08,2025-01-01 09:50:00.000000 UTC,30.68.115.57,Carcassonne,Occitanie,11000,Firefox,Email,/cancel,cancel
+1471445,,3,4c1e974d-2755-47d0-a0a9-567d53777068,2021-08-20 18:31:00.000000 UTC,155.229.114.17,Kunming,Liaoning,110021,Firefox,Adwords,/cancel,cancel
+1972862,,3,a4f63820-f4c3-4613-b707-f2b54f81fd15,2023-05-04 13:56:00.000000 UTC,52.156.155.147,Kunming,Liaoning,110021,Safari,Email,/cancel,cancel
+2107217,,3,0f832c77-c3e4-4e70-9f68-2df7f58c8d9b,2019-09-20 01:14:00.000000 UTC,141.17.28.168,Kunming,Liaoning,110021,Chrome,Email,/cancel,cancel
+2359379,,3,188ffc29-9d52-4dfc-b1b8-35946723dcc8,2020-04-28 06:00:00.000000 UTC,52.203.220.10,Shenzhen,Liaoning,110024,Firefox,Email,/cancel,cancel
+1634605,,3,6377714f-0996-4664-9e46-8fb9c581ba0e,2020-11-18 04:27:00.000000 UTC,106.55.148.115,Shenzhen,Liaoning,110024,Safari,Adwords,/cancel,cancel
+1454136,,3,333b509a-57d8-41ba-8b5f-61138f0cc323,2021-07-29 08:31:00.000000 UTC,189.179.39.13,Shanghai,Liaoning,110025,Chrome,Facebook,/cancel,cancel
+2402840,,3,f8ce3bb2-77f4-4ceb-aa64-e7cbdc53089a,2024-03-28 07:13:00.000000 UTC,150.102.7.38,Shanghai,Liaoning,110025,Chrome,Email,/cancel,cancel
+2413681,,3,82dd0adf-670d-42de-90e8-dd4f35819052,2023-06-16 04:47:00.000000 UTC,168.106.197.73,Shanghai,Liaoning,110025,Chrome,Adwords,/cancel,cancel
+2038223,,3,d651c798-e7e5-4ecf-a61e-dc8963bb212d,2021-03-08 16:04:00.000000 UTC,2.105.162.39,Suzhou,Liaoning,110026,Safari,Email,/cancel,cancel
+1343280,,3,110d49eb-994d-4878-82f4-ca8af199f083,2023-09-26 02:35:00.000000 UTC,173.3.229.84,Shanghai,Liaoning,110032,Chrome,Email,/cancel,cancel
+2231547,,3,a527d566-ca41-4580-a078-b510354d0f94,2022-01-09 01:47:00.000000 UTC,54.187.148.240,Shanghai,Liaoning,110032,Chrome,Email,/cancel,cancel
+1709571,,3,b42e4eb0-885c-47a0-a22c-2842a5bdcea6,2019-03-01 01:05:00.000000 UTC,14.116.42.8,Shanghai,Liaoning,110032,Chrome,Email,/cancel,cancel
+1800792,,3,ec7d895d-a60e-45e5-9fab-7d8cd1ee4fc4,2024-11-02 07:59:00.000000 UTC,222.143.168.219,Shanghai,Liaoning,110032,Chrome,Email,/cancel,cancel
+1832904,,3,ba9c2644-ceef-4cde-9c44-f575aae84df6,2024-04-14 19:23:00.000000 UTC,19.200.70.131,Tianjin,Liaoning,110035,Firefox,Email,/cancel,cancel
+1683335,,3,355a0f02-7f28-485c-bb3f-1b7974929147,2023-08-16 18:41:00.000000 UTC,46.61.188.162,Tianjin,Liaoning,110035,Other,Adwords,/cancel,cancel
+1904562,,3,25582114-4eeb-411a-b442-7eb1f19c0686,2021-05-28 03:11:00.000000 UTC,147.154.115.53,Tianjin,Liaoning,110035,Chrome,Adwords,/cancel,cancel
+2129300,,3,56ef1e02-0f94-4654-a12b-ad38cd3ba879,2024-06-21 01:38:00.000000 UTC,54.229.160.165,Quanzhou,Liaoning,110041,Chrome,Email,/cancel,cancel
+2125483,,3,b8160687-e1d1-4748-8a6c-baa5f23fe332,2023-09-06 12:02:00.000000 UTC,76.95.39.214,Handan,Liaoning,110055,Chrome,Email,/cancel,cancel
+2098047,,3,60ebe437-4936-4093-81a8-b92a697c98c9,2023-11-03 17:04:00.000000 UTC,187.205.91.193,Handan,Liaoning,110055,Safari,Email,/cancel,cancel
+1668686,,3,341e7230-fe95-4cfb-bead-17d666247892,2020-03-22 05:11:00.000000 UTC,212.7.186.255,Wuxi,Liaoning,110071,Safari,Facebook,/cancel,cancel
+1788962,,3,8a2319f0-34ec-4c39-beff-d1c68d444dc1,2023-01-17 07:07:00.000000 UTC,182.185.18.77,Wuxi,Liaoning,110071,Firefox,Email,/cancel,cancel
+1926896,,3,85a449b8-56d4-4a74-b7fc-a3ec199fd233,2020-07-24 10:16:00.000000 UTC,128.48.228.196,Foshan,Liaoning,110078,Firefox,Email,/cancel,cancel
+2094898,,3,8362ab63-ca12-4e60-ad62-f9f89eb446c3,2025-04-16 11:20:00.000000 UTC,221.77.234.245,Foshan,Liaoning,110078,Chrome,Adwords,/cancel,cancel
+2038074,,3,325c3474-c42d-4cfb-8dc5-ea913b8230bb,2024-09-01 17:15:00.000000 UTC,62.35.113.139,Foshan,Liaoning,110078,Other,Adwords,/cancel,cancel
+2103118,,3,1c5fdf57-ba58-4423-b97d-7d61190338db,2023-02-15 16:40:00.000000 UTC,165.180.177.254,Foshan,Liaoning,110078,Chrome,Organic,/cancel,cancel
+1383529,,3,102c0081-ccf1-4869-86e6-83cd6b2489e7,2020-07-22 11:57:00.000000 UTC,90.160.177.34,Foshan,Liaoning,110078,Firefox,Adwords,/cancel,cancel
+2165263,,3,2050365e-1f96-4093-892e-1ad294f3aeb0,2023-08-30 10:24:00.000000 UTC,26.103.185.211,Handan,Liaoning,110141,Chrome,Organic,/cancel,cancel
+1708096,,3,2dc35b71-ddbe-42b6-ba69-0c53b18d870c,2021-06-23 13:33:00.000000 UTC,93.239.194.52,Handan,Liaoning,110141,Chrome,YouTube,/cancel,cancel
+1536571,,3,fadcfb24-da49-4d70-8176-31f63c9af620,2024-10-16 18:31:00.000000 UTC,134.179.54.181,Fuzhou,Liaoning,110144,Firefox,Email,/cancel,cancel
+2284515,,3,f1042219-c7c4-4f68-9230-629710cb1366,2021-05-01 04:19:00.000000 UTC,32.192.25.45,Fuzhou,Liaoning,110144,Firefox,Adwords,/cancel,cancel
+1332016,,3,422330d1-49c6-4352-878c-3b982ef40b39,2023-06-04 07:06:00.000000 UTC,93.114.135.26,Fuzhou,Liaoning,110144,Firefox,Email,/cancel,cancel
+1353800,,3,40ca8592-7f89-42f9-bc36-9d8f5924b5ae,2025-02-27 08:45:00.000000 UTC,22.24.227.10,Fuzhou,Liaoning,110180,Chrome,Email,/cancel,cancel
+2354401,,3,b4c936fd-7333-42c4-b215-774aab818094,2020-09-08 10:22:00.000000 UTC,71.11.74.1,White,Liaoning,110399,Firefox,Facebook,/cancel,cancel
+2335302,,3,856b30a2-13dd-468d-8755-1c2fb93b2cff,2023-05-24 17:36:00.000000 UTC,35.51.7.213,White,Liaoning,110399,IE,Facebook,/cancel,cancel
+1359212,,3,ad3388ec-8c85-47f5-ba8b-b48357b233ae,2024-02-22 09:29:00.000000 UTC,57.216.176.178,Narbonne,Occitanie,11100,Chrome,YouTube,/cancel,cancel
+1909559,,3,d9f39927-ce0b-43c1-9b41-4393ea95cfaa,2021-01-23 12:10:00.000000 UTC,211.95.229.245,Hefei,Liaoning,111003,Safari,Adwords,/cancel,cancel
+1662925,,3,339fe595-913e-46b5-a585-6ac68ac0cbcb,2020-04-18 13:36:00.000000 UTC,83.175.141.18,Hefei,Liaoning,111003,Safari,Adwords,/cancel,cancel
+2071057,,3,bed5d146-bdae-4066-9ff4-83e0232de128,2020-11-09 18:21:00.000000 UTC,14.52.252.153,Hefei,Liaoning,111003,Firefox,Email,/cancel,cancel
+1784305,,3,04013775-07ef-4ef0-84cd-335adef67b0a,2022-06-29 18:00:00.000000 UTC,42.226.76.249,Hefei,Liaoning,111003,Chrome,Facebook,/cancel,cancel
+1650026,,3,77f3c50c-1e49-4527-ba65-5556a557c409,2023-01-10 04:40:00.000000 UTC,143.107.246.133,Hefei,Liaoning,111003,Firefox,Email,/cancel,cancel
+1984427,,3,d20c0db9-1bfe-4d1a-b1b9-a0cd208bd599,2022-02-06 14:43:00.000000 UTC,201.72.175.81,Loudi,Liaoning,111005,Safari,Email,/cancel,cancel
+1556868,,3,43a21f84-ce5a-4e28-8aee-693b7afe6943,2020-01-03 07:00:00.000000 UTC,155.82.29.213,New York,New York,11101,Firefox,Adwords,/cancel,cancel
+1491075,,3,cab58ce0-9e3a-4bd4-b968-bb92f975d30f,2020-11-10 17:54:00.000000 UTC,7.105.193.229,Conil de la Frontera,Andalucía,11140,Chrome,Adwords,/cancel,cancel
+1870010,,3,8ef6d2fa-a85b-40f6-81f2-bcc7a1f67cd7,2024-10-07 13:34:00.000000 UTC,204.129.96.82,Montluel,Auvergne-Rhône-Alpes,1120,Chrome,YouTube,/cancel,cancel
+2037700,,3,a4e0b7c3-3e63-491b-8b71-6ab850d63fb0,2023-07-15 14:27:00.000000 UTC,171.0.57.131,New York,New York,11201,Chrome,YouTube,/cancel,cancel
+1362704,,3,15b22d10-afb8-48cc-9782-393b99654f07,2020-07-16 08:00:00.000000 UTC,97.107.192.235,New York,New York,11204,Safari,Adwords,/cancel,cancel
+2076727,,3,b33d21fa-36cd-4c63-a306-bece97c8d46d,2024-05-01 13:36:00.000000 UTC,9.225.156.40,Algeciras,Andalucía,11204,Safari,Email,/cancel,cancel
+1742175,,3,ff25b54a-a130-42ef-8ee0-e1c0b247d940,2024-06-12 09:00:00.000000 UTC,131.41.67.175,New York,New York,11205,Firefox,Adwords,/cancel,cancel
+2132926,,3,4a70b8f1-e578-4c2e-a6bf-2228ee1bdc79,2024-03-12 03:23:00.000000 UTC,222.147.193.62,New York,New York,11206,Firefox,YouTube,/cancel,cancel
+1732089,,3,7d7195a2-888a-4e45-a0a0-0b2dedae17cd,2019-11-07 07:00:00.000000 UTC,7.19.128.63,New York,New York,11207,Firefox,Adwords,/cancel,cancel
+1838082,,3,91f13601-3f0b-4a49-a03f-ed70989973d8,2020-08-26 14:26:00.000000 UTC,193.9.107.231,New York,New York,11207,IE,Email,/cancel,cancel
+2051805,,3,b64215a6-e40f-4ef5-9a20-d24d5a537e29,2019-03-12 04:43:00.000000 UTC,137.81.242.238,New York,New York,11208,Chrome,Email,/cancel,cancel
+2089446,,3,24ab65d2-2e61-4a7c-b897-8958bab650f8,2021-03-19 10:50:00.000000 UTC,46.24.234.27,New York,New York,11209,Safari,Facebook,/cancel,cancel
+1611581,,3,80658073-9689-4d70-9894-654507b6ea6a,2019-09-17 07:51:00.000000 UTC,128.79.137.41,New York,New York,11210,Chrome,YouTube,/cancel,cancel
+1949417,,3,e2909087-c681-46c8-992b-4c19fccf35ef,2022-01-12 12:11:00.000000 UTC,63.125.38.171,New York,New York,11210,Safari,Email,/cancel,cancel
+1523905,,3,3f899609-45b0-47da-8aba-bf0b7bde2f1f,2020-04-19 06:31:00.000000 UTC,58.215.127.112,New York,New York,11212,IE,Adwords,/cancel,cancel
+2203547,,3,0c6e0291-df23-4f0e-a740-5233ec248df6,2020-10-20 08:38:00.000000 UTC,21.195.72.21,New York,New York,11212,Safari,Adwords,/cancel,cancel
+1368478,,3,92504844-2308-4853-99b7-c258cd8e5041,2023-04-08 10:13:00.000000 UTC,92.13.109.170,New York,New York,11213,Chrome,Adwords,/cancel,cancel
+1895175,,3,68e1001c-8124-4d3e-9ef8-da1ff22037ac,2020-09-14 17:32:00.000000 UTC,134.41.69.62,New York,New York,11213,Safari,Email,/cancel,cancel
+2380989,,3,587a8c60-9105-43fa-8ea8-c71ab8fd8e39,2022-05-08 19:30:00.000000 UTC,11.122.154.198,New York,New York,11214,Firefox,Email,/cancel,cancel
+1577119,,3,2c01bc65-7c35-4187-b0d0-8efee9a0c027,2022-05-29 10:50:00.000000 UTC,70.213.15.214,New York,New York,11214,Chrome,Email,/cancel,cancel
+2422051,,3,356f8a5b-b690-4ad2-b9d1-edbcd38a3a6c,2020-04-21 17:21:00.000000 UTC,211.95.199.18,New York,New York,11215,Chrome,Facebook,/cancel,cancel
+1339361,,3,b0170cee-3156-4632-a893-48fb14b543b3,2022-06-23 05:20:00.000000 UTC,203.84.92.123,New York,New York,11218,Chrome,Adwords,/cancel,cancel
+1747181,,3,e61d15ee-00c5-414a-9595-27c70885a19b,2019-07-12 08:40:00.000000 UTC,6.171.29.158,New York,New York,11218,IE,Adwords,/cancel,cancel
+2167029,,3,6a5db1e9-6d79-492f-84fb-542cf1ffae79,2020-10-17 05:28:00.000000 UTC,172.130.160.46,New York,New York,11218,Chrome,Email,/cancel,cancel
+1470097,,3,6ce9ff01-5ffe-4bb8-8848-d32b5f889bfa,2024-03-15 06:45:00.000000 UTC,83.222.9.40,New York,New York,11219,Chrome,Adwords,/cancel,cancel
+2008493,,3,f6d3111f-7c9d-451c-ad5c-cda47031c593,2020-12-30 03:46:00.000000 UTC,198.125.161.205,New York,New York,11220,Chrome,Email,/cancel,cancel
+2243740,,3,48f06a3c-82f3-426d-a855-811b9519a37c,2023-01-24 03:01:00.000000 UTC,16.232.185.207,New York,New York,11221,Safari,Facebook,/cancel,cancel
+1464158,,3,c161406a-4571-4766-9109-6bf1d2ce14bf,2024-06-18 19:22:00.000000 UTC,206.21.9.154,New York,New York,11221,Chrome,Adwords,/cancel,cancel
+2338027,,3,ee9d3320-1716-43a0-b023-994eb6c9f719,2025-02-13 03:22:00.000000 UTC,3.82.166.44,New York,New York,11221,Safari,Email,/cancel,cancel
+2286510,,3,c6cff3d7-8745-4b26-9589-f31bdfc94edb,2023-07-23 10:57:00.000000 UTC,9.107.145.176,New York,New York,11223,Safari,Adwords,/cancel,cancel
+1807608,,3,36adb7be-c829-4f9b-9f1c-29f167589208,2023-02-14 15:32:00.000000 UTC,88.147.174.151,New York,New York,11224,Chrome,YouTube,/cancel,cancel
+1908848,,3,85923a0f-7286-4280-b4c2-bc0b19a7616a,2019-03-04 01:03:00.000000 UTC,192.139.214.174,New York,New York,11226,Safari,Email,/cancel,cancel
+1962895,,3,baf0ed5f-b6d2-44fe-8b9e-03f5b03c5a19,2019-11-23 17:54:00.000000 UTC,160.119.187.226,New York,New York,11226,Chrome,YouTube,/cancel,cancel
+1906713,,3,d6dea847-2e30-4504-a9aa-4771adb78d44,2021-12-03 13:17:00.000000 UTC,27.199.44.30,New York,New York,11226,Chrome,Adwords,/cancel,cancel
+1703112,,3,a32b1551-2bf3-41a1-a533-5047e9541cdf,2023-12-13 03:11:00.000000 UTC,144.135.234.67,New York,New York,11226,Chrome,Email,/cancel,cancel
+1815526,,3,80cf2b10-b257-4d2d-be24-4bcba211ae4e,2022-05-30 11:29:00.000000 UTC,211.220.165.91,New York,New York,11229,Chrome,Email,/cancel,cancel
+2013810,,3,cb45a2c1-2455-4ab6-a1ec-153a6ca2975d,2021-10-23 01:56:00.000000 UTC,202.233.29.78,New York,New York,11230,Firefox,Adwords,/cancel,cancel
+1861745,,3,d1d7edbd-4524-4068-9bb8-552692bfcd21,2023-03-06 06:37:00.000000 UTC,76.251.47.133,New York,New York,11234,Other,Organic,/cancel,cancel
+1813090,,3,30a0ff47-8a8e-4c2c-9c04-92c2f3b780fe,2021-12-05 17:02:00.000000 UTC,18.171.180.224,New York,New York,11235,Safari,Email,/cancel,cancel
+1593444,,3,27967bb9-cf00-4834-a8e4-42d7b333c78e,2022-04-25 13:08:00.000000 UTC,88.123.69.237,New York,New York,11238,Chrome,Adwords,/cancel,cancel
+2142378,,3,558558ed-7b10-4660-b9e3-30d63f1b9509,2022-06-17 08:18:00.000000 UTC,89.139.104.177,Bertioga,São Paulo,11250-000,Firefox,Email,/cancel,cancel
+1498717,,3,7ebb36ac-427f-4812-95e7-64f26bae7dbd,2023-12-05 14:28:00.000000 UTC,115.115.45.242,Beijing,Liaoning,112612,Chrome,Adwords,/cancel,cancel
+1585950,,3,dc7eb710-8e9e-48d4-bdcb-cb97c5fd7079,2022-01-20 18:22:00.000000 UTC,45.32.21.125,Brussels,Brussels,1130,Firefox,Adwords,/cancel,cancel
+2028629,,3,07752f37-fccb-4b08-b8f6-c3ea6a6e268b,2019-10-15 03:21:00.000000 UTC,208.95.30.222,Limoux,Occitanie,11300,Chrome,Organic,/cancel,cancel
+1445432,,3,0e99a199-5c00-4bce-aef4-e53e41e896e3,2020-03-14 19:27:00.000000 UTC,122.54.228.168,Longyan,Liaoning,113013,Other,Email,/cancel,cancel
+1617251,,3,a32054f6-4904-4ecf-a2af-bf4f29d07b98,2021-10-10 14:27:00.000000 UTC,165.159.13.114,Longyan,Liaoning,113013,Chrome,Email,/cancel,cancel
+2171424,,3,8ebd316e-fe3a-466d-8cd6-eb3b13a0648b,2022-04-01 01:45:00.000000 UTC,47.218.227.140,New York,New York,11355,Safari,Adwords,/cancel,cancel
+1336691,,3,11a05b4e-c37a-4e7c-8d41-fee0a94c4996,2023-01-30 15:09:00.000000 UTC,210.58.64.23,New York,New York,11357,Firefox,Email,/cancel,cancel
+2192498,,3,4deced43-3384-445d-b302-3cf833afa457,2021-04-05 17:09:00.000000 UTC,155.224.205.84,New York,New York,11364,Chrome,Organic,/cancel,cancel
+2172056,,3,c35e5a28-2d03-4b0b-a803-d3e861b20e8f,2024-05-12 17:06:00.000000 UTC,94.60.90.190,New York,New York,11367,Firefox,Email,/cancel,cancel
+2268633,,3,e3fb6ec9-9158-4d1a-ac20-2b9be0c15e5e,2021-12-14 11:37:00.000000 UTC,56.78.163.35,New York,New York,11370,Firefox,Adwords,/cancel,cancel
+2019928,,3,449c7aa9-6442-471c-806f-5ccc140abe96,2019-03-03 02:53:00.000000 UTC,84.22.213.7,New York,New York,11370,Firefox,Email,/cancel,cancel
+1592356,,3,4c8736d0-42af-47b1-9b87-1fe7b60fe9c4,2022-06-08 10:00:00.000000 UTC,207.227.112.217,New York,New York,11375,Firefox,Email,/cancel,cancel
+1933012,,3,86f085df-4a52-4c4a-bf34-04fb0009a406,2020-11-03 08:40:00.000000 UTC,201.151.145.202,New York,New York,11378,Chrome,Email,/cancel,cancel
+2321529,,3,7205667e-8528-45e4-953e-a4a891520fe3,2021-11-30 17:57:00.000000 UTC,65.167.128.18,New York,New York,11385,Chrome,Email,/cancel,cancel
+2092739,,3,5c23dcdc-c6b6-4a26-90f5-560fd4937ccd,2023-04-11 17:50:00.000000 UTC,77.118.170.178,Tokyo,Tokyo,114-0002,Chrome,Email,/cancel,cancel
+1305452,,3,ebff3661-72eb-4bea-a60d-a478f570eac1,2022-10-29 07:09:00.000000 UTC,71.204.24.233,Tokyo,Tokyo,114-0013,Safari,Adwords,/cancel,cancel
+1521988,,3,35d2e060-df46-4da1-8378-498dcc8e32f9,2019-12-02 10:58:00.000000 UTC,173.10.56.148,Tokyo,Tokyo,114-0014,Chrome,Email,/cancel,cancel
+2303729,,3,93e8bf5d-e7c1-4b34-b106-2f1d5228a54d,2025-06-03 04:37:00.000000 UTC,149.191.61.65,Tokyo,Tokyo,114-0032,Chrome,Adwords,/cancel,cancel
+1706415,,3,7dc0005e-6784-473a-a0e0-b4822fc2c820,2021-02-21 03:07:00.000000 UTC,162.227.226.103,Evere,Brussels,1140,Chrome,YouTube,/cancel,cancel
+2085576,,3,cb1c825b-93ad-44b6-bfe1-f83b75555a57,2024-06-19 07:36:00.000000 UTC,55.30.159.184,Zhengzhou,Liaoning,114005,Chrome,Email,/cancel,cancel
+1678157,,3,9a0d09ce-d54b-4bc1-915a-2ab0f4e26454,2023-08-18 07:00:00.000000 UTC,59.61.190.132,New York,New York,11412,Chrome,Facebook,/cancel,cancel
+1937624,,3,63548832-22ae-4f19-b417-ce6f5fd3a9bc,2025-02-25 03:46:00.000000 UTC,124.48.250.202,New York,New York,11412,IE,Email,/cancel,cancel
+2229180,,3,3cd55cfd-c67d-4ce7-99e7-705ece425e4c,2019-05-07 05:53:00.000000 UTC,209.100.105.233,New York,New York,11413,Chrome,Facebook,/cancel,cancel
+2211295,,3,b7c3fb09-ebc5-4942-b1d6-52d7a3e57c31,2019-12-04 12:40:00.000000 UTC,5.240.120.11,New York,New York,11417,Safari,Organic,/cancel,cancel
+2110350,,3,820a2e40-3501-4f8c-9f74-b2b2bb780b33,2025-04-18 04:20:00.000000 UTC,77.200.178.108,New York,New York,11419,Chrome,Adwords,/cancel,cancel
+1385733,,3,cd222f41-0aa0-49ba-baf4-37a26b74a083,2023-05-24 08:36:00.000000 UTC,42.34.109.202,Hengyang,Liaoning,114200,Safari,Email,/cancel,cancel
+1478733,,3,3ac6ac54-2fb5-4e8c-9dd0-e6d55cf5126e,2023-03-13 08:29:00.000000 UTC,33.176.33.142,New York,New York,11421,Firefox,Email,/cancel,cancel
+1737380,,3,85c93b12-6797-40fd-8c77-7dbcf640586b,2022-11-16 08:12:00.000000 UTC,9.7.255.243,New York,New York,11432,Chrome,Email,/cancel,cancel
+1664022,,3,f005fc99-9209-4dfe-9368-7dc02d067eee,2022-10-29 03:25:00.000000 UTC,208.250.38.171,Guarujá,São Paulo,11432-501,Chrome,YouTube,/cancel,cancel
+1399081,,3,79e6c78d-08a2-46e5-ab8c-01dd134421f1,2020-12-08 04:57:00.000000 UTC,222.4.179.221,City of Yantai,Liaoning,115002,Firefox,Email,/cancel,cancel
+2242241,,3,79ac0116-096a-4c41-b240-925eec54722c,2022-03-09 01:00:00.000000 UTC,187.206.125.27,City of Yantai,Liaoning,115002,Firefox,Email,/cancel,cancel
+1878225,,3,e6cdf3a2-8ee7-48e1-a69d-5d9ba71e189f,2022-02-03 07:51:00.000000 UTC,204.59.13.116,City of Yantai,Liaoning,115002,Safari,Facebook,/cancel,cancel
+2194252,,3,75014007-5068-459d-92ff-1bcd00511d1d,2023-09-26 00:41:00.000000 UTC,149.94.31.231,Putian,Liaoning,115022,Firefox,Email,/cancel,cancel
+1430950,,3,fc1be844-9344-4b87-8c7b-9ebe9d2574a1,2023-04-30 06:54:00.000000 UTC,35.249.19.59,Putian,Liaoning,115022,Safari,Email,/cancel,cancel
+1303555,,3,16fe0d18-ea50-4b95-a0ac-0ab3abdb9581,2024-04-08 14:26:00.000000 UTC,174.204.134.218,Putian,Liaoning,115022,Chrome,Email,/cancel,cancel
+1800237,,3,84c531a0-2834-453d-87e3-20d1160f3102,2022-03-10 00:26:00.000000 UTC,98.90.27.77,Rota,Andalucía,11520,Chrome,Email,/cancel,cancel
+2179096,,3,5d18377e-e8c1-4d07-8865-688bbab2e6c7,2021-02-28 06:52:00.000000 UTC,111.110.61.133,Zhenjiang,Liaoning,115213,Safari,Email,/cancel,cancel
+1658303,,3,9ca9ad78-138a-49b1-88d7-f247065ef4a7,2022-08-17 07:24:00.000000 UTC,61.133.237.73,Zhenjiang,Liaoning,115213,Chrome,Email,/cancel,cancel
+1344499,,3,20e912f9-6e12-4559-aaa5-e52d3b7dca01,2019-11-23 07:11:00.000000 UTC,35.230.249.27,Zhenjiang,Liaoning,115213,Chrome,Adwords,/cancel,cancel
+2376124,,3,62149313-5751-4390-92f6-f0f2cc51b5c4,2019-05-31 18:45:00.000000 UTC,130.146.28.248,Zhenjiang,Liaoning,115213,Firefox,Email,/cancel,cancel
+2132680,,3,a5dedaf4-2912-4b5a-967d-49703a9e2e5c,2024-01-12 08:23:00.000000 UTC,41.106.247.159,Zhenjiang,Liaoning,115213,Firefox,Adwords,/cancel,cancel
+1476495,,3,b15fd4e6-2e94-4100-870c-479369e1aa3f,2021-01-14 17:02:00.000000 UTC,56.104.150.190,Zhenjiang,Liaoning,115213,Chrome,YouTube,/cancel,cancel
+1562763,,3,1a5d04a2-405f-4668-a56b-1f98b7988bf9,2024-11-17 06:48:00.000000 UTC,17.21.173.84,Merrick,New York,11566,Chrome,Adwords,/cancel,cancel
+1441763,,3,4c9ada0d-1ea1-4f3e-a9af-07c6536676a1,2025-01-27 11:31:00.000000 UTC,44.83.56.164,Rockville Centre,New York,11570,Safari,Email,/cancel,cancel
+1366581,,3,566b902d-7d7d-4308-bc6d-5261073ed741,2022-09-12 17:34:00.000000 UTC,79.233.103.140,Oceanside,New York,11572,Safari,Facebook,/cancel,cancel
+1485620,,3,dd393fc6-ca07-4376-a8cb-aac8290cc48c,2022-11-24 05:46:00.000000 UTC,160.159.97.211,Valley Stream,New York,11580,Chrome,Adwords,/cancel,cancel
+1492282,,3,62e254ba-d143-470e-bbcf-abafc0b0b3c8,2020-03-03 17:55:00.000000 UTC,219.213.229.181,Westbury,New York,11590,Chrome,Facebook,/cancel,cancel
+1552489,,3,04affb1c-0032-4de9-a044-a10e2bffae8c,2019-04-06 15:47:00.000000 UTC,35.154.158.17,Tokyo,Tokyo,116-0013,IE,Email,/cancel,cancel
+1845351,,3,433e4fe8-f7f5-4ddb-bc7b-034199e34dfe,2023-04-11 10:24:00.000000 UTC,1.113.27.255,São Sebastião,São Paulo,11600-000,Chrome,Adwords,/cancel,cancel
+1895786,,3,a1270931-2b80-4b6c-a8fa-fbeb92bda45d,2024-05-30 18:56:00.000000 UTC,71.46.127.248,São Sebastião,São Paulo,11600-000,Chrome,Email,/cancel,cancel
+1917815,,3,f8eceaff-7c12-4dc8-a038-7178b8486424,2019-07-19 04:56:00.000000 UTC,13.108.108.154,Zhangzhou,Liaoning,116023,Chrome,YouTube,/cancel,cancel
+1496561,,3,d779b616-3583-4449-b3f5-3a6ec56ac5c1,2022-10-19 03:16:00.000000 UTC,154.222.173.3,Tacheng area,Liaoning,116033,Chrome,YouTube,/cancel,cancel
+1816865,,3,9297337f-4f86-4d92-be2c-a0d8cccb2aab,2025-02-07 06:59:00.000000 UTC,181.58.166.72,大连市,Liaoning,116037,Chrome,Adwords,/cancel,cancel
+1670488,,3,5ccf88d1-ecd5-46c1-bdab-75c7d2834b8d,2020-06-25 13:20:00.000000 UTC,13.79.200.90,Kannada,Liaoning,116039,Chrome,Email,/cancel,cancel
+1571166,,3,e0dbd10d-5308-4221-9223-497998fa77cc,2021-12-08 10:01:00.000000 UTC,194.165.18.144,Kannada,Liaoning,116039,Chrome,Email,/cancel,cancel
+1888566,,3,83dff419-2f9d-48c5-9863-c98d4bcc83aa,2024-12-14 02:33:00.000000 UTC,91.225.63.208,Kannada,Liaoning,116039,Chrome,Email,/cancel,cancel
+1654362,,3,789d9774-985e-4719-af51-7d50ad3f6ddf,2024-08-06 16:29:00.000000 UTC,184.30.180.224,Jingmen,Liaoning,116041,Chrome,Adwords,/cancel,cancel
+2055663,,3,1a5a6798-e18d-4287-9536-a4c0d850b4ae,2021-04-25 07:54:00.000000 UTC,50.113.103.91,Aksu area,Liaoning,116082,Chrome,Adwords,/cancel,cancel
+2396861,,3,2c9947b8-a8b3-4720-865f-2011f487ef97,2022-01-21 12:29:00.000000 UTC,131.228.66.10,Shanghai,Liaoning,116089,Firefox,Facebook,/cancel,cancel
+2262425,,3,fb8b3dad-e8b4-4d96-808a-de39023a7536,2020-06-30 16:04:00.000000 UTC,97.236.22.247,Shanghai,Liaoning,116089,IE,Adwords,/cancel,cancel
+1718942,,3,3c860173-4f4b-45fd-8611-92baa611f917,2021-02-22 07:22:00.000000 UTC,2.16.31.159,Shanghai,Liaoning,116089,Safari,Facebook,/cancel,cancel
+1739003,,3,871a2b71-6c72-4c0d-8a09-ac4692b8e99c,2024-03-19 03:15:00.000000 UTC,151.107.78.205,Shanghai,Liaoning,116089,Chrome,Adwords,/cancel,cancel
+2121999,,3,da86c871-a7ac-4558-bdb9-5c24df41d71b,2025-01-02 11:06:00.000000 UTC,201.96.94.205,Shanghai,Liaoning,116089,Chrome,Adwords,/cancel,cancel
+1334302,,3,bfca9953-2829-43dc-a2a5-9c33c0ce6223,2020-12-23 14:24:00.000000 UTC,188.76.179.244,Shanghai,Liaoning,116089,Chrome,Email,/cancel,cancel
+2138107,,3,d2991870-d489-4030-8922-27dfce8a879e,2021-01-30 09:12:00.000000 UTC,82.96.100.62,Shanghai,Liaoning,116091,Chrome,Adwords,/cancel,cancel
+1539363,,3,ef3d7b85-be2a-46a2-9459-0ea101716f42,2020-10-18 15:40:00.000000 UTC,111.52.233.33,Wuhan,Liaoning,116100,Firefox,Email,/cancel,cancel
+1613879,,3,7bc5e35a-b844-4766-8454-cb080ccc4e82,2019-04-08 01:31:00.000000 UTC,88.90.146.211,Wuhan,Liaoning,116100,Chrome,Adwords,/cancel,cancel
+1588710,,3,8d0c5e02-e0b7-4faa-a12d-23baf946ecca,2019-04-23 17:55:00.000000 UTC,47.113.231.234,Wuhan,Liaoning,116100,Firefox,YouTube,/cancel,cancel
+2255810,,3,dab1d38e-2ea4-4f00-9c82-fc3003560fb3,2021-08-24 08:30:00.000000 UTC,51.28.66.221,Wuhan,Liaoning,116100,Chrome,Email,/cancel,cancel
+1413758,,3,8535cb64-62b7-40fe-b28c-f1d29ce90039,2025-05-03 18:59:00.000000 UTC,146.187.103.104,Wuhan,Liaoning,116100,Firefox,Adwords,/cancel,cancel
+1760963,,3,8c216dfa-a7cd-4e6c-950c-f4a002a25193,2022-08-08 12:37:00.000000 UTC,200.4.246.157,Wuhan,Liaoning,116100,Firefox,Adwords,/cancel,cancel
+1870269,,3,ea4e11c8-2e14-4f87-9ac7-ce0082645922,2019-06-29 01:51:00.000000 UTC,60.21.23.85,Wuhan,Liaoning,116100,Chrome,Facebook,/cancel,cancel
+1436250,,3,1b1d2674-d03b-4552-8c78-2aa1878890a8,2024-08-16 02:18:00.000000 UTC,166.116.12.163,Wuhan,Liaoning,116100,Chrome,Adwords,/cancel,cancel
+1980516,,3,1b373746-79e2-4466-a782-f5c6f30a3e5c,2024-03-27 11:46:00.000000 UTC,163.77.133.26,Shanghai,Liaoning,116200,Firefox,Email,/cancel,cancel
+1590416,,3,f9df319e-c895-4ee0-b7f0-f0010da4ddd9,2021-01-03 09:58:00.000000 UTC,52.171.199.253,Shanghai,Liaoning,116200,Safari,Email,/cancel,cancel
+1742332,,3,7d6b2418-d5bc-4d7f-bd05-b4a706ced04f,2021-07-25 17:11:00.000000 UTC,187.232.67.76,Shanghai,Liaoning,116200,Chrome,Organic,/cancel,cancel
+1804230,,3,ee4130b3-938f-42e4-a6cd-cf3c3a76fdf5,2023-03-15 09:07:00.000000 UTC,191.79.62.213,Arcos de la Frontera,Andalucía,11630,Safari,Facebook,/cancel,cancel
+2028953,,3,4c6b50a0-69a3-4a01-82c1-200e51f8dfb2,2019-06-08 07:14:00.000000 UTC,86.185.109.166,Haixi Mongolian Tibetan Autonomous Prefecture,Liaoning,116399,Chrome,Email,/cancel,cancel
+2407155,,3,84cf9b47-3fa5-4d12-a36e-bb9ce6259109,2025-03-21 12:58:00.000000 UTC,6.128.64.68,Haixi Mongolian Tibetan Autonomous Prefecture,Liaoning,116399,Chrome,Email,/cancel,cancel
+1765401,,3,720d5324-2f1d-4472-b796-64dcdf5aa071,2024-07-30 17:19:00.000000 UTC,93.141.61.197,Haixi Mongolian Tibetan Autonomous Prefecture,Liaoning,116399,Chrome,YouTube,/cancel,cancel
+2281433,,3,cc92e250-d30f-4d98-a470-48367d8de6ba,2025-03-29 09:57:00.000000 UTC,68.134.157.93,Haixi Mongolian Tibetan Autonomous Prefecture,Liaoning,116399,Chrome,Email,/cancel,cancel
+1620026,,3,3631c355-eccc-4a02-b325-9e4bab5c2b90,2022-08-12 09:33:00.000000 UTC,133.79.250.39,Villamartin,Andalucía,11650,Safari,Email,/cancel,cancel
+1679401,,3,172def48-923f-46c1-82a2-dcc3938a7dd8,2019-02-17 17:17:00.000000 UTC,49.92.157.219,Ubatuba,São Paulo,11680-000,Chrome,Email,/cancel,cancel
+2210287,,3,5b2484cc-2d39-4ae5-896c-2edb46a27145,2023-07-27 01:51:00.000000 UTC,186.245.255.201,Ubatuba,São Paulo,11680-000,Chrome,Email,/cancel,cancel
+1573751,,3,b733297c-9884-4582-9666-99d2a8ce47f7,2020-08-17 10:44:00.000000 UTC,78.231.68.190,Olvera,Andalucía,11690,Safari,YouTube,/cancel,cancel
+1768256,,3,46f85a63-f788-4d8b-af40-e570cad9d472,2019-10-06 14:29:00.000000 UTC,49.7.76.216,New York,New York,11691,Firefox,Organic,/cancel,cancel
+1672615,,3,83789b68-129e-4972-9cc5-8a82f607f9e7,2022-12-28 19:09:00.000000 UTC,155.21.26.112,Amityville,New York,11701,Chrome,Email,/cancel,cancel
+2366307,,3,82a524a9-6fcc-4290-815f-c42314af694d,2024-05-02 16:25:00.000000 UTC,203.46.206.152,Praia Grande,São Paulo,11702-200,Safari,Adwords,/cancel,cancel
+2113363,,3,1d2aa934-0375-4263-94fb-e5cd2f9b9548,2022-03-13 02:12:00.000000 UTC,66.72.241.220,Praia Grande,São Paulo,11702-200,Chrome,Adwords,/cancel,cancel
+2061779,,3,c4e035eb-8b92-40a0-85d1-5d6e551124bf,2019-09-03 19:48:00.000000 UTC,117.9.130.59,Praia Grande,São Paulo,11702-200,Safari,Email,/cancel,cancel
+2162977,,3,fdf85edf-d557-4d69-b328-ead4b9770788,2023-06-23 14:19:00.000000 UTC,178.225.67.34,Praia Grande,São Paulo,11702-200,Safari,YouTube,/cancel,cancel
+1425947,,3,ca035d52-7ab1-4ae5-8a80-f60a439152fc,2020-04-03 02:35:00.000000 UTC,47.221.97.7,Praia Grande,São Paulo,11702-200,Firefox,Adwords,/cancel,cancel
+1887592,,3,03dd40b3-7935-4fc7-9a3d-2175c271ab10,2025-06-12 15:04:00.000000 UTC,169.118.46.25,Praia Grande,São Paulo,11702-200,Chrome,Email,/cancel,cancel
+2069435,,3,7c45756e-19e7-46c7-81e7-96873577ce6d,2020-09-30 09:58:00.000000 UTC,191.146.242.88,Praia Grande,São Paulo,11702-200,Chrome,Email,/cancel,cancel
+1334036,,3,1c917a3b-c965-444d-9133-45d0785d44ba,2021-03-12 16:18:00.000000 UTC,131.239.148.119,Huizhou,Liaoning,117021,Firefox,Email,/cancel,cancel
+1747286,,3,916a505e-fc77-4af2-9974-5a9eb5030791,2021-06-05 09:05:00.000000 UTC,10.165.241.94,Huizhou,Liaoning,117021,Chrome,Adwords,/cancel,cancel
+2206221,,3,1987ce51-53fa-4130-b7a3-bae387f90781,2024-07-05 13:47:00.000000 UTC,95.113.125.75,Huizhou,Liaoning,117021,Chrome,Adwords,/cancel,cancel
+1551047,,3,cb2174fb-26a6-402f-8158-a530e5a599f6,2024-12-13 18:53:00.000000 UTC,149.192.172.145,Bay Shore,New York,11706,Chrome,Facebook,/cancel,cancel
+2190885,,3,2bcde0dd-2caf-4f30-a5b9-03a2e81b2849,2021-01-28 05:05:00.000000 UTC,9.50.61.228,Praia Grande,São Paulo,11707-520,IE,Email,/cancel,cancel
+2336039,,3,9e8214c0-bca5-4432-b2b5-53d2b367e5b1,2019-02-07 08:53:00.000000 UTC,46.212.221.136,Praia Grande,São Paulo,11707-520,Firefox,Facebook,/cancel,cancel
+1407423,,3,6f86126d-9ea8-4e82-aef1-031424dd71b7,2023-11-19 06:56:00.000000 UTC,101.73.57.76,Brentwood,New York,11717,Firefox,Adwords,/cancel,cancel
+1543412,,3,04997872-37ca-4c8e-899e-29aa374e092a,2024-06-28 07:22:00.000000 UTC,164.144.251.191,Praia Grande,São Paulo,11717-260,Safari,Adwords,/cancel,cancel
+1763224,,3,4c6838ef-8208-4729-8641-d6609188f8bf,2019-11-30 04:42:00.000000 UTC,104.129.3.54,Central Islip,New York,11722,Chrome,YouTube,/cancel,cancel
+1575417,,3,32bce630-7080-402d-a0c1-3690179f9a70,2020-01-18 17:38:00.000000 UTC,179.167.134.209,Mongaguá,São Paulo,11730-000,Chrome,YouTube,/cancel,cancel
+2389843,,3,c31e0dc4-66c8-4f6a-8568-7c507faa1cb7,2022-09-18 02:22:00.000000 UTC,149.150.115.102,Mongaguá,São Paulo,11730-000,Safari,Facebook,/cancel,cancel
+1353536,,3,3e7fabb2-7c85-4699-9593-dc5daa1fb423,2021-07-11 06:09:00.000000 UTC,100.48.177.220,Dix Hills,New York,11746,Firefox,Adwords,/cancel,cancel
+1558003,,3,37d08e91-07fd-4c51-b35d-a55104d7ed70,2024-12-10 03:45:00.000000 UTC,29.42.56.233,Dix Hills,New York,11746,Chrome,YouTube,/cancel,cancel
+1715023,,3,c212ee89-998b-46e1-9c14-b40e87be593a,2024-04-16 19:38:00.000000 UTC,146.49.56.11,Dix Hills,New York,11746,Firefox,Email,/cancel,cancel
+2344825,,3,eb04889b-b14a-4078-9d74-1c1644190330,2024-02-13 14:03:00.000000 UTC,172.1.44.52,Peruíbe,São Paulo,11750-000,Firefox,Email,/cancel,cancel
+2129006,,3,3979f083-e8ab-4a87-b1b3-967c22966164,2024-10-16 10:04:00.000000 UTC,189.61.154.166,Peruíbe,São Paulo,11750-000,Chrome,Email,/cancel,cancel
+1818382,,3,8936197f-472a-4c52-92ab-caa1fd5281f4,2022-08-14 08:21:00.000000 UTC,123.241.34.242,Lindenhurst,New York,11757,Safari,YouTube,/cancel,cancel
+1371077,,3,f3a3450e-768f-4d59-8b46-bdd2036450b6,2019-07-03 18:09:00.000000 UTC,205.163.134.89,Lindenhurst,New York,11757,Chrome,YouTube,/cancel,cancel
+2329035,,3,45de4632-d572-4309-acdf-16d52929b23c,2022-05-03 10:56:00.000000 UTC,75.199.143.223,East Patchogue,New York,11772,Chrome,Email,/cancel,cancel
+2191201,,3,b4ab3e63-7596-48c8-966f-4e8c02ecc794,2024-01-31 06:24:00.000000 UTC,94.32.167.212,Uccle,Brussels,1180,Safari,Facebook,/cancel,cancel
+2230500,,3,35e1da4e-51b8-42c8-8dfa-a0a11910ad34,2019-10-02 04:19:00.000000 UTC,138.218.134.232,Hicksville,New York,11801,Chrome,Email,/cancel,cancel
+2145149,,3,e6fca4ba-725a-405c-a60a-ad9508700e37,2021-03-26 09:56:00.000000 UTC,199.165.123.56,Shanghai,Liaoning,118015,Firefox,Adwords,/cancel,cancel
+2118328,,3,724ef26c-569e-4292-9d78-cf4b4638a641,2019-08-12 18:33:00.000000 UTC,164.167.251.212,Shanghai,Liaoning,118015,Firefox,Email,/cancel,cancel
+1544787,,3,ebf853d9-25a8-49cd-9c14-dc9c11d7b35e,2021-11-21 05:47:00.000000 UTC,62.121.88.3,Shanghai,Liaoning,118015,Chrome,Adwords,/cancel,cancel
+1767142,,3,6fc80518-5284-4f0b-b36e-dc0455e45286,2020-02-14 15:35:00.000000 UTC,112.87.129.156,Shanghai,Liaoning,118015,Safari,Facebook,/cancel,cancel
+2308874,,3,390cea63-6377-4ddd-b6ba-52202c92dcab,2019-04-18 11:45:00.000000 UTC,218.192.179.255,Shanghai,Liaoning,118015,Firefox,YouTube,/cancel,cancel
+2343813,,3,5b6e468d-55ba-4f27-8b27-e113cca06267,2023-04-08 04:12:00.000000 UTC,196.187.199.55,Qinhuangdao,Liaoning,118199,Chrome,Facebook,/cancel,cancel
+2157122,,3,25ebac09-6b6c-4efb-97bb-13e736c75677,2021-10-26 18:53:00.000000 UTC,148.64.91.236,Qinhuangdao,Liaoning,118199,Firefox,Email,/cancel,cancel
+2073449,,3,e8a28e16-b6e6-4a32-95c5-de2d640048c5,2021-08-23 07:47:00.000000 UTC,12.9.164.98,Qinhuangdao,Liaoning,118199,Safari,Adwords,/cancel,cancel
+1784649,,3,cd1b174a-904c-45df-a94b-0c7ba6e56193,2019-05-28 12:25:00.000000 UTC,147.0.245.166,Qinhuangdao,Liaoning,118199,Safari,Email,/cancel,cancel
+1489300,,3,333848d8-0dc4-450b-90f7-36e1bb840e20,2020-10-23 04:52:00.000000 UTC,203.94.39.177,Forest,Brussels,1190,Chrome,Email,/cancel,cancel
+2308112,,3,99e9ac27-3ba5-4dda-b03a-d6c15debbbea,2019-04-11 08:44:00.000000 UTC,175.26.155.42,Registro,São Paulo,11900-000,Firefox,Email,/cancel,cancel
+1852563,,3,4d08a2c9-d7c3-4fe5-b536-ee7efe3ad593,2022-11-20 06:54:00.000000 UTC,116.145.154.45,Seoul,Seoul,120-091,Firefox,Organic,/cancel,cancel
+1642950,,3,8825a86a-4cbf-4ef2-a159-a422c352253a,2019-05-31 07:26:00.000000 UTC,130.127.135.119,Woluwe-Saint-Lambert,Brussels,1200,Chrome,Email,/cancel,cancel
+1553791,,3,5dac4fbd-b94b-4a66-a5d9-c720c8b9755f,2024-11-29 17:01:00.000000 UTC,128.108.180.142,Rodez,Occitanie,12000,Other,YouTube,/cancel,cancel
+2262832,,3,28a211ca-ad6d-465c-ba7e-d9f90e6c3b56,2021-12-23 16:08:00.000000 UTC,196.134.51.218,Castellón de la Plana,Comunidad Valenciana,12006,Chrome,Adwords,/cancel,cancel
+2292918,,3,350ed054-508c-4b45-8dc5-38fe50564815,2020-08-02 15:36:00.000000 UTC,205.24.77.181,Castellón de la Plana,Comunidad Valenciana,12006,Safari,Facebook,/cancel,cancel
+1376096,,3,dff3b95d-781e-41c0-82c5-9eddc39d5e2c,2023-07-14 03:35:00.000000 UTC,175.186.58.115,Tokyo,Tokyo,121-0061,Chrome,Email,/cancel,cancel
+1667386,,3,513c50b2-2fd5-4005-983d-4d38208781ee,2020-11-30 05:25:00.000000 UTC,2.240.5.186,Tokyo,Tokyo,121-0073,Firefox,Adwords,/cancel,cancel
+2205293,,3,006d7380-9014-447d-985e-9da2ae6c0886,2020-05-20 04:24:00.000000 UTC,168.207.156.228,Tokyo,Tokyo,121-0813,Chrome,Adwords,/cancel,cancel
+1602862,,3,750d5388-ef01-47ab-b667-14f817925ed1,2024-12-13 09:42:00.000000 UTC,182.236.136.72,Seoul,Seoul,121-220,Safari,Email,/cancel,cancel
+2124927,,3,7b4416ff-baa3-4115-a254-a3a5576f574c,2019-01-27 06:09:00.000000 UTC,28.247.194.202,Seoul,Seoul,121-270,Firefox,Adwords,/cancel,cancel
+1957930,,3,406af88d-cdea-42ae-97d6-8df3619bfe46,2022-10-09 09:30:00.000000 UTC,130.171.202.111,Hengshui,Liaoning,121000,Chrome,Email,/cancel,cancel
+2171926,,3,18d83720-9534-4e10-bcbd-675702888de1,2025-04-03 17:15:00.000000 UTC,103.117.43.144,Hengshui,Liaoning,121000,Chrome,Adwords,/cancel,cancel
+2322893,,3,deecd2ac-3622-4c08-b347-b0b4436937e2,2023-11-24 05:54:00.000000 UTC,58.73.18.74,Wuzhong,Liaoning,121018,Chrome,Adwords,/cancel,cancel
+1683476,,3,55073cc9-4678-48ab-99e0-82a5f93e9503,2019-07-15 15:45:00.000000 UTC,138.4.182.243,Wuzhong,Liaoning,121018,Chrome,Email,/cancel,cancel
+2199813,,3,89862fe4-f957-40b9-8e02-733330d70524,2022-05-03 12:38:00.000000 UTC,149.186.55.214,Xuzhou,Liaoning,121406,IE,Email,/cancel,cancel
+1362265,,3,923dc2e9-565b-4a75-b365-9011fe3dad4c,2020-11-26 02:53:00.000000 UTC,71.78.230.239,Seoul,Seoul,122-030,Firefox,Email,/cancel,cancel
+1474195,,3,904b3eec-84bf-4b68-b606-0466f535dfa1,2024-07-20 03:38:00.000000 UTC,201.101.174.210,Seoul,Seoul,122-200,IE,Organic,/cancel,cancel
+1619632,,3,3dd86cdc-1f7a-4c57-8267-77b47d11ed76,2022-07-04 11:30:00.000000 UTC,155.248.133.162,Onda,Comunidad Valenciana,12200,Chrome,Email,/cancel,cancel
+2104750,,3,0527c41c-4761-4151-8055-feeeb3df0f37,2022-06-07 12:13:00.000000 UTC,78.12.102.37,Onda,Comunidad Valenciana,12200,Safari,Email,/cancel,cancel
+1648677,,3,c0de6c62-9cc6-4119-bd7e-a4412603647e,2019-12-15 10:28:00.000000 UTC,120.90.10.83,Albany,New York,12203,Firefox,Facebook,/cancel,cancel
+1518497,,3,feb9c8cb-9323-4ec8-9519-10eedcb45f46,2020-05-26 05:02:00.000000 UTC,88.109.247.12,Albany,New York,12203,Safari,Email,/cancel,cancel
+1865072,,3,21015e41-83a2-4129-9b33-1a98c342a2f8,2021-10-11 14:20:00.000000 UTC,7.135.107.151,Dongguan,Liaoning,122099,Chrome,Email,/cancel,cancel
+2229955,,3,005c62ae-7e57-4048-a7bd-cff5804b0260,2020-04-23 14:07:00.000000 UTC,141.75.97.245,São José dos Campos,São Paulo,12213,Chrome,Email,/cancel,cancel
+1562007,,3,c8bce181-2e8b-4b24-b7a1-996b9e186645,2021-06-28 16:07:00.000000 UTC,214.143.119.218,São José dos Campos,São Paulo,12230-002,Chrome,Adwords,/cancel,cancel
+1824304,,3,d0e8f323-b28a-4de9-bf9a-fdfdafe97a84,2023-11-10 18:42:00.000000 UTC,50.97.28.145,São José dos Campos,São Paulo,12230-002,Chrome,Email,/cancel,cancel
+1868328,,3,adfa2cb0-d9df-4959-b2c4-79521a65b78b,2023-02-05 05:16:00.000000 UTC,6.95.90.200,São José dos Campos,São Paulo,12246,Safari,Email,/cancel,cancel
+1967389,,3,9a2eec4a-2331-4fb1-abd4-f02e3e675002,2021-12-16 01:01:00.000000 UTC,175.207.205.71,São José dos Campos,São Paulo,12246,Chrome,Organic,/cancel,cancel
+1661974,,3,8e0b4292-562d-440a-b342-0a47aa196bd4,2020-05-05 07:58:00.000000 UTC,40.75.52.131,Berlin,Berlin,12247,Chrome,Email,/cancel,cancel
+1708333,,3,b6183246-0f5b-40cb-a43d-3e9f5a5c2be0,2019-11-08 04:12:00.000000 UTC,115.85.21.176,Berlin,Berlin,12249,Chrome,Email,/cancel,cancel
+1446591,,3,b46ba6d1-a197-4530-97dd-1d8f780d99f7,2022-11-30 04:23:00.000000 UTC,161.96.75.62,Beijing,Liaoning,122599,Chrome,Facebook,/cancel,cancel
+1546302,,3,8de8c559-8f3f-4481-8d91-e97e8a67f86f,2024-08-11 00:57:00.000000 UTC,160.153.141.197,Beijing,Liaoning,122599,Other,Facebook,/cancel,cancel
+2127703,,3,734f9124-7db4-4964-a09b-6a093c7b2810,2020-06-12 07:51:00.000000 UTC,146.63.39.233,Beijing,Liaoning,122599,Chrome,Email,/cancel,cancel
+2293132,,3,fb3c840b-6c36-436c-9a9a-6edfa1fad878,2019-01-24 05:20:00.000000 UTC,42.3.246.246,Berlin,Berlin,12277,Firefox,YouTube,/cancel,cancel
+2398583,,3,cff9207d-3596-45cf-babb-b364aa85c613,2021-07-25 11:07:00.000000 UTC,209.42.224.161,Tokyo,Tokyo,123-0841,Chrome,YouTube,/cancel,cancel
+2417793,,3,42025eca-eafa-4816-a0a8-5e5286c9ac2b,2019-10-11 15:08:00.000000 UTC,203.41.41.52,Tokyo,Tokyo,123-0851,Firefox,Adwords,/cancel,cancel
+2219352,,3,4eedca82-093a-4fef-9115-083724883e3f,2019-05-18 05:29:00.000000 UTC,58.232.22.162,Tokyo,Tokyo,123-0865,Firefox,Adwords,/cancel,cancel
+2369246,,3,2534904c-c340-486d-82f9-c3476bc0e922,2019-11-11 01:13:00.000000 UTC,194.108.232.210,Taizhou,Liaoning,123002,IE,Email,/cancel,cancel
+1740918,,3,839f3c74-3a85-4e35-8a2c-1321b7c60283,2022-09-26 09:55:00.000000 UTC,89.14.108.60,Taizhou,Liaoning,123002,Firefox,Adwords,/cancel,cancel
+1505514,,3,7b4cefb1-68fe-4530-9c7c-ecad78883bae,2025-05-11 17:03:00.000000 UTC,205.247.144.32,Taizhou,Liaoning,123002,Firefox,Email,/cancel,cancel
+1595685,,3,ab4b539d-3165-4be4-8d2b-73bd6a21a365,2023-12-01 13:56:00.000000 UTC,161.43.212.69,Rotterdam,New York,12303,Chrome,Facebook,/cancel,cancel
+1593500,,3,179530dd-5710-4fad-995a-97d975255767,2023-12-30 12:30:00.000000 UTC,9.59.58.21,Tokyo,Tokyo,124-0002,Chrome,YouTube,/cancel,cancel
+1500854,,3,992bf283-41a2-4ac6-a417-38f6b4b3e17f,2024-10-19 11:01:00.000000 UTC,86.174.250.79,Tokyo,Tokyo,124-0006,Other,Email,/cancel,cancel
+2235936,,3,4c3ae0f7-6402-496b-a745-400a46f4258e,2024-11-04 16:08:00.000000 UTC,160.28.150.219,Berlin,Berlin,12437,Chrome,Adwords,/cancel,cancel
+1996543,,3,8f2f4174-aa77-4000-8be0-95536932440c,2024-12-26 13:33:00.000000 UTC,2.93.205.252,Tokyo,Tokyo,125-0031,Chrome,Email,/cancel,cancel
+1610991,,3,c37e90b8-7996-4b6f-a1a6-b123b57314dd,2021-04-17 16:07:00.000000 UTC,130.152.184.58,Tokyo,Tokyo,125-0041,Chrome,Email,/cancel,cancel
+2379737,,3,50b5ecdf-fedf-42cf-b094-9bb343933447,2019-12-13 04:24:00.000000 UTC,75.196.103.42,Nivigne et Suran,Auvergne-Rhône-Alpes,1250,Firefox,Email,/cancel,cancel
+2247161,,3,5503ab74-b454-49e0-948f-832b278f11da,2024-12-30 03:51:00.000000 UTC,85.15.174.148,Nivigne et Suran,Auvergne-Rhône-Alpes,1250,Chrome,Email,/cancel,cancel
+2294909,,3,786f68a2-4f91-4fea-a0b6-70ceefe83c58,2022-11-10 04:23:00.000000 UTC,126.100.231.82,Shanghai,Liaoning,125063,Firefox,Facebook,/cancel,cancel
+1489640,,3,aaba886e-1aa1-48af-b44a-dd1fc839158c,2025-05-21 07:50:00.000000 UTC,149.6.114.108,Shanghai,Liaoning,125063,Chrome,YouTube,/cancel,cancel
+1573612,,3,f121bab7-e0c5-4490-b0b4-1f5aaa83e294,2021-04-21 17:02:00.000000 UTC,208.137.102.126,Shanghai,Liaoning,125063,Chrome,Email,/cancel,cancel
+1916073,,3,6bbd2cdb-efd5-434c-8e17-2f6eb32c792f,2021-04-29 05:53:00.000000 UTC,189.91.176.192,Shanghai,Liaoning,125063,Safari,Facebook,/cancel,cancel
+2076687,,3,738b3132-ed45-4598-9bf4-e7ab28a41b00,2019-02-09 11:46:00.000000 UTC,112.147.86.198,Berlin,Berlin,12524,Chrome,Adwords,/cancel,cancel
+1554573,,3,cc991f08-f4ca-4fc4-8ded-0f1c49b3409d,2021-07-10 15:50:00.000000 UTC,130.185.106.222,Berlin,Berlin,12527,Chrome,Email,/cancel,cancel
+1780696,,3,3d1b6e7f-3adb-4f68-a8a4-0a998fa8219a,2023-06-26 16:00:00.000000 UTC,159.139.119.178,Berlin,Berlin,12527,Safari,Facebook,/cancel,cancel
+2258771,,3,b149dc58-2552-447f-b7d3-bfd72cde84b3,2025-01-12 18:25:00.000000 UTC,213.133.238.105,Almazora,Comunidad Valenciana,12550,Chrome,Facebook,/cancel,cancel
+1606992,,3,cfa458b6-93b3-41c0-ac8c-d1e0d797407b,2024-06-21 12:23:00.000000 UTC,186.223.230.159,New Windsor,New York,12553,Safari,Email,/cancel,cancel
+2072250,,3,8c291af1-a11b-4a86-b189-0e9e19b5d2e0,2024-07-23 18:01:00.000000 UTC,119.112.238.42,Berlin,Berlin,12555,Safari,Adwords,/cancel,cancel
+2311849,,3,85636617-15bb-4c5f-9d8f-c975dfdd343e,2019-09-19 05:15:00.000000 UTC,64.244.222.233,Aparecida,São Paulo,12570-000,Chrome,Email,/cancel,cancel
+1543945,,3,7b8fa441-11f8-4e79-bb9a-4821b0374f9b,2021-10-14 19:38:00.000000 UTC,25.4.200.99,Aparecida,São Paulo,12570-000,Chrome,Facebook,/cancel,cancel
+2138054,,3,628b786a-0c9b-4475-a990-eb729eb5bb25,2019-02-09 05:14:00.000000 UTC,40.149.141.171,Aparecida,São Paulo,12570-000,Chrome,Email,/cancel,cancel
+1976348,,3,f3b275c0-3e3b-47f4-8aa4-e1d28cc39b53,2023-06-30 10:36:00.000000 UTC,63.251.96.114,Dresden,Sachsen,1259,Safari,Adwords,/cancel,cancel
+1679498,,3,af01da36-3d1d-4868-bc04-35f598372323,2019-12-30 05:24:00.000000 UTC,100.41.59.124,Myers Corner,New York,12590,Safari,Adwords,/cancel,cancel
+1429465,,3,e49596a5-74ec-4eba-be27-82f6c073fff6,2022-12-26 04:24:00.000000 UTC,54.164.2.1,Vall de Uxó,Comunidad Valenciana,12600,Safari,Email,/cancel,cancel
+2327078,,3,35b262fd-5ef7-41e3-b2c6-81d166b343f5,2025-04-01 17:35:00.000000 UTC,20.157.39.35,Poughkeepsie,New York,12601,Chrome,Adwords,/cancel,cancel
+1923322,,3,f7119702-dfcf-440d-b40b-66c8c75ab764,2019-07-03 07:45:00.000000 UTC,132.142.196.1,Berlin,Berlin,12623,Chrome,Email,/cancel,cancel
+1914399,,3,e3287e2f-75a8-4960-ba6d-f54145ee6e68,2019-08-18 11:43:00.000000 UTC,90.144.184.132,Berlin,Berlin,12681,Chrome,Adwords,/cancel,cancel
+1907233,,3,86067f89-26b6-435f-9ba3-3c6d320f359e,2021-01-27 13:32:00.000000 UTC,207.84.108.173,Berlin,Berlin,12681,Chrome,Adwords,/cancel,cancel
+2398078,,3,de3ee87f-84ab-406b-8fda-43e15a722611,2019-12-18 15:57:00.000000 UTC,56.246.224.72,Queensbury,New York,12804,Chrome,Adwords,/cancel,cancel
+2371790,,3,893e92bb-ec32-4c2d-ac48-af20e7579164,2019-07-23 08:48:00.000000 UTC,124.103.134.67,Seoul,Seoul,130-020,Chrome,Email,/cancel,cancel
+2070387,,3,e22c5096-86eb-4d79-b9ac-7d7bf9eeac9c,2023-03-13 04:48:00.000000 UTC,63.124.193.182,Seoul,Seoul,130-022,Chrome,Adwords,/cancel,cancel
+1666676,,3,98bf2ce1-86e8-481c-9de3-7717a50937da,2024-10-31 09:37:00.000000 UTC,185.153.98.253,Seoul,Seoul,130-050,Chrome,Adwords,/cancel,cancel
+2394231,,3,cbf25974-fe1b-4941-9dbd-b1069540b0e1,2025-01-20 11:41:00.000000 UTC,223.47.14.189,Seoul,Seoul,130-060,IE,Adwords,/cancel,cancel
+1600989,,3,30716270-665d-44bb-b959-7259e8a31517,2021-02-13 16:22:00.000000 UTC,41.60.238.217,Seoul,Seoul,130-081,Safari,Email,/cancel,cancel
+2355445,,3,c48f82c0-d586-4c15-aa23-bd7d618dcbdf,2024-02-17 13:39:00.000000 UTC,195.51.200.104,Seoul,Seoul,130-101,Chrome,Email,/cancel,cancel
+1858026,,3,e844ec31-9d75-468e-9ff5-2dd51e89d176,2020-03-17 14:57:00.000000 UTC,96.37.128.6,Arboys-en-Bugey,Auvergne-Rhône-Alpes,1300,Chrome,Facebook,/cancel,cancel
+1840739,,3,9e86fa08-f02f-4bae-a34d-314c6f4fcd16,2021-10-05 09:14:00.000000 UTC,27.239.135.71,Shan Tou,Jilin,130000,Chrome,Facebook,/cancel,cancel
+2406715,,3,df49abd8-c265-4665-a9d0-142fa0f91168,2019-07-26 06:10:00.000000 UTC,150.143.233.3,Marseille,Provence-Alpes-Côte d'Azur,13001,Safari,Email,/cancel,cancel
+2027699,,3,3f330804-27a4-4248-9070-2bd2f7a8bc52,2019-07-30 18:57:00.000000 UTC,44.239.6.14,Shenzhen,Jilin,130021,Chrome,Email,/cancel,cancel
+1842398,,3,83b42b2d-91c3-4dea-abc4-b974d491cdef,2022-01-24 09:46:00.000000 UTC,222.213.223.92,Shenzhen,Jilin,130021,Firefox,Email,/cancel,cancel
+1824926,,3,11d32c5a-11ff-4e21-9550-fab6ab143482,2021-11-23 12:29:00.000000 UTC,183.135.250.96,Fuzhou,Jilin,130024,Chrome,Email,/cancel,cancel
+1341519,,3,ac531f56-ecb7-4418-bf84-db941876550c,2019-12-11 14:43:00.000000 UTC,199.195.40.114,Fuzhou,Jilin,130024,Chrome,Email,/cancel,cancel
+1655431,,3,d6d71cf6-db47-4502-8ffe-e795442891ba,2020-03-08 07:11:00.000000 UTC,154.34.243.136,Marseille,Provence-Alpes-Côte d'Azur,13003,Chrome,Email,/cancel,cancel
+1671143,,3,11a9b098-2ae8-445c-869f-17e0aabc7fb0,2024-10-24 18:04:00.000000 UTC,193.51.156.191,Transport,Jilin,130031,Chrome,Email,/cancel,cancel
+1979581,,3,8e44a941-4510-4859-9258-8c847bc09742,2019-03-18 05:17:00.000000 UTC,207.62.140.3,Transport,Jilin,130031,Chrome,Facebook,/cancel,cancel
+1405535,,3,a7689747-8aee-4048-91db-3b54e32aaed6,2019-04-05 15:53:00.000000 UTC,118.121.124.118,Ciudad Real,Castilla-La Mancha,13004,Chrome,Email,/cancel,cancel
+1972288,,3,23b5f3fe-4a0e-4976-bf7a-f2cf919cf3ee,2020-03-08 12:27:00.000000 UTC,5.119.207.163,Marseille,Provence-Alpes-Côte d'Azur,13004,Firefox,YouTube,/cancel,cancel
+2159231,,3,7ae3dc66-62f1-4dc2-8784-d4c29e14d3da,2020-05-25 06:26:00.000000 UTC,9.81.77.230,Ciudad Real,Castilla-La Mancha,13004,Chrome,Email,/cancel,cancel
+1881580,,3,261c40e4-6de8-4ae1-b2b2-5399dfd1f2e1,2023-03-01 02:25:00.000000 UTC,53.141.52.169,Tianjin,Jilin,130041,Chrome,Facebook,/cancel,cancel
+1664998,,3,dff91c07-db88-4e0d-bea2-d0f3267d8272,2025-06-12 16:01:00.000000 UTC,40.185.26.142,Tianjin,Jilin,130041,Chrome,Adwords,/cancel,cancel
+2197480,,3,4a805d7d-7354-49d5-a5b2-9e9a23568de4,2023-06-13 01:04:00.000000 UTC,183.45.53.157,Tianjin,Jilin,130041,Safari,Email,/cancel,cancel
+2129202,,3,7a94c3bc-e3db-46f9-95f0-a9ad7dab68b2,2023-08-03 14:25:00.000000 UTC,223.1.209.66,Tianjin,Jilin,130041,Chrome,Facebook,/cancel,cancel
+2098641,,3,3d581125-6125-4d62-ac34-68b6edd4e786,2022-09-02 15:16:00.000000 UTC,199.184.54.246,Ciudad Real,Castilla-La Mancha,13005,Firefox,Email,/cancel,cancel
+1426861,,3,64300053-14c6-4e75-b5e2-54213218b42d,2023-06-01 01:08:00.000000 UTC,188.248.135.35,Marseille,Provence-Alpes-Côte d'Azur,13006,Chrome,Adwords,/cancel,cancel
+1895659,,3,2e83b5ed-6eee-4829-8c8e-3c6dbb35b7b3,2020-08-22 07:25:00.000000 UTC,149.127.171.139,Wenzhou,Jilin,130061,Chrome,Email,/cancel,cancel
+1372587,,3,4391089f-9a45-44b6-a047-f09cff191835,2022-06-06 03:58:00.000000 UTC,45.38.221.49,Wenzhou,Jilin,130061,Safari,Email,/cancel,cancel
+2063212,,3,afc6ed5b-fb77-4549-9f50-3a2487de4bf8,2020-11-12 07:07:00.000000 UTC,146.116.186.173,Shanghai,Jilin,130062,Chrome,YouTube,/cancel,cancel
+2003889,,3,02dc45d8-7ddc-4c4e-8a91-222cfedef5c1,2023-03-05 18:53:00.000000 UTC,104.6.208.37,Shanghai,Jilin,130062,Chrome,Adwords,/cancel,cancel
+1374116,,3,4d279088-df00-4d3f-a6b7-277578169c8b,2020-04-20 11:05:00.000000 UTC,184.111.212.47,Shanghai,Jilin,130062,Chrome,Facebook,/cancel,cancel
+1325971,,3,34e2e906-15b3-457b-9d52-14650dae7825,2021-08-27 03:05:00.000000 UTC,64.185.191.86,Shanghai,Jilin,130062,Firefox,Email,/cancel,cancel
+1551488,,3,8517e6ca-a3ff-4e06-863f-36b3b5e5a215,2021-03-11 04:23:00.000000 UTC,91.203.214.88,Shanghai,Jilin,130062,Chrome,Email,/cancel,cancel
+2298513,,3,4046fe66-173f-4995-8b41-18978a9f40b0,2025-06-03 09:23:00.000000 UTC,76.135.226.201,Shanghai,Jilin,130062,Chrome,Adwords,/cancel,cancel
+1618547,,3,10ea13f9-e848-4909-b93b-eac794827a2f,2023-06-02 07:16:00.000000 UTC,157.155.161.99,Shanghai,Jilin,130062,Chrome,Email,/cancel,cancel
+2194439,,3,aa2d06f5-5761-45ee-b57a-065fcf534694,2020-07-19 14:10:00.000000 UTC,121.4.243.106,Shanghai,Jilin,130062,Chrome,Organic,/cancel,cancel
+1518312,,3,a4b90741-c3ae-4218-bb9f-9d9d150db629,2021-05-14 15:24:00.000000 UTC,201.250.27.62,Marseille,Provence-Alpes-Côte d'Azur,13009,Firefox,Email,/cancel,cancel
+2135053,,3,3833876a-9ab8-41cb-a49e-fdb8713965f6,2021-08-06 02:58:00.000000 UTC,90.44.209.94,Marseille,Provence-Alpes-Côte d'Azur,13009,Firefox,Email,/cancel,cancel
+1410531,,3,3c336793-ba4c-4cc5-b06b-d65892e22ccb,2020-11-12 06:39:00.000000 UTC,210.158.161.145,Marseille,Provence-Alpes-Côte d'Azur,13011,Other,Adwords,/cancel,cancel
+2116633,,3,f4e5d7cc-d0d8-4cdf-8fb9-a90ac8336bc3,2021-05-15 14:51:00.000000 UTC,136.36.68.152,Baotou,Jilin,130111,Chrome,Adwords,/cancel,cancel
+1622290,,3,8a6ead21-c6db-4f73-9d3a-d9769025c95d,2023-04-07 16:31:00.000000 UTC,112.50.58.84,Baotou,Jilin,130111,Safari,Organic,/cancel,cancel
+1994301,,3,8897bf4e-4890-47ce-812a-895e6c3711f8,2022-07-20 11:26:00.000000 UTC,199.104.108.202,Baotou,Jilin,130111,Safari,Email,/cancel,cancel
+1481410,,3,81ca7143-7428-4330-837f-30a0de236158,2021-03-16 06:27:00.000000 UTC,97.251.157.111,Baotou,Jilin,130111,Safari,Email,/cancel,cancel
+1938884,,3,bcc73df4-df1d-40d6-a294-d51d0820a936,2019-11-16 08:44:00.000000 UTC,166.123.120.104,Baotou,Jilin,130111,Safari,Facebook,/cancel,cancel
+2169982,,3,463b22e4-dcca-48b5-a499-44c1cd1248c7,2021-04-27 02:32:00.000000 UTC,19.140.5.86,Baotou,Jilin,130111,Other,Email,/cancel,cancel
+1445283,,3,7eaa6458-87a4-4480-a4c2-9bad84b3b178,2019-09-10 05:30:00.000000 UTC,187.209.91.253,Baotou,Jilin,130111,Chrome,Adwords,/cancel,cancel
+1552170,,3,83e3bbff-3a7d-4886-bb75-96364079263d,2023-12-06 15:58:00.000000 UTC,65.184.117.87,Baotou,Jilin,130111,Safari,Email,/cancel,cancel
+1851428,,3,d2325749-9e8b-412f-a774-a3481f72c17e,2021-03-19 06:45:00.000000 UTC,25.20.225.37,Baotou,Jilin,130111,Other,Email,/cancel,cancel
+2310983,,3,e865d97d-c3c0-40c0-84d8-bd8430a84c41,2020-08-10 14:10:00.000000 UTC,166.23.225.46,Marseille,Provence-Alpes-Côte d'Azur,13014,Chrome,Adwords,/cancel,cancel
+1465798,,3,7d9967aa-a258-40ed-aeb6-12939f0d0ea7,2019-04-01 11:58:00.000000 UTC,200.80.228.173,Marseille,Provence-Alpes-Côte d'Azur,13015,Chrome,Adwords,/cancel,cancel
+2082889,,3,0f09c6de-388b-4f84-ab7b-512cea524ee1,2020-12-10 19:00:00.000000 UTC,56.21.104.144,Campinas,São Paulo,13033,Safari,Facebook,/cancel,cancel
+1791119,,3,c4a87156-bd8e-43a2-ab1c-397c87a4f4b1,2023-03-20 06:14:00.000000 UTC,4.168.184.186,Lianyungang,Jilin,130400,Safari,Email,/cancel,cancel
+1432171,,3,9455a9c4-3265-41d0-ae1b-4f6889d31952,2023-10-13 11:38:00.000000 UTC,69.150.144.27,Lianyungang,Jilin,130400,IE,Adwords,/cancel,cancel
+1734900,,3,b10761db-a945-4d35-9914-d00da3392f0f,2022-09-07 18:37:00.000000 UTC,67.240.82.139,Lianyungang,Jilin,130400,Chrome,YouTube,/cancel,cancel
+2313058,,3,7466423d-bcc8-4201-a916-5b6d7ee2c7b2,2024-10-24 08:32:00.000000 UTC,15.232.164.5,Lianyungang,Jilin,130400,Chrome,Facebook,/cancel,cancel
+1413388,,3,3d6ad447-9b9d-4643-b1c3-1469fbd16677,2024-01-03 09:01:00.000000 UTC,100.233.182.186,Campinas,São Paulo,13050,Chrome,Email,/cancel,cancel
+1883489,,3,ac67b37b-894c-4d3f-95f1-27da7baca6c7,2020-12-19 01:47:00.000000 UTC,27.199.40.16,Zhangjiakou,Jilin,130502,Chrome,Adwords,/cancel,cancel
+1426062,,3,1bf5f8ac-283d-43f9-a708-78ed1077c703,2019-08-19 04:13:00.000000 UTC,185.4.102.211,Zhangjiakou,Jilin,130502,Firefox,Facebook,/cancel,cancel
+1502568,,3,61b51f31-5852-4fcb-8789-b312fb3a0ac0,2021-08-26 16:00:00.000000 UTC,49.134.95.121,Berlin,Berlin,13053,Chrome,Email,/cancel,cancel
+1499056,,3,9b9f0376-4ed5-42db-bc33-3b06a2049ced,2023-10-24 11:36:00.000000 UTC,181.84.208.168,Campinas,São Paulo,13054,Safari,Email,/cancel,cancel
+1654175,,3,41468055-fbd4-4b52-8aea-3582c883a1b6,2022-11-02 03:55:00.000000 UTC,19.18.108.148,Campinas,São Paulo,13054,Other,YouTube,/cancel,cancel
+1856440,,3,7b305fe2-7ad9-492b-b36a-9e3c5c8e206f,2020-01-17 01:19:00.000000 UTC,148.246.241.184,Campinas,São Paulo,13056,Safari,Adwords,/cancel,cancel
+2159134,,3,f3f69690-5512-4772-9f50-676dcc173b5d,2021-08-22 18:45:00.000000 UTC,61.153.68.38,Campinas,São Paulo,13056,Safari,Email,/cancel,cancel
+2166094,,3,28da6b85-f61d-42f8-a301-d05c17a0f5d4,2023-10-14 02:08:00.000000 UTC,82.150.166.70,Campinas,São Paulo,13060,Firefox,Adwords,/cancel,cancel
+1569993,,3,dd715ca8-6466-40cb-9d17-ff2bf76aedff,2022-11-28 14:29:00.000000 UTC,59.66.117.88,Berlin,Berlin,13088,Chrome,Adwords,/cancel,cancel
+1357633,,3,f8ee6797-85f1-4075-a9d0-6e3388f8fef2,2024-05-29 15:57:00.000000 UTC,30.226.229.245,Berlin,Berlin,13088,IE,Adwords,/cancel,cancel
+1385510,,3,e5812eb8-77a8-4225-857e-cf3961d8dad7,2025-06-09 01:42:00.000000 UTC,10.70.16.134,Seoul,Seoul,131-120,Chrome,Facebook,/cancel,cancel
+1380800,,3,4e2004f1-b551-4ca9-a1c6-b12d8796bac4,2021-02-20 00:36:00.000000 UTC,16.88.134.30,Seoul,Seoul,131-120,Safari,Email,/cancel,cancel
+2049350,,3,88f3fbf4-4626-429e-9a7a-5334dfb5ff5d,2019-11-18 01:09:00.000000 UTC,170.143.225.194,Seoul,Seoul,131-120,Chrome,Email,/cancel,cancel
+2381890,,3,c8f5552c-6dd8-4a11-8cd4-d00da08c7a70,2020-02-21 13:29:00.000000 UTC,136.188.167.51,Seoul,Seoul,131-130,Chrome,Adwords,/cancel,cancel
+1750867,,3,304204f0-2c2c-4b6a-81c8-a83da12acd1b,2023-01-27 03:30:00.000000 UTC,48.232.20.14,Seoul,Seoul,131-132,Firefox,Email,/cancel,cancel
+1577820,,3,7ca53c8a-287f-437c-9644-ef1e4fa611f2,2023-07-17 01:52:00.000000 UTC,104.76.188.142,Seoul,Seoul,131-142,Chrome,Adwords,/cancel,cancel
+2082745,,3,cb60e54d-2157-447c-a869-0deebfb28017,2023-04-07 16:09:00.000000 UTC,61.187.150.199,Seoul,Seoul,131-220,IE,Email,/cancel,cancel
+2132614,,3,d9b1246b-0930-44b0-a0af-9b5f1500aedb,2024-01-15 06:04:00.000000 UTC,194.40.205.40,Aix-en-Provence,Provence-Alpes-Côte d'Azur,13100,Safari,Email,/cancel,cancel
+1800879,,3,ed998f30-34d9-4c00-9324-a3f65e023e8b,2020-10-29 01:27:00.000000 UTC,199.36.156.77,Berlin,Berlin,13125,Safari,Email,/cancel,cancel
+1480001,,3,4a042d86-0e3e-4252-8f9c-b248ab38c2a4,2024-01-13 01:33:00.000000 UTC,169.17.231.244,Oswego,New York,13126,Other,Email,/cancel,cancel
+2156444,,3,94af435c-e8c9-4ada-bff8-9d423401bba1,2025-04-12 12:32:00.000000 UTC,103.93.69.238,Paulínia,São Paulo,13140-000,Chrome,Email,/cancel,cancel
+1469137,,3,8985d1ad-8a18-4080-871e-c5e20bf3e9af,2020-07-09 19:47:00.000000 UTC,219.115.157.46,Paulínia,São Paulo,13140-000,IE,YouTube,/cancel,cancel
+2159006,,3,5572ceb6-c94f-4dce-8f13-326db965cf7b,2023-02-26 17:55:00.000000 UTC,16.200.118.253,Paulínia,São Paulo,13140-000,IE,Adwords,/cancel,cancel
+1607743,,3,c6b12daf-d723-442e-b627-e845135ffd1a,2024-08-02 14:36:00.000000 UTC,154.207.244.182,Tarascon,Provence-Alpes-Côte d'Azur,13150,Chrome,Facebook,/cancel,cancel
+1958208,,3,1bb71f48-07c1-4fd7-a441-f216b7802de4,2024-08-13 10:05:00.000000 UTC,140.244.15.149,Cosmópolis,São Paulo,13150-000,Chrome,Email,/cancel,cancel
+2161913,,3,8dde2b76-bbfb-4e1a-b509-e6557459a7fc,2021-08-09 02:45:00.000000 UTC,94.68.41.62,Cosmópolis,São Paulo,13150-000,IE,Email,/cancel,cancel
+1720031,,3,e59a08d3-68cb-4456-b027-cd2dda9f700c,2023-05-04 02:48:00.000000 UTC,55.180.175.248,Cosmópolis,São Paulo,13150-000,Firefox,Email,/cancel,cancel
+1387681,,3,89d5a8d1-f219-440a-86bc-f0a123a15dea,2019-04-14 09:18:00.000000 UTC,87.11.253.158,Sumaré,São Paulo,13178,Chrome,Email,/cancel,cancel
+2331558,,3,448cc2df-f090-4ae9-8f8a-87d028f44eaa,2023-05-19 18:01:00.000000 UTC,137.2.132.75,Sumaré,São Paulo,13178,Chrome,Email,/cancel,cancel
+1615794,,3,0765ddad-eb0c-44a0-aa3b-1ae556fac509,2022-11-09 12:09:00.000000 UTC,35.164.59.142,Sumaré,São Paulo,13181-513,Chrome,Adwords,/cancel,cancel
+1578201,,3,9d2da332-e3ed-4bb2-b46c-41d09baa8634,2022-09-06 13:46:00.000000 UTC,29.194.219.204,Sumaré,São Paulo,13183-091,Chrome,YouTube,/cancel,cancel
+1860933,,3,874d3989-c72b-4b4e-8574-32958afa0e6f,2022-08-06 12:53:00.000000 UTC,209.219.99.79,Sumaré,São Paulo,13183-091,Firefox,Email,/cancel,cancel
+1342155,,3,e13a2950-26d8-44b0-83b9-e2a759dfa061,2023-03-22 04:11:00.000000 UTC,154.228.25.163,Sumaré,São Paulo,13183-091,Chrome,Adwords,/cancel,cancel
+1695210,,3,4c208f2a-ffa6-4d03-9f93-01e99e420a99,2021-01-11 04:13:00.000000 UTC,72.31.96.255,Sumaré,São Paulo,13183-091,Chrome,Adwords,/cancel,cancel
+1416328,,3,552a9a11-bd1a-45c5-ab33-4953f73f045a,2022-09-25 12:12:00.000000 UTC,208.126.167.76,Hortolândia,São Paulo,13188,Firefox,Adwords,/cancel,cancel
+2045696,,3,0bb2ac7a-202d-4ecb-bfeb-c4bbc67e4fa0,2024-09-18 02:14:00.000000 UTC,193.20.116.63,Hortolândia,São Paulo,13188,Firefox,Facebook,/cancel,cancel
+1886436,,3,bc46cef4-c3d6-4812-bf70-7142ef718466,2025-03-25 08:00:00.000000 UTC,201.3.76.180,Monte Mor,São Paulo,13190-000,Chrome,YouTube,/cancel,cancel
+2179834,,3,ee407cce-7cc9-4f8d-b0d5-6e0c0b63ce41,2022-04-20 13:51:00.000000 UTC,104.84.170.37,Monte Mor,São Paulo,13190-000,Chrome,Email,/cancel,cancel
+1748944,,3,f08514a2-e33d-46b4-8846-a4e88cf944d5,2019-08-06 16:18:00.000000 UTC,202.140.68.180,Tokyo,Tokyo,132-0013,Chrome,YouTube,/cancel,cancel
+1556217,,3,b86569ae-15ce-419b-99c2-3666c1ead4a7,2024-05-31 05:36:00.000000 UTC,38.234.47.66,Tokyo,Tokyo,132-0021,Firefox,Organic,/cancel,cancel
+1979470,,3,f416ee7b-60aa-45ed-9759-66a32e8a9d08,2022-05-25 09:20:00.000000 UTC,198.69.101.2,Tokyo,Tokyo,132-0024,Safari,YouTube,/cancel,cancel
+2195431,,3,4531b6c9-5233-418b-9242-1a18fe1ac6db,2023-06-11 09:45:00.000000 UTC,206.193.238.202,Tokyo,Tokyo,132-0033,Chrome,Email,/cancel,cancel
+1327460,,3,35cc0186-e7cd-41c5-90d4-87cc9e190317,2019-09-23 17:28:00.000000 UTC,57.74.182.186,Seoul,Seoul,132-010,Firefox,Adwords,/cancel,cancel
+1753811,,3,a374b70a-5755-47ba-9a67-b8c106b0b7a6,2022-08-29 17:25:00.000000 UTC,201.255.241.255,Seoul,Seoul,132-010,Chrome,Facebook,/cancel,cancel
+1672382,,3,7eec3757-a8e9-464e-82db-e9ea2efadea5,2020-07-08 05:20:00.000000 UTC,66.73.213.229,Seoul,Seoul,132-020,Chrome,Email,/cancel,cancel
+2210194,,3,33b36f64-4faf-437b-9d88-0c7e408295c2,2019-06-15 11:54:00.000000 UTC,188.205.36.112,Seoul,Seoul,132-030,Other,Adwords,/cancel,cancel
+2229393,,3,a6833ba3-7ab7-4116-877a-657b351b3b31,2025-05-22 17:46:00.000000 UTC,164.172.170.68,Seoul,Seoul,132-030,Chrome,Adwords,/cancel,cancel
+2281833,,3,f71f8b1f-b6d3-4820-b5bd-e75e6dbbcca0,2020-01-20 07:24:00.000000 UTC,143.249.186.176,Seoul,Seoul,132-030,Chrome,Email,/cancel,cancel
+1482841,,3,1d134e96-eecc-4dd0-9e0d-66ffdd7659b1,2021-09-03 19:58:00.000000 UTC,198.84.141.33,Seoul,Seoul,132-040,Safari,Organic,/cancel,cancel
+1353998,,3,0525ab34-7760-4da9-b1c3-baaa164a79a9,2022-02-04 19:21:00.000000 UTC,106.97.145.9,Seoul,Seoul,132-040,Safari,Adwords,/cancel,cancel
+1607244,,3,00964750-c345-4b41-9e97-7d540b3a4c2e,2021-02-18 02:28:00.000000 UTC,64.230.210.37,Seoul,Seoul,132-040,Safari,Email,/cancel,cancel
+1334588,,3,de353368-a43b-42a5-8b03-8449f95e8575,2024-02-19 19:22:00.000000 UTC,79.44.59.231,Seoul,Seoul,132-041,Chrome,Adwords,/cancel,cancel
+1755527,,3,46833d34-1dad-4baf-8e87-2110f8674c17,2025-01-04 07:30:00.000000 UTC,27.161.120.163,Seoul,Seoul,132-041,Other,Adwords,/cancel,cancel
+2198646,,3,2fd770f6-8c21-46e3-b764-9d6a71020307,2022-06-17 17:48:00.000000 UTC,78.49.3.240,Seoul,Seoul,132-041,Safari,Facebook,/cancel,cancel
+1726829,,3,9e57e8a9-6989-4ebc-b80f-4a714570bce8,2019-06-14 19:48:00.000000 UTC,48.113.20.193,Seoul,Seoul,132-045,Chrome,Adwords,/cancel,cancel
+2124366,,3,37aaddcd-a006-45c7-b0ae-896e488808a1,2023-08-08 09:02:00.000000 UTC,153.42.61.92,Beauvechain,Wallonia,1320,Firefox,Email,/cancel,cancel
+1640027,,3,a0b45c3d-25fe-4136-bc3a-25c9c6da46de,2020-11-24 01:10:00.000000 UTC,26.22.231.216,Chengdu,Jilin,132000,Chrome,Organic,/cancel,cancel
+1701452,,3,c61f520e-8032-4a95-b0ea-bc66b9098be1,2021-11-29 02:32:00.000000 UTC,126.229.214.97,Chengdu,Jilin,132000,Safari,Facebook,/cancel,cancel
+1493443,,3,316bf866-5a55-40cb-abaa-856d8576dd32,2021-06-03 19:33:00.000000 UTC,172.150.138.122,Chengdu,Jilin,132000,Chrome,Email,/cancel,cancel
+1983679,,3,5c28fb15-9bc5-42a2-a337-e8ac553e0c61,2021-08-05 12:00:00.000000 UTC,55.249.100.139,Chengdu,Jilin,132000,Chrome,YouTube,/cancel,cancel
+1631723,,3,cb902a23-2a48-494c-864b-7b8388f8d7ea,2019-06-16 08:39:00.000000 UTC,189.69.106.255,Chengdu,Jilin,132000,Firefox,Email,/cancel,cancel
+2001603,,3,c734c669-229f-49dd-8efe-ff76b3308b49,2020-11-13 03:46:00.000000 UTC,176.58.175.206,Shenzhen,Jilin,132001,Chrome,Email,/cancel,cancel
+1474192,,3,142e269f-45f7-4bd0-af2c-7df7ba5246d0,2021-04-04 05:41:00.000000 UTC,107.67.251.82,Shenzhen,Jilin,132001,Chrome,Email,/cancel,cancel
+1476811,,3,d2c081b6-1d1a-445d-a310-fed6fc7e76b5,2020-08-24 12:05:00.000000 UTC,146.143.135.194,Shenzhen,Jilin,132001,Firefox,Email,/cancel,cancel
+1665339,,3,99d48414-4a96-49d8-acf0-4f957a128244,2024-11-13 01:38:00.000000 UTC,101.231.24.67,Jinan,Jilin,132011,Chrome,Email,/cancel,cancel
+1661766,,3,20eceb06-1e77-47b0-aba5-e0443eee0844,2023-08-27 18:48:00.000000 UTC,94.145.17.81,Jundiaí,São Paulo,13213,Chrome,Adwords,/cancel,cancel
+1497119,,3,50d2d107-07cc-4e81-ae12-0f983a8df4ec,2021-03-14 14:17:00.000000 UTC,120.56.127.21,Shan Tou,Jilin,132699,Safari,Email,/cancel,cancel
+1460185,,3,eb2e9b99-74fb-4f4f-b0f1-f1eecbba1f0f,2025-05-05 11:03:00.000000 UTC,203.236.196.135,Shan Tou,Jilin,132699,Chrome,Facebook,/cancel,cancel
+2393159,,3,2bdbbedd-de14-4059-b1b9-4cd132a4742f,2025-06-01 06:33:00.000000 UTC,193.12.5.99,Shan Tou,Jilin,132699,Chrome,Email,/cancel,cancel
+2270366,,3,6eeb832d-097e-46cc-aff1-917e2e297cd1,2021-03-14 04:53:00.000000 UTC,95.144.63.108,Shan Tou,Jilin,132699,Chrome,YouTube,/cancel,cancel
+1300095,,3,b21f1904-1c96-49f8-bc32-500d41acabff,2019-03-06 16:34:00.000000 UTC,185.90.209.19,Shan Tou,Jilin,132699,Firefox,Adwords,/cancel,cancel
+1860552,,3,4f6228b9-5bfe-4cf2-97b6-f640f86ca40e,2024-08-19 16:15:00.000000 UTC,119.41.238.94,Valinhos,São Paulo,13274-465,Chrome,Facebook,/cancel,cancel
+2188466,,3,49cd15aa-5af8-45b2-9982-ed0bbd0ed86d,2022-01-12 02:34:00.000000 UTC,70.140.87.51,Valinhos,São Paulo,13274-465,Safari,Email,/cancel,cancel
+1364955,,3,c4553ffa-ddf1-4ee3-9eb6-4fdc182368d7,2022-10-10 05:54:00.000000 UTC,41.75.192.176,Valinhos,São Paulo,13274-465,Chrome,Email,/cancel,cancel
+1334967,,3,c0ab26e6-19ae-4d12-950d-1a6bde65f538,2022-09-22 13:22:00.000000 UTC,148.162.49.79,Vinhedo,São Paulo,13280-000,Chrome,Adwords,/cancel,cancel
+2026744,,3,f460216d-003b-4eb8-a1f9-226b45386da7,2019-11-16 11:21:00.000000 UTC,218.160.156.197,Vinhedo,São Paulo,13280-000,Safari,Email,/cancel,cancel
+2080851,,3,0efe60e7-2e64-42a3-a9b8-33af97610469,2022-11-07 06:09:00.000000 UTC,134.50.47.74,Louveira,São Paulo,13290-000,Safari,Email,/cancel,cancel
+1657572,,3,cd7dcf53-bf96-44b4-b24f-7156e3833622,2024-05-16 07:15:00.000000 UTC,167.90.209.73,Tokyo,Tokyo,133-0051,Chrome,Email,/cancel,cancel
+2110737,,3,7ada66b9-364f-4b69-83f6-8d3abdfc53c0,2020-03-29 15:45:00.000000 UTC,126.186.23.60,Seoul,Seoul,133-112,Chrome,Email,/cancel,cancel
+1438751,,3,47d231cf-d867-446a-8484-422ad4c2abd4,2022-10-24 18:57:00.000000 UTC,136.77.128.44,Seoul,Seoul,133-120,Chrome,Email,/cancel,cancel
+1762074,,3,3d216da3-7f43-4cb1-a959-84909d11e12d,2020-01-02 16:48:00.000000 UTC,108.71.72.198,Valdepeñas,Castilla-La Mancha,13300,Chrome,Email,/cancel,cancel
+2079943,,3,0ac4f835-5d5a-4178-876d-5834f936f4c9,2023-10-13 16:28:00.000000 UTC,159.158.230.222,Bouc-Bel-Air,Provence-Alpes-Côte d'Azur,13320,Firefox,Email,/cancel,cancel
+1743087,,3,96d1e0be-6121-45ef-af78-97667c567ac8,2024-02-07 05:10:00.000000 UTC,211.187.23.121,Indaiatuba,São Paulo,13345,Chrome,Adwords,/cancel,cancel
+1626097,,3,7e5f276f-3012-4fc0-a32c-98e8acba0b50,2023-12-26 06:28:00.000000 UTC,38.240.33.146,Capivari,São Paulo,13360-000,Firefox,Email,/cancel,cancel
+1674497,,3,a95742bc-78c9-4e0c-b0e8-ada0ed9861c7,2020-10-06 03:37:00.000000 UTC,216.196.226.161,Huaian,Jilin,133712,Firefox,Organic,/cancel,cancel
+1619133,,3,789abac4-f877-4bf0-a582-5c9704c92543,2021-02-01 14:51:00.000000 UTC,191.242.249.155,Huaian,Jilin,133712,IE,YouTube,/cancel,cancel
+2407131,,3,5cdc565c-5b97-46f0-891e-0f4ee2a399bc,2020-03-14 14:50:00.000000 UTC,111.203.9.236,Huaian,Jilin,133712,Safari,Email,/cancel,cancel
+1713728,,3,cce1165e-6ceb-40f0-b204-6af346f9f4e4,2021-06-26 01:37:00.000000 UTC,118.201.170.133,Huaian,Jilin,133712,Chrome,Organic,/cancel,cancel
+1395357,,3,09ec8a93-661b-477c-a76a-b97f9f063ab7,2024-03-25 16:35:00.000000 UTC,85.59.134.9,Rio das Pedras,São Paulo,13390-000,Chrome,Adwords,/cancel,cancel
+1868869,,3,bcf8acca-1f6e-430f-9c4d-7024ad9f08c4,2022-08-21 09:29:00.000000 UTC,79.163.227.24,Tokyo,Tokyo,134-0081,Chrome,Adwords,/cancel,cancel
+2374160,,3,02112375-57da-4422-b3ce-d65dcf52f794,2025-06-13 04:20:00.000000 UTC,93.37.120.40,Tokyo,Tokyo,134-0083,Chrome,Adwords,/cancel,cancel
+1807440,,3,69752fb4-8f39-4e53-8f45-23bce8699d47,2024-11-13 12:11:00.000000 UTC,207.198.155.8,Tokyo,Tokyo,134-0084,Chrome,Organic,/cancel,cancel
+1655552,,3,a3600376-0f42-4f5e-ae42-4550df1ebb69,2020-12-13 07:19:00.000000 UTC,175.138.127.205,Tokyo,Tokyo,134-0088,Chrome,Adwords,/cancel,cancel
+2199780,,3,b01fd054-4d15-42fa-8d6b-93ea445be496,2022-12-01 16:12:00.000000 UTC,110.135.202.3,Tokyo,Tokyo,134-0088,Chrome,Email,/cancel,cancel
+1683583,,3,27eb788b-2520-4667-bc51-a2136f6a1bed,2020-03-06 12:53:00.000000 UTC,187.48.179.200,Seoul,Seoul,134-021,Firefox,Email,/cancel,cancel
+2108782,,3,7cd4f372-6c85-4b3c-8da6-8cafd6f1f69a,2019-09-21 12:01:00.000000 UTC,68.46.199.100,Seoul,Seoul,134-080,Firefox,Adwords,/cancel,cancel
+1948525,,3,65a06001-431b-4d3f-9b14-23d5e5e43510,2020-08-21 08:42:00.000000 UTC,189.92.161.101,Foissiat,Auvergne-Rhône-Alpes,1340,Firefox,Adwords,/cancel,cancel
+1844683,,3,349c2b7c-1a55-483f-b3db-0f44e3689513,2020-09-05 18:26:00.000000 UTC,183.88.24.85,Yueyang,Jilin,134001,Chrome,Facebook,/cancel,cancel
+1945404,,3,d74b9c46-a2f0-49da-bb43-11c6c709306b,2020-04-24 11:49:00.000000 UTC,155.189.137.205,Yueyang,Jilin,134001,Firefox,Facebook,/cancel,cancel
+1544800,,3,7d70e766-69ce-4e79-ac49-8c6acf2b0dc8,2023-03-02 05:01:00.000000 UTC,136.41.167.7,Piracicaba,São Paulo,13401,Chrome,Organic,/cancel,cancel
+2303915,,3,77f861df-ca06-43d1-8841-76d1ce3acfca,2021-04-05 14:03:00.000000 UTC,87.159.40.61,Berlin,Berlin,13405,Safari,Email,/cancel,cancel
+1313882,,3,c965114d-739d-4337-a5dd-18af3c7b2f2f,2024-07-21 17:30:00.000000 UTC,217.194.184.75,Berlin,Berlin,13407,Firefox,Email,/cancel,cancel
+1437756,,3,b776a4d4-2ec5-4d8d-8505-722f0e2678ff,2019-09-01 17:47:00.000000 UTC,21.178.174.10,Zhenjiang,Jilin,134301,Safari,Facebook,/cancel,cancel
+1654650,,3,d9f81be3-4af6-429f-a1fc-05855fc5655f,2019-01-29 11:56:00.000000 UTC,50.14.196.189,Rome,New York,13440,Safari,Facebook,/cancel,cancel
+2120815,,3,8a0085da-ba50-4993-86ea-b1d89ea4a398,2022-05-11 16:20:00.000000 UTC,162.92.113.70,Berlin,Berlin,13465,Safari,Email,/cancel,cancel
+1640108,,3,864039a5-dff5-4e9b-9eb9-6a7132d05d49,2022-12-06 13:18:00.000000 UTC,155.173.66.232,Limeira,São Paulo,13481,Safari,Email,/cancel,cancel
+2237478,,3,a72c07a9-c72a-4398-9d2d-af4a2d5cb96f,2019-12-24 14:55:00.000000 UTC,153.104.139.19,Limeira,São Paulo,13481,Chrome,Facebook,/cancel,cancel
+2336520,,3,ad7fb26d-7344-41c0-b9f7-6b7016d96bf5,2021-11-29 12:12:00.000000 UTC,13.146.220.194,Limeira,São Paulo,13483,Chrome,Email,/cancel,cancel
+1596163,,3,3c0f5672-939b-4669-9e99-11f3af759c8c,2022-04-21 10:03:00.000000 UTC,86.164.70.79,Limeira,São Paulo,13483,Other,Adwords,/cancel,cancel
+1807551,,3,a66a1ecb-16a6-4357-a33b-3de0efdf92d4,2019-09-21 02:13:00.000000 UTC,144.189.231.163,Limeira,São Paulo,13485,Safari,Adwords,/cancel,cancel
+2049081,,3,515251fb-2e7d-4640-8192-7a5c6a56be79,2019-12-23 01:28:00.000000 UTC,215.151.57.220,Limeira,São Paulo,13487,Chrome,YouTube,/cancel,cancel
+1376935,,3,207b2803-b061-40d5-9af3-be0cf783a740,2022-05-19 15:03:00.000000 UTC,177.43.206.159,Limeira,São Paulo,13487,Firefox,Adwords,/cancel,cancel
+1721996,,3,3e2c2ada-9a4a-48bd-9a10-9153882fe9cb,2024-07-22 04:04:00.000000 UTC,223.215.115.85,Tokyo,Tokyo,135-0043,Chrome,Email,/cancel,cancel
+1950041,,3,7f5a19af-4f7d-44ae-85fb-f90b68f8aaf7,2020-05-05 12:07:00.000000 UTC,3.105.128.208,Seoul,Seoul,135-010,Safari,Organic,/cancel,cancel
+1364151,,3,f66b4d8b-55fe-4ea0-ab7d-db1a7800eead,2023-08-07 06:14:00.000000 UTC,118.86.43.220,Seoul,Seoul,135-012,Chrome,Adwords,/cancel,cancel
+2344994,,3,fab1a27f-293e-431b-bc87-43462b02130a,2023-01-20 16:37:00.000000 UTC,181.243.160.110,Seoul,Seoul,135-082,Chrome,Facebook,/cancel,cancel
+2292223,,3,f43a709d-c801-4814-9b26-1b76f7970410,2019-04-14 07:38:00.000000 UTC,168.235.222.71,Seoul,Seoul,135-092,Chrome,Adwords,/cancel,cancel
+2000501,,3,6e1b3353-9625-459e-834c-b1bb451a54a0,2023-02-01 19:06:00.000000 UTC,96.71.148.74,Seoul,Seoul,135-120,Other,Email,/cancel,cancel
+2112282,,3,53323833-bcce-4b58-a5ee-5f8e4aadf985,2019-12-27 16:08:00.000000 UTC,176.179.176.240,Seoul,Seoul,135-244,Chrome,YouTube,/cancel,cancel
+2409789,,3,e154a78c-38f7-4ae3-8022-353ab0e354c7,2022-07-30 04:19:00.000000 UTC,68.161.249.49,Utica,New York,13502,Firefox,YouTube,/cancel,cancel
+1746737,,3,6e002c43-88b2-4693-a5ff-37b6ea5085b2,2024-09-24 10:42:00.000000 UTC,200.42.188.246,Rio Claro,São Paulo,13504,Chrome,Facebook,/cancel,cancel
+1930519,,3,f1f7ff40-339a-4081-b73b-95ed7164fe13,2021-02-15 05:46:00.000000 UTC,204.89.43.223,Rio Claro,São Paulo,13505,Chrome,Facebook,/cancel,cancel
+1610180,,3,c99b0167-6de0-4dbe-a2d0-7c06513bb44b,2022-12-14 18:40:00.000000 UTC,108.157.172.69,Berlin,Berlin,13509,Chrome,Email,/cancel,cancel
+2339323,,3,0770bf77-7847-4266-b730-84092766a4e6,2024-07-31 05:56:00.000000 UTC,52.11.248.151,Hohhot,Jilin,135099,Firefox,Email,/cancel,cancel
+1931188,,3,edd7d833-103d-4bfc-872f-d29bf578a010,2024-08-27 08:21:00.000000 UTC,86.160.55.37,Berlin,Berlin,13581,IE,Email,/cancel,cancel
+2396750,,3,7a8b8add-9a0c-4cfe-aa2b-37817a069ccf,2023-06-23 10:10:00.000000 UTC,208.176.237.249,Tokyo,Tokyo,136-0075,Chrome,Facebook,/cancel,cancel
+1528012,,3,aa9539a1-580c-4873-829c-d65e6556a82f,2023-04-10 16:45:00.000000 UTC,34.85.111.60,Seoul,Seoul,136-020,Chrome,Email,/cancel,cancel
+2129385,,3,24f3c638-af81-4196-a997-21e69ab877d6,2020-04-28 18:49:00.000000 UTC,222.177.177.28,Seoul,Seoul,136-130,Firefox,Email,/cancel,cancel
+1595286,,3,94a110bd-a7e1-4504-b3ac-a659ab39b280,2023-09-03 05:30:00.000000 UTC,41.34.19.207,Seoul,Seoul,136-140,Firefox,Adwords,/cancel,cancel
+1318262,,3,f9c67855-e2b8-4833-9db9-70f04bfc35f0,2024-05-19 01:04:00.000000 UTC,180.154.86.3,Seoul,Seoul,136-142,Firefox,YouTube,/cancel,cancel
+1337312,,3,49a7426e-8ba6-4932-8e9a-2a634be4bdea,2022-11-06 01:32:00.000000 UTC,35.67.91.193,Seoul,Seoul,136-150,Chrome,Facebook,/cancel,cancel
+1852097,,3,b16bc639-995b-4680-b385-5f476bab2fd0,2024-04-10 08:21:00.000000 UTC,187.20.126.131,Alcázar de San Juan,Castilla-La Mancha,13600,Chrome,Email,/cancel,cancel
+1606628,,3,7780cbe0-a678-4270-8fe8-009903f8b5f3,2021-03-22 09:42:00.000000 UTC,141.168.17.153,La Ciotat,Provence-Alpes-Côte d'Azur,13600,Chrome,Email,/cancel,cancel
+1984836,,3,d94758cd-5138-4acb-b909-be3a85a79c2f,2025-06-02 16:37:00.000000 UTC,1.142.33.32,Nanjing,Jilin,136001,Chrome,Facebook,/cancel,cancel
+2101865,,3,e82538fb-a6fc-43d2-9d74-817b5204fee9,2024-08-17 02:33:00.000000 UTC,221.199.77.166,Nanjing,Jilin,136001,Chrome,Email,/cancel,cancel
+2275058,,3,36226257-5db4-4c1b-a416-671d94fee200,2024-11-10 17:07:00.000000 UTC,92.57.98.45,Nanjing,Jilin,136001,IE,Organic,/cancel,cancel
+1356070,,3,8aa63545-76b4-4e03-bb13-5ca29172a843,2024-02-07 15:24:00.000000 UTC,207.2.209.224,Chongqing,Jilin,136099,Chrome,Email,/cancel,cancel
+1428859,,3,dc0a0f64-8510-4f9d-8250-9d7c5c9a8d26,2021-02-06 08:49:00.000000 UTC,159.236.89.97,Shanghai,Jilin,136199,Firefox,Organic,/cancel,cancel
+2097464,,3,4e99f678-6ef5-46fa-947b-e81cf0a0293e,2023-04-18 01:08:00.000000 UTC,76.129.115.188,Shanghai,Jilin,136199,Chrome,YouTube,/cancel,cancel
+2406199,,3,16e07ec3-1493-4ddb-a335-4c8a2e479da3,2023-10-18 11:04:00.000000 UTC,170.73.22.191,Shanghai,Jilin,136199,Chrome,Email,/cancel,cancel
+1963165,,3,4e2cf6a3-c190-4e33-9f06-a0ef46c9b263,2020-12-10 05:38:00.000000 UTC,6.70.180.75,Shanghai,Jilin,136199,Firefox,Facebook,/cancel,cancel
+1657089,,3,02269444-0ed8-4cb1-8189-cb648a22c8da,2024-01-28 02:33:00.000000 UTC,159.128.38.99,Shanghai,Jilin,136199,Other,Email,/cancel,cancel
+2286712,,3,5aaf4cdc-68e8-4d94-ad59-858215448794,2019-12-31 05:46:00.000000 UTC,148.25.186.104,Shanghai,Jilin,136199,Chrome,Email,/cancel,cancel
+2281371,,3,079f4ac3-6931-400d-a330-0fbc41ab6323,2019-03-15 14:44:00.000000 UTC,107.35.213.0,Shan Tou,Jilin,136201,Chrome,Adwords,/cancel,cancel
+2404312,,3,8ab00277-8a7d-4628-9f91-6933cd28d0f7,2021-04-26 05:58:00.000000 UTC,172.84.15.83,Shan Tou,Jilin,136201,Chrome,Adwords,/cancel,cancel
+1815662,,3,3e520d5c-ec93-4da1-ad46-f597972b167d,2021-06-27 08:18:00.000000 UTC,138.27.246.238,Shan Tou,Jilin,136201,Firefox,Email,/cancel,cancel
+1538757,,3,653c6bda-1e21-4297-9378-d0e8379e9ca6,2024-09-06 05:16:00.000000 UTC,198.186.215.181,Shan Tou,Jilin,136201,Chrome,Adwords,/cancel,cancel
+2073535,,3,f136faf1-a8cd-4c54-8b96-baae1104234e,2020-06-09 05:35:00.000000 UTC,112.214.43.207,Shan Tou,Jilin,136201,Chrome,Email,/cancel,cancel
+2118383,,3,e3a0f67c-b6ed-4b7b-9a1a-9aa2f03cecb1,2020-05-26 09:26:00.000000 UTC,151.250.190.174,Santa Cruz das Palmeiras,São Paulo,13650-000,Safari,Email,/cancel,cancel
+1459794,,3,e5f8fe16-3142-4f2d-9894-1a5698508b56,2022-07-11 08:21:00.000000 UTC,106.22.214.31,Seoul,Seoul,137-030,Chrome,Email,/cancel,cancel
+1948870,,3,8eeadbc2-e7ca-4e39-8d09-4454c8cfe0fd,2022-12-15 08:45:00.000000 UTC,177.242.62.225,Seoul,Seoul,137-030,Chrome,Email,/cancel,cancel
+1410394,,3,96c02f6c-0119-4d6c-97cf-ec99cb275705,2023-06-01 14:45:00.000000 UTC,203.232.82.22,Seoul,Seoul,137-060,Firefox,Adwords,/cancel,cancel
+1935223,,3,d63591a5-ec07-403f-8954-423c33ffb6e2,2024-11-18 17:20:00.000000 UTC,180.40.249.166,Seoul,Seoul,137-060,Other,Email,/cancel,cancel
+2001705,,3,7dc3c4eb-2947-4d33-8f98-9425173c150b,2019-10-05 01:18:00.000000 UTC,215.161.160.74,Seoul,Seoul,137-060,Chrome,Email,/cancel,cancel
+1347091,,3,cfc17f2f-61a9-4baa-9ac3-b412eab191fe,2024-06-21 03:48:00.000000 UTC,170.244.109.105,Seoul,Seoul,137-070,Firefox,Facebook,/cancel,cancel
+2181297,,3,fc13d845-06db-4420-b5a6-0da6605a892f,2025-05-29 10:10:00.000000 UTC,137.121.136.56,Seoul,Seoul,137-070,Firefox,Email,/cancel,cancel
+1408604,,3,aef15ad4-20ea-4085-ba1c-1d384ea60da1,2022-11-18 05:08:00.000000 UTC,83.32.179.174,Seoul,Seoul,137-130,Chrome,Organic,/cancel,cancel
+2239367,,3,547f1785-11e9-408d-a3f7-ae529cda4c8a,2022-04-26 15:32:00.000000 UTC,167.26.225.98,Seoul,Seoul,137-131,Chrome,Email,/cancel,cancel
+1400671,,3,7282cd27-e829-4f67-8ae6-56208ecce033,2024-09-24 12:14:00.000000 UTC,201.133.102.50,Seoul,Seoul,137-132,Firefox,Email,/cancel,cancel
+2127386,,3,1e0f71df-c926-44ec-8b94-fcd126464b69,2021-02-18 02:49:00.000000 UTC,132.78.83.186,Seoul,Seoul,137-140,Firefox,Email,/cancel,cancel
+1351900,,3,0358f508-1abb-4d53-aeb9-c70a594727c5,2022-12-24 05:22:00.000000 UTC,1.235.44.183,Seoul,Seoul,137-140,Chrome,Adwords,/cancel,cancel
+1502683,,3,5a2b04b1-2dd7-4135-89e7-8a64d1a0f4f6,2021-11-01 16:57:00.000000 UTC,183.155.64.110,Marignane,Provence-Alpes-Côte d'Azur,13700,Firefox,Email,/cancel,cancel
+2094418,,3,37049520-e2af-4f8d-b47e-ce70fa893767,2020-03-16 07:15:00.000000 UTC,86.148.79.117,Zunyi,Jilin,137000,Chrome,Email,/cancel,cancel
+1390377,,3,1ca75321-a45c-4eea-a199-4ddeb8ee3b99,2025-01-28 09:24:00.000000 UTC,199.13.32.103,Linyi,Jilin,137099,Chrome,Facebook,/cancel,cancel
+1616969,,3,b7f7a55c-e2ff-42aa-bfd5-fb36cefac7d5,2022-01-27 08:05:00.000000 UTC,131.89.167.172,Argamasilla de Alba,Castilla-La Mancha,13710,Firefox,Email,/cancel,cancel
+1937281,,3,3f582d18-5423-4fe6-bf78-dc574972281e,2019-08-31 09:07:00.000000 UTC,189.224.40.227,Qinhuangdao,Jilin,137199,Firefox,Email,/cancel,cancel
+1508909,,3,dff84e16-c5a0-4d52-bbf4-9fec14f91009,2019-02-14 03:35:00.000000 UTC,25.93.181.246,Qinhuangdao,Jilin,137199,Chrome,Facebook,/cancel,cancel
+1638383,,3,1c0409bb-dffd-4ae1-8e77-db277b5ee438,2019-07-31 02:51:00.000000 UTC,149.246.189.139,São José do Rio Pardo,São Paulo,13720-000,IE,YouTube,/cancel,cancel
+1741684,,3,93d69ee9-f392-497e-9725-99b2da1b6241,2021-11-28 03:09:00.000000 UTC,193.76.138.114,Endwell,New York,13760,Other,Email,/cancel,cancel
+1878876,,3,268b9f82-a913-48e7-abdb-6236ed66e7ed,2023-08-06 03:50:00.000000 UTC,113.141.16.23,Seoul,Seoul,138-040,Firefox,Email,/cancel,cancel
+1410012,,3,d0cd1c30-e75c-4f82-be68-d63f50703428,2024-06-03 05:21:00.000000 UTC,218.70.240.79,Seoul,Seoul,138-050,Chrome,Email,/cancel,cancel
+1792491,,3,43e549e9-d3d4-4d79-8b16-7f4def487d81,2020-08-18 07:52:00.000000 UTC,114.104.153.143,Seoul,Seoul,138-050,Safari,YouTube,/cancel,cancel
+1528917,,3,0e74caa9-2ee6-4a75-be91-deeb800fd5f5,2021-07-09 14:41:00.000000 UTC,202.184.165.194,Seoul,Seoul,138-052,Firefox,Adwords,/cancel,cancel
+1652039,,3,c2c88ded-cacf-4326-ba81-6adfaee262f5,2024-12-16 18:57:00.000000 UTC,102.233.165.47,Seoul,Seoul,138-120,Safari,Adwords,/cancel,cancel
+1508219,,3,a7def861-1f0d-4538-ba85-d7a090339735,2019-12-03 02:31:00.000000 UTC,189.174.54.242,Seoul,Seoul,138-171,Firefox,Organic,/cancel,cancel
+2188862,,3,183fa175-ff14-4912-91fe-1bba12637142,2023-09-27 13:01:00.000000 UTC,110.12.196.202,Seoul,Seoul,138-210,Safari,Adwords,/cancel,cancel
+1862195,,3,b0459a72-6aaa-46a4-8a40-6f394044ec04,2021-12-19 18:37:00.000000 UTC,149.225.141.205,Seoul,Seoul,138-220,Other,Adwords,/cancel,cancel
+1737522,,3,291be4f1-3022-46e0-880a-5993e6885998,2024-12-15 10:48:00.000000 UTC,16.190.177.53,Seoul,Seoul,138-240,Chrome,Adwords,/cancel,cancel
+1795524,,3,38aaaf61-f154-4ffb-af05-942eb4cef690,2020-11-15 16:30:00.000000 UTC,59.165.117.103,Seoul,Seoul,138-240,Safari,YouTube,/cancel,cancel
+2071897,,3,1be3f98c-bb75-4c77-86d6-38dcbec043b4,2022-06-25 06:31:00.000000 UTC,34.46.89.235,Seoul,Seoul,138-240,Other,Email,/cancel,cancel
+2028441,,3,91f8306f-d035-486c-836a-266681f63ee7,2021-05-26 04:41:00.000000 UTC,168.124.119.18,Kaifeng,Jilin,138000,Chrome,Email,/cancel,cancel
+1413896,,3,ecea30fc-b7e4-4075-a43e-e361997e41ea,2019-09-23 08:46:00.000000 UTC,109.133.63.87,Kaifeng,Jilin,138000,Firefox,Email,/cancel,cancel
+1454414,,3,1559204f-5205-4565-9fe4-0f62b2e2e50b,2022-06-26 05:19:00.000000 UTC,22.90.248.47,Jinhua,Jilin,138001,Chrome,Email,/cancel,cancel
+1512745,,3,3da348d8-2917-43a2-b8d4-ccebe7f5c588,2020-07-24 14:54:00.000000 UTC,1.255.230.188,Jaguariúna,São Paulo,13820-000,Safari,Email,/cancel,cancel
+1653469,,3,50b3115e-ed69-4f8c-8c05-b457b433293f,2019-12-07 12:51:00.000000 UTC,164.222.254.141,Jaguariúna,São Paulo,13820-000,Chrome,Email,/cancel,cancel
+2261198,,3,dfa8547a-e955-490e-a3ce-2e88115b8817,2020-04-04 01:56:00.000000 UTC,17.190.125.23,Jaguariúna,São Paulo,13820-000,Other,Adwords,/cancel,cancel
+2347857,,3,021ad32a-1309-4516-b937-cb60083612cd,2022-05-22 07:21:00.000000 UTC,174.210.226.187,Seoul,Seoul,139-050,Firefox,Adwords,/cancel,cancel
+1415780,,3,d95ae0dd-2b8e-4c99-9452-b121b047ed97,2024-12-01 08:52:00.000000 UTC,77.70.111.249,Seoul,Seoul,139-050,IE,Email,/cancel,cancel
+2081348,,3,60edf010-bfed-4e7c-b57e-47694be98ed7,2023-11-08 06:47:00.000000 UTC,35.238.169.116,Seoul,Seoul,139-053,Chrome,Email,/cancel,cancel
+1603776,,3,602654f8-c8b8-4c40-ab78-bb3ef48f42a2,2021-07-04 02:50:00.000000 UTC,140.29.213.9,Seoul,Seoul,139-200,Chrome,Email,/cancel,cancel
+2302718,,3,5ddc8ca1-d509-4113-b495-a33b824fc79f,2023-12-10 18:33:00.000000 UTC,13.5.84.72,Seoul,Seoul,139-200,Chrome,Email,/cancel,cancel
+1806528,,3,0279ee98-d21a-4fd9-af13-052aba1fd3fe,2022-01-22 01:20:00.000000 UTC,139.144.16.76,Seoul,Seoul,139-200,Chrome,YouTube,/cancel,cancel
+1572738,,3,a331f9dd-0010-4ad4-8b64-571309bd777e,2021-06-07 09:45:00.000000 UTC,158.109.26.60,Seoul,Seoul,139-200,Firefox,Adwords,/cancel,cancel
+1416132,,3,2d37cbc9-7d9e-4152-9acc-bf8c8bc2d17f,2021-08-24 06:08:00.000000 UTC,132.186.137.228,Seoul,Seoul,139-201,Other,Email,/cancel,cancel
+2091875,,3,d54797f7-f113-43f8-b8ce-715a3c08aacb,2024-09-02 10:56:00.000000 UTC,130.191.143.11,Seoul,Seoul,139-201,Safari,Email,/cancel,cancel
+1621866,,3,0381f2a6-f942-42b6-beb1-78859c35f762,2023-05-19 11:47:00.000000 UTC,123.189.232.12,Seoul,Seoul,139-201,Firefox,Email,/cancel,cancel
+1879014,,3,a202a73d-a13b-451e-a802-6bab5475bfa0,2024-09-07 02:06:00.000000 UTC,31.242.157.36,Seoul,Seoul,139-208,Chrome,Email,/cancel,cancel
+2052591,,3,78f0b5ff-25d2-43c2-b349-369ecacf2b7f,2024-05-24 11:06:00.000000 UTC,87.102.9.178,Seoul,Seoul,139-220,Safari,Organic,/cancel,cancel
+1407916,,3,22f3d9ed-be7e-4dc9-8df9-73eb119d2e05,2019-12-29 14:35:00.000000 UTC,129.41.224.228,Seoul,Seoul,139-220,Chrome,YouTube,/cancel,cancel
+1701695,,3,dbd2582a-aac5-4bf9-aee1-137d6a3891a6,2020-02-20 11:59:00.000000 UTC,152.239.62.238,Seoul,Seoul,139-223,Chrome,Email,/cancel,cancel
+2238191,,3,e8ae9fad-b3f2-46b0-af38-cd3931ca62b1,2023-04-29 09:39:00.000000 UTC,55.43.20.164,Seoul,Seoul,139-230,Chrome,Email,/cancel,cancel
+1683414,,3,71b3884d-7932-4f5b-8d5b-d201f1b5a880,2019-06-25 15:48:00.000000 UTC,153.235.208.195,Seoul,Seoul,139-240,Safari,Email,/cancel,cancel
+1673649,,3,40411bde-7c78-4930-9399-265c91fdd7f5,2022-08-16 15:48:00.000000 UTC,30.90.220.91,Seoul,Seoul,139-240,Chrome,YouTube,/cancel,cancel
+2213576,,3,94c4bc5a-2715-47b9-8a88-d0d2dcffc8b1,2025-04-09 11:51:00.000000 UTC,95.46.153.171,Seoul,Seoul,139-242,Chrome,Adwords,/cancel,cancel
+1686678,,3,2ee4701c-c7a7-45b1-badb-dd0277cd0c8b,2023-10-01 18:33:00.000000 UTC,198.249.105.74,Pedreira,São Paulo,13920-000,Chrome,Email,/cancel,cancel
+2233463,,3,25b5f130-c38c-4059-b339-96fcb5ca428b,2021-07-16 03:16:00.000000 UTC,208.207.218.31,Pedreira,São Paulo,13920-000,Chrome,Adwords,/cancel,cancel
+2118864,,3,9cc1c13f-f1b0-4b14-914d-f05d039628e5,2024-09-02 07:53:00.000000 UTC,212.185.164.128,Tokyo,Tokyo,140-0011,Chrome,Email,/cancel,cancel
+2064771,,3,3213ad41-ccc4-4281-acbd-3d703016ae0b,2021-11-02 12:02:00.000000 UTC,44.61.245.178,Tokyo,Tokyo,140-0013,Chrome,Facebook,/cancel,cancel
+2260049,,3,270e7a54-e553-4c24-b6aa-5d49ac13183e,2023-02-20 18:46:00.000000 UTC,37.12.125.32,Tokyo,Tokyo,140-0014,Chrome,YouTube,/cancel,cancel
+1986891,,3,4c294291-4cb0-4e83-8539-6f18840ab10b,2019-08-08 18:52:00.000000 UTC,26.254.209.168,Seoul,Seoul,140-030,Chrome,YouTube,/cancel,cancel
+1932595,,3,6089e1d9-d11d-41e9-9225-d4d8910b233e,2019-11-13 01:18:00.000000 UTC,24.114.116.121,Seoul,Seoul,140-030,Chrome,Organic,/cancel,cancel
+1814008,,3,d433b94c-8882-48fe-815b-ba9e0b209a7d,2021-08-29 10:13:00.000000 UTC,134.82.12.11,Seoul,Seoul,140-030,Safari,Adwords,/cancel,cancel
+2416720,,3,3b76efba-d32f-4f5a-a1cf-261a2c60506f,2025-02-14 19:10:00.000000 UTC,91.36.41.149,Caen,Normandie,14000,Chrome,Email,/cancel,cancel
+1322265,,3,304ad737-1f38-47c9-bd4a-428da0f3d2d1,2019-03-26 05:56:00.000000 UTC,186.45.234.210,Córdoba,Andalucía,14009,Safari,Adwords,/cancel,cancel
+1415666,,3,26ab60ae-abb1-4966-9328-ec587fab45b3,2023-08-24 02:36:00.000000 UTC,69.253.151.247,Córdoba,Andalucía,14010,Chrome,Email,/cancel,cancel
+1513966,,3,b35dd51d-145f-42a3-8286-f7fe956452c7,2022-09-30 10:25:00.000000 UTC,137.179.8.136,Córdoba,Andalucía,14011,Chrome,Adwords,/cancel,cancel
+1950450,,3,6da5256d-6053-4b0a-bd04-a89db551d536,2023-01-03 04:05:00.000000 UTC,65.175.102.176,Beijing,Inner Mongolia Autonomous Region,14017,Safari,Email,/cancel,cancel
+1509487,,3,3714e758-6255-49e3-9918-2a836e868ea2,2019-12-11 13:07:00.000000 UTC,79.74.104.104,Beijing,Inner Mongolia Autonomous Region,14017,Chrome,Facebook,/cancel,cancel
+2103945,,3,025185fa-fb08-4788-be09-b935fc636848,2019-05-23 12:36:00.000000 UTC,29.245.76.114,Beijing,Inner Mongolia Autonomous Region,14017,Firefox,Email,/cancel,cancel
+2399300,,3,b7c09579-88d8-4797-a7e5-253a40288e16,2020-05-04 05:07:00.000000 UTC,165.190.163.4,Urumqi,Inner Mongolia Autonomous Region,14020,Chrome,Email,/cancel,cancel
+1634247,,3,83c6964e-722e-4817-8bf4-47f22cdd3be8,2024-06-12 15:05:00.000000 UTC,109.71.81.116,Foshan,Inner Mongolia Autonomous Region,14025,Firefox,Email,/cancel,cancel
+2160854,,3,585227cf-6335-4324-bf77-717443eeac13,2023-01-17 04:37:00.000000 UTC,207.208.201.198,Foshan,Inner Mongolia Autonomous Region,14025,Safari,Facebook,/cancel,cancel
+1976162,,3,d5fdeeb1-8db7-4a1b-a0ef-07511b5d914b,2023-10-19 01:55:00.000000 UTC,54.139.84.158,Foshan,Inner Mongolia Autonomous Region,14025,Firefox,Email,/cancel,cancel
+1823567,,3,60d9f66c-5bab-4274-8a24-f279d6263dbf,2023-03-23 12:42:00.000000 UTC,172.65.224.152,Majaneque,Andalucía,14029,Safari,YouTube,/cancel,cancel
+1974004,,3,c92c6262-46d9-43ac-a27f-b7238c00b45f,2022-11-02 19:04:00.000000 UTC,188.100.201.123,Ribeirão Preto,São Paulo,14030-680,Safari,Adwords,/cancel,cancel
+1403503,,3,0af3f6ef-2e0d-4edd-b4c3-af655c3b694e,2021-11-04 07:57:00.000000 UTC,31.128.71.146,Wuhan,Inner Mongolia Autonomous Region,14031,Safari,Adwords,/cancel,cancel
+1581597,,3,03b5cce2-e53d-430e-8399-9f0730f65d6b,2025-05-19 03:53:00.000000 UTC,102.209.22.142,Ribeirão Preto,São Paulo,14031,Firefox,Email,/cancel,cancel
+2264296,,3,c88b8d5f-c13c-479d-a89c-0c7017670c0e,2023-11-27 18:26:00.000000 UTC,9.60.155.99,Wuhan,Inner Mongolia Autonomous Region,14031,Chrome,Email,/cancel,cancel
+1758191,,3,e8f8ea44-172c-4a10-b92c-8737b4e054b9,2022-09-18 17:01:00.000000 UTC,162.209.128.173,Ribeirão Preto,São Paulo,14031,Firefox,Email,/cancel,cancel
+1952617,,3,8de031cf-70e7-4961-a8e9-02cb8d36a28a,2019-11-14 04:53:00.000000 UTC,171.66.112.16,Kaifeng,Inner Mongolia Autonomous Region,14040,Chrome,Email,/cancel,cancel
+2035892,,3,4467bcca-d208-4445-aecc-9f9776f75178,2022-10-10 14:53:00.000000 UTC,201.185.100.76,Kaifeng,Inner Mongolia Autonomous Region,14040,Chrome,Email,/cancel,cancel
+1852047,,3,c2326d53-6a42-413a-b8bc-331b96583b6b,2022-08-07 04:57:00.000000 UTC,204.151.88.205,Kaifeng,Inner Mongolia Autonomous Region,14040,Chrome,Adwords,/cancel,cancel
+1643457,,3,fbc21831-049d-4aa0-968e-0cb504dd9770,2019-09-14 04:13:00.000000 UTC,33.171.112.224,Wuhan,Inner Mongolia Autonomous Region,14042,Other,Adwords,/cancel,cancel
+1959557,,3,23174e9c-7714-46e9-8d0e-a13013404670,2021-11-19 12:16:00.000000 UTC,65.187.206.62,Wuhan,Inner Mongolia Autonomous Region,14042,Chrome,YouTube,/cancel,cancel
+1577471,,3,99714a75-ae84-493f-b948-f1ab367cf1ac,2021-10-15 14:17:00.000000 UTC,169.166.22.239,Wuhan,Inner Mongolia Autonomous Region,14042,IE,Adwords,/cancel,cancel
+2192979,,3,19d2b611-76ee-457d-b1d1-0a3b97e53c92,2022-05-28 10:44:00.000000 UTC,48.55.4.225,Wuhan,Inner Mongolia Autonomous Region,14042,Chrome,Email,/cancel,cancel
+1466976,,3,8c741f4c-758a-4afb-aaed-16bd253c2c9e,2020-12-03 15:59:00.000000 UTC,213.15.77.149,Ribeirão Preto,São Paulo,14050,IE,Email,/cancel,cancel
+1521630,,3,0e41a945-a2d2-47d6-bffb-57c53e8b9540,2020-08-25 15:57:00.000000 UTC,200.194.199.157,Berlin,Berlin,14055,Chrome,Email,/cancel,cancel
+1827620,,3,5b0cf3a2-34ab-41b2-8c79-aced5d688066,2020-03-10 11:29:00.000000 UTC,98.103.93.53,North Boston,New York,14075,Safari,Email,/cancel,cancel
+2089232,,3,503a3816-d2b2-417c-abdc-0ed6902a4fcf,2020-10-09 13:12:00.000000 UTC,80.150.16.229,Lancaster,New York,14086,Chrome,YouTube,/cancel,cancel
+2009491,,3,8d4663f9-efcc-4d65-a664-ef0ff061e433,2021-10-22 02:31:00.000000 UTC,67.240.247.211,Tokyo,Tokyo,141-0032,IE,Facebook,/cancel,cancel
+1671352,,3,3bf95151-909b-424f-849d-02636c916533,2020-01-14 08:40:00.000000 UTC,114.23.107.240,Wheatfield,New York,14120,Firefox,Email,/cancel,cancel
+2194759,,3,b668bca7-2914-451c-a21c-e7eaae55e922,2020-06-05 16:54:00.000000 UTC,6.216.191.64,Wheatfield,New York,14120,Safari,Adwords,/cancel,cancel
+1507913,,3,1a3fcdd2-b42b-4c6d-8bbd-a9d375b14540,2020-11-22 14:04:00.000000 UTC,99.191.162.207,Orchard Park,New York,14127,Safari,Email,/cancel,cancel
+1827924,,3,e9e28ef0-3f69-4678-be9d-37c3920c9cd6,2019-11-18 03:49:00.000000 UTC,217.78.99.137,Cravinhos,São Paulo,14140-000,Chrome,Email,/cancel,cancel
+1682009,,3,0b62a68c-3a26-4a8b-b608-77a53047bbc2,2019-04-11 18:55:00.000000 UTC,202.96.184.65,Serrana,São Paulo,14150-000,Firefox,Facebook,/cancel,cancel
+1326616,,3,f098cadc-d8b9-4b5f-a41b-48f2c9b16449,2023-11-01 04:02:00.000000 UTC,60.13.239.135,Serrana,São Paulo,14150-000,Firefox,Email,/cancel,cancel
+1943049,,3,6754a825-4503-4e5f-88aa-58e9b57c20c2,2024-07-22 15:14:00.000000 UTC,124.57.216.177,Serrana,São Paulo,14150-000,Firefox,Email,/cancel,cancel
+1500063,,3,92279eea-2c0d-4d53-b46c-24b756527272,2021-05-09 17:05:00.000000 UTC,111.49.249.180,Seoul,Seoul,142-063,Chrome,Email,/cancel,cancel
+1926774,,3,3e32b108-f768-493a-94a3-3ac87c422455,2022-10-03 13:25:00.000000 UTC,34.165.84.175,Seoul,Seoul,142-071,Chrome,Email,/cancel,cancel
+1425039,,3,9810b158-7ed4-4cea-9916-c9d7438e1ded,2022-08-17 07:12:00.000000 UTC,200.131.97.124,Seoul,Seoul,142-120,Firefox,YouTube,/cancel,cancel
+1911381,,3,f723ef68-ed33-42a5-bc50-f3eb114fa2f7,2025-01-23 19:07:00.000000 UTC,211.45.255.155,Fitchburg,Massachusetts,1420,Firefox,Facebook,/cancel,cancel
+1748933,,3,c7c14fd7-58cd-481c-a202-84a7db39a7c6,2020-01-26 10:56:00.000000 UTC,217.28.8.32,Cheektowaga,New York,14225,Firefox,YouTube,/cancel,cancel
+2129828,,3,bd834593-449f-40d9-9118-07b28455ca2f,2021-03-04 01:04:00.000000 UTC,67.227.239.167,Tokyo,Tokyo,143-0015,Chrome,Email,/cancel,cancel
+1440347,,3,3733b310-53b1-4170-b4bf-d30e780f0813,2024-06-26 16:13:00.000000 UTC,183.170.200.42,Tokyo,Tokyo,143-0024,Chrome,Email,/cancel,cancel
+2392151,,3,50db1af2-64f1-4db4-8d42-16a9035cd477,2021-08-28 18:28:00.000000 UTC,221.51.169.85,Tokyo,Tokyo,143-0024,Safari,Adwords,/cancel,cancel
+2358482,,3,8cf7680f-33dd-4a0f-9d46-bab5342d2495,2024-01-01 04:57:00.000000 UTC,97.46.119.226,Tokyo,Tokyo,143-0024,Chrome,Facebook,/cancel,cancel
+1632580,,3,13a65aed-5835-4f0d-9bd1-c3ef04dc4060,2022-11-30 17:03:00.000000 UTC,145.156.22.197,Seoul,Seoul,143-150,Safari,Email,/cancel,cancel
+2238601,,3,d9167822-060a-4b34-80cc-b5025dbab30e,2020-12-10 16:15:00.000000 UTC,217.13.158.179,Seoul,Seoul,143-190,Other,Email,/cancel,cancel
+1727491,,3,779bd4e8-c4d5-4c97-b968-7e1c42b0bfdb,2021-10-18 01:24:00.000000 UTC,101.146.240.81,Seoul,Seoul,143-200,Chrome,Email,/cancel,cancel
+1458201,,3,aa61e1e4-3349-48fd-a6e9-3fc1d9897be9,2023-04-12 02:52:00.000000 UTC,174.151.114.191,Seoul,Seoul,143-210,Chrome,Email,/cancel,cancel
+1635125,,3,c77b270a-2ede-4007-beb0-fb1cf65f3cf9,2023-01-12 11:49:00.000000 UTC,165.42.44.32,Wheatfield,New York,14304,Chrome,Email,/cancel,cancel
+1919570,,3,b5f75eb8-cdba-4b1e-ad3e-d893f3838f24,2019-05-28 03:06:00.000000 UTC,221.232.14.10,Beijing,Inner Mongolia Autonomous Region,14305,Chrome,Adwords,/cancel,cancel
+2249476,,3,592bbb23-22ea-4d1d-8889-5fde9dfcca30,2024-11-27 14:05:00.000000 UTC,178.131.10.9,Beijing,Inner Mongolia Autonomous Region,14305,Safari,Email,/cancel,cancel
+1876195,,3,ebf947c2-1c5c-433f-a19b-46ed83c1d049,2020-11-09 07:53:00.000000 UTC,122.92.8.110,Beijing,Inner Mongolia Autonomous Region,14305,Safari,YouTube,/cancel,cancel
+1886473,,3,90a141b3-00e9-4cd3-b20d-4700de43b7f6,2022-03-30 08:25:00.000000 UTC,38.35.54.144,Tokyo,Tokyo,144-0041,Firefox,Adwords,/cancel,cancel
+2072207,,3,fa78cf49-101a-4468-abaf-019a995cdebf,2020-03-07 06:34:00.000000 UTC,1.74.46.138,Franca,São Paulo,14400,Other,Email,/cancel,cancel
+1488910,,3,b925432c-1777-4eec-bead-eea5139c0a99,2020-10-10 07:56:00.000000 UTC,3.191.54.147,Franca,São Paulo,14402,Chrome,Email,/cancel,cancel
+2376310,,3,24665795-62e7-4c33-afcb-3489db4de0a0,2025-01-17 14:42:00.000000 UTC,158.160.47.246,Franca,São Paulo,14402,Chrome,YouTube,/cancel,cancel
+1464813,,3,cf0e332b-5cd0-4c5d-bb7e-f5ec1c07a185,2023-01-07 19:14:00.000000 UTC,189.4.224.76,Franca,São Paulo,14404,Other,Adwords,/cancel,cancel
+2009289,,3,88f51a38-daea-4133-a698-3b937ebf5e38,2022-08-01 09:40:00.000000 UTC,119.220.202.166,Franca,São Paulo,14407,Firefox,Adwords,/cancel,cancel
+1811565,,3,924cff8c-e722-406d-b3b5-9be0670bb9c8,2021-12-04 19:26:00.000000 UTC,40.126.164.246,Radebeul,Sachsen,1445,Firefox,Adwords,/cancel,cancel
+1933733,,3,a2931948-979a-4995-9f82-0a95f8e3b218,2021-10-19 18:18:00.000000 UTC,52.27.234.126,Potsdam,Brandenburg,14469,Chrome,Adwords,/cancel,cancel
+1567607,,3,f6351883-90c5-4a7e-aed2-07eef2776488,2020-11-16 02:03:00.000000 UTC,148.43.41.207,Tokyo,Tokyo,145-0071,Chrome,Email,/cancel,cancel
+2017459,,3,f01d716d-18d0-48bb-a25a-5928aa5c5c9a,2024-11-02 08:58:00.000000 UTC,96.196.197.213,Vire-Normandie,Normandie,14500,Chrome,Adwords,/cancel,cancel
+1753544,,3,e5cf1215-63d6-4c0b-9f14-e75f405463c4,2023-07-25 18:51:00.000000 UTC,186.236.30.53,Ituverava,São Paulo,14500-000,Firefox,Organic,/cancel,cancel
+2403352,,3,5411b327-f60b-4434-9530-f50831307956,2024-02-08 08:08:00.000000 UTC,24.144.219.153,Teltow,Brandenburg,14513,Chrome,Email,/cancel,cancel
+1345576,,3,1a44ec0e-61af-464d-bf0a-8768c76eb61e,2024-07-07 02:23:00.000000 UTC,212.54.64.240,Werder (Havel),Brandenburg,14542,Safari,Email,/cancel,cancel
+1735106,,3,c19765cc-5446-415e-bcf1-0a45bda8d726,2023-12-12 01:18:00.000000 UTC,26.221.193.30,Gates-North Gates,New York,14606,Chrome,Email,/cancel,cancel
+1626967,,3,076f1b41-ace5-42c8-aec4-aacbfa331744,2023-07-05 09:55:00.000000 UTC,55.44.135.169,Orlândia,São Paulo,14620-000,Chrome,Email,/cancel,cancel
+1942610,,3,0bbf5903-8a3f-499a-a4ce-ea16c35b5a32,2022-12-19 05:40:00.000000 UTC,7.193.23.199,Brighton,New York,14623,Other,Email,/cancel,cancel
+1912906,,3,cced6fa8-4ae6-4cfe-b839-7db54488916f,2023-01-15 16:00:00.000000 UTC,164.165.43.186,Rochester,New York,14624,Firefox,Email,/cancel,cancel
+1385742,,3,0792198b-170e-495f-a09a-6a72d365c1ec,2020-06-23 18:09:00.000000 UTC,74.137.46.168,Ridgemont,New York,14626,IE,Adwords,/cancel,cancel
+1889083,,3,ee8e3a9a-8e45-412c-9bc9-6e8cd2663fbe,2023-11-02 13:23:00.000000 UTC,26.167.211.156,Jamestown,New York,14701,Safari,Email,/cancel,cancel
+2285344,,3,88d2a7b2-cbeb-40ef-bd59-fc5e13d19206,2020-04-21 04:02:00.000000 UTC,20.67.230.248,Rathenow,Brandenburg,14712,Other,Email,/cancel,cancel
+2025593,,3,970de89b-8b53-4031-994e-87092434057f,2022-03-18 18:41:00.000000 UTC,208.52.164.133,Brandenburg an der Havel,Brandenburg,14772,Firefox,Facebook,/cancel,cancel
+1404196,,3,ec8a03e0-3f4d-4e15-bec7-5e824654f353,2019-03-18 11:26:00.000000 UTC,16.57.246.103,Araraquara,São Paulo,14807,Safari,Email,/cancel,cancel
+1993729,,3,c03b8339-c056-4d32-abfc-2e6997e8076b,2022-08-15 11:42:00.000000 UTC,88.69.190.45,Ibaté,São Paulo,14815-000,Chrome,Email,/cancel,cancel
+2347599,,3,b26b62fc-3ebf-4643-94b4-d797ece86b51,2019-10-18 17:15:00.000000 UTC,64.153.214.132,Américo Brasiliense,São Paulo,14820-000,Chrome,Email,/cancel,cancel
+1933696,,3,57d3ab31-eda7-4f12-84f2-5d989cb124cd,2019-04-26 03:12:00.000000 UTC,110.229.117.83,Baena,Andalucía,14850,Firefox,Email,/cancel,cancel
+2330770,,3,cf29d6be-6bf1-47c4-a627-730a9cff1b1d,2022-10-31 09:07:00.000000 UTC,31.55.106.248,Lucena,Andalucía,14900,Safari,YouTube,/cancel,cancel
+1859143,,3,bd960f6a-3cdc-482a-94cb-5899d597ac1d,2019-06-25 17:53:00.000000 UTC,13.221.183.140,Ibitinga,São Paulo,14940-000,Safari,Email,/cancel,cancel
+1530852,,3,566c4299-c295-430b-a83f-8819ce6afa6d,2023-05-14 13:38:00.000000 UTC,136.166.34.44,Ibitinga,São Paulo,14940-000,Firefox,Organic,/cancel,cancel
+1684755,,3,1c97c9e0-3512-4b09-8e58-9df7afd686a4,2022-05-16 10:40:00.000000 UTC,15.211.127.12,Ibitinga,São Paulo,14940-000,Firefox,Email,/cancel,cancel
+1738713,,3,3b04658d-ace8-40bd-9159-ea11c0d8a036,2021-07-25 02:58:00.000000 UTC,148.150.43.28,Villers-la-Ville,Wallonia,1495,Firefox,Email,/cancel,cancel
+1959368,,3,7c58c51a-89e7-46dc-9cfb-1730625bee41,2022-10-31 10:43:00.000000 UTC,43.124.123.251,Novo Horizonte,São Paulo,14960-000,Chrome,Adwords,/cancel,cancel
+2334365,,3,c45f9a6a-bdaa-421a-8028-b93cc05014d3,2021-06-03 19:11:00.000000 UTC,207.226.41.126,Novo Horizonte,São Paulo,14960-000,Other,Email,/cancel,cancel
+2337800,,3,62383b99-52a7-4b2f-8d21-4262f95b68d4,2019-04-30 13:27:00.000000 UTC,81.24.16.8,Novo Horizonte,São Paulo,14960-000,Chrome,Email,/cancel,cancel
+1571420,,3,ae180d68-5465-4fa2-a18d-3faa9974efba,2024-11-06 15:54:00.000000 UTC,10.3.246.118,Tokyo,Tokyo,150-0001,Chrome,Adwords,/cancel,cancel
+1759814,,3,d28e25a2-b2ae-404e-a69f-8cbf8a09510e,2020-04-11 14:31:00.000000 UTC,109.28.242.86,Tokyo,Tokyo,150-0001,Chrome,Email,/cancel,cancel
+2053848,,3,b0385f14-376f-4f9a-898e-9a784de61e63,2021-07-24 15:14:00.000000 UTC,146.44.53.243,Tokyo,Tokyo,150-0013,Chrome,Email,/cancel,cancel
+1710066,,3,ed143766-14ca-46e3-a746-71102b952cf5,2023-05-06 14:08:00.000000 UTC,156.45.192.234,Seoul,Seoul,150-010,Firefox,Adwords,/cancel,cancel
+1450577,,3,71d4fcea-0493-4c61-8d06-d75891fe9350,2020-03-05 08:13:00.000000 UTC,156.65.57.58,Seoul,Seoul,150-010,Safari,Adwords,/cancel,cancel
+1924490,,3,c51bd31c-5d2a-4802-947e-72f0f1eb8156,2020-06-01 03:41:00.000000 UTC,42.219.138.161,Seoul,Seoul,150-010,Chrome,Facebook,/cancel,cancel
+2014050,,3,9756e974-0dfc-442c-866d-c6e630f7a41d,2021-07-17 05:51:00.000000 UTC,142.116.161.66,Seoul,Seoul,150-010,Safari,Email,/cancel,cancel
+2315950,,3,35cc57c9-d9f1-4d35-bbe2-3211b326bcc2,2023-07-08 11:02:00.000000 UTC,82.175.87.103,Seoul,Seoul,150-070,Chrome,Email,/cancel,cancel
+1803012,,3,ed1750b1-2b06-4167-a9b7-a8708b54d57a,2023-12-15 07:07:00.000000 UTC,149.172.122.233,Halle,Flanders,1500,Firefox,Email,/cancel,cancel
+1701289,,3,e2240a6d-2597-440c-b7ff-8534e8f6838b,2022-04-16 06:25:00.000000 UTC,68.8.83.236,Jinan,Heilongjiang,150009,Safari,Email,/cancel,cancel
+1934470,,3,a65c7a17-498b-4611-ae40-9837d1512823,2021-02-20 07:27:00.000000 UTC,113.111.123.76,Qiqihar,Heilongjiang,150010,IE,Email,/cancel,cancel
+1985185,,3,29bbf5d6-7064-45f7-abb7-33748a00a9f0,2024-11-05 06:07:00.000000 UTC,90.6.117.74,Qiqihar,Heilongjiang,150010,Firefox,Adwords,/cancel,cancel
+1507737,,3,fc774eeb-bff3-4437-b006-588303f48e3d,2022-01-03 19:10:00.000000 UTC,191.249.54.55,Qiqihar,Heilongjiang,150010,Safari,Email,/cancel,cancel
+2365764,,3,313e7572-503d-4b94-9eb5-435dff92dee3,2025-02-06 00:32:00.000000 UTC,57.36.25.187,Qiqihar,Heilongjiang,150010,Firefox,Email,/cancel,cancel
+1644925,,3,a5bf183e-fe92-4fc6-92e3-148b693bf326,2021-02-08 03:04:00.000000 UTC,7.153.8.149,Qiqihar,Heilongjiang,150010,Safari,Adwords,/cancel,cancel
+2235298,,3,69cd1ac5-c62a-48d8-a0a9-af81cc9d0dba,2022-05-14 10:32:00.000000 UTC,190.224.141.193,Shan Tou,Inner Mongolia Autonomous Region,15002,Chrome,Adwords,/cancel,cancel
+1900147,,3,72a20b4c-5907-464d-9510-8b7f76bf08c2,2023-02-27 13:45:00.000000 UTC,174.56.217.228,Zhengzhou,Heilongjiang,150025,Chrome,Email,/cancel,cancel
+2279108,,3,8555abdf-4720-4d17-bdfa-db408175de1a,2020-10-31 07:29:00.000000 UTC,166.217.130.168,Zhengzhou,Heilongjiang,150040,Safari,Email,/cancel,cancel
+1971519,,3,cf7b07e5-87f5-49c1-82d4-bf92285d04c6,2019-01-28 02:17:00.000000 UTC,68.95.154.217,Zhengzhou,Heilongjiang,150040,Chrome,Email,/cancel,cancel
+2270575,,3,832e1642-0727-42d3-9add-69b5c47afe3a,2019-11-01 07:56:00.000000 UTC,200.209.196.112,Changchun,Heilongjiang,150050,Safari,Adwords,/cancel,cancel
+1430256,,3,a5e4a6fc-1de8-4478-b8da-b4b60a6a255b,2021-05-22 02:55:00.000000 UTC,42.30.160.119,Changchun,Heilongjiang,150050,Chrome,Email,/cancel,cancel
+2330186,,3,efc262b0-15b2-472b-84a8-8c65952c1feb,2023-01-13 04:06:00.000000 UTC,7.30.114.156,Fuzhou,Heilongjiang,150056,Chrome,Email,/cancel,cancel
+1928828,,3,b18f6b62-332a-4394-9901-5a32629fff98,2024-05-20 20:16:00.000000 UTC,66.83.211.128,Shan Tou,Heilongjiang,150059,Safari,Email,/cancel,cancel
+1785438,,3,94b19214-b589-488f-b123-04cacd305ba0,2022-04-18 10:27:00.000000 UTC,40.102.193.70,Shan Tou,Heilongjiang,150059,Chrome,Email,/cancel,cancel
+2344572,,3,72ecfe4c-9d79-40b3-834e-80cf8a491345,2021-01-30 04:48:00.000000 UTC,185.172.171.198,Shan Tou,Heilongjiang,150059,Chrome,Adwords,/cancel,cancel
+1773237,,3,5ce8f694-cf4c-41db-b63d-e31a0e9676ea,2019-09-17 19:30:00.000000 UTC,150.145.123.63,Shan Tou,Heilongjiang,150059,Chrome,Adwords,/cancel,cancel
+2418064,,3,bf2754eb-2c64-4004-a384-d193505442a1,2021-04-10 13:02:00.000000 UTC,93.142.186.16,La Coruña,Galicia,15006,Other,Email,/cancel,cancel
+2398750,,3,4b67f132-96b1-4f03-a10b-4d681ffd2d31,2022-12-26 05:45:00.000000 UTC,223.68.138.152,Wenzhou,Heilongjiang,150060,Chrome,Organic,/cancel,cancel
+1813387,,3,bd51e2f2-05f5-4a3a-a608-292b294e6b15,2021-02-04 08:45:00.000000 UTC,22.33.17.140,Wenzhou,Heilongjiang,150060,Firefox,Email,/cancel,cancel
+2156053,,3,45cd7f0a-de48-444d-92e6-7189a17febae,2022-12-15 14:40:00.000000 UTC,68.25.13.148,Lan'Zhou,Heilongjiang,150076,Safari,Email,/cancel,cancel
+1564938,,3,970d0573-9b9a-44c8-84d5-5a3d0d86fc6a,2020-04-11 18:30:00.000000 UTC,112.124.245.92,Lan'Zhou,Heilongjiang,150076,Safari,Email,/cancel,cancel
+2260101,,3,6a9918dd-a69e-4804-907e-89e3e8e2459b,2020-01-10 01:17:00.000000 UTC,169.166.188.218,La Coruña,Galicia,15008,Chrome,Organic,/cancel,cancel
+2102443,,3,8992372f-70a1-4977-8846-c28a347d0026,2019-11-16 06:05:00.000000 UTC,6.189.18.43,Foshan,Heilongjiang,150080,Chrome,Email,/cancel,cancel
+2072616,,3,d68cc078-519c-4285-97fe-79ee308f5de8,2022-03-18 10:21:00.000000 UTC,85.255.53.75,Foshan,Heilongjiang,150080,Safari,Email,/cancel,cancel

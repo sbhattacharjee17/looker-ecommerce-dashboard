@@ -1,0 +1,130 @@
+
+✅ The 7 Primary Tables in thelook_ecommerce:
+
+| No. | Table Name   | Description                                 |
+| --- | ------------ | ------------------------------------------- |
+|1️⃣ | `order_items`          | Each product in an order (line items)                  |
+| 2️⃣ | `orders`                 | Overall order details (timestamps, IDs)                |
+| 3️⃣ | `products`              | Product catalog (names, prices, categories)          |
+| 4️⃣ | `users`                   | Customer info (location, age, gender)                 |
+| 5️⃣ | `inventory_items`     | Stock/inventory levels by warehouse                  |
+| 6️⃣ | `distribution_centers` | Warehouses/fulfillment locations                      |
+| 7️⃣ | `events`                   | User web activity (e.g., clicks, pages)                |
+
+
+🛒 1. order_items
+| Column Name         | Data Type | Description                 |
+| ------------------- | --------- | --------------------------- |
+| id                  | INTEGER   | Unique line item ID         |
+| order\_id           | INTEGER   | Related order               |
+| user\_id            | INTEGER   | Customer placing the order  |
+| product\_id         | INTEGER   | Product purchased           |
+| inventory\_item\_id | INTEGER   | Inventory reference         |
+| status              | STRING    | e.g. 'Complete', 'Returned' |
+| created\_at         | TIMESTAMP | Line item creation date     |
+| shipped\_at         | TIMESTAMP | Shipping date               |
+| delivered\_at       | TIMESTAMP | Delivery date               |
+| returned\_at        | TIMESTAMP | Return date if any          |
+| sale\_price         | FLOAT     | Price at which sold         |
+| shipping\_service   | STRING    | e.g. 'FedEx', 'UPS'         |
+| shipping\_cost      | FLOAT     | Cost of shipping            |
+| quantity            | INTEGER   | Quantity purchased          |
+
+📦 2. orders
+| Column Name | Data Type | Description               |
+| ----------- | --------- | ------------------------- |
+| id          | INTEGER   | Order ID                  |
+| user\_id    | INTEGER   | Customer who placed order |
+| status      | STRING    | Order status              |
+| created\_at | TIMESTAMP | Order date                |
+
+🧾 3. products
+| Column Name              | Data Type | Description             |
+| ------------------------ | --------- | ----------------------- |
+| id                       | INTEGER   | Product ID              |
+| cost                     | FLOAT     | Internal cost           |
+| category                 | STRING    | Product category        |
+| name                     | STRING    | Product name            |
+| brand                    | STRING    | Brand name              |
+| retail\_price            | FLOAT     | Listed price            |
+| department               | STRING    | e.g. 'Men’s', 'Women’s' |
+| sku                      | STRING    | Stock Keeping Unit      |
+| distribution\_center\_id | INTEGER   | Fulfillment location ID |
+
+🧍 4. users
+| Column Name     | Data Type | Description           |
+| --------------- | --------- | --------------------- |
+| id              | INTEGER   | User ID               |
+| first\_name     | STRING    | First name            |
+| last\_name      | STRING    | Last name             |
+| email           | STRING    | Email address         |
+| gender          | STRING    | Male/Female/Other     |
+| age             | INTEGER   | Age                   |
+| state           | STRING    | State or region       |
+| street\_address | STRING    | Address               |
+| city            | STRING    | City                  |
+| zip\_code       | STRING    | ZIP/Postal code       |
+| created\_at     | TIMESTAMP | Account creation time |
+
+🏬 5. inventory_items
+| Column Name   | Data Type | Description                |
+| ------------- | --------- | -------------------------- |
+| id            | INTEGER   | Inventory ID               |
+| product\_id   | INTEGER   | Product stored             |
+| created\_at   | TIMESTAMP | When inventory was added   |
+| sold\_at      | TIMESTAMP | When it was sold (if any)  |
+| cost          | FLOAT     | Cost of the inventory unit |
+| product\_name | STRING    | Product name               |
+
+🚚 6. distribution_centers
+| Column Name | Data Type | Description            |
+| ----------- | --------- | ---------------------- |
+| id          | INTEGER   | Distribution center ID |
+| name        | STRING    | Center name            |
+| location    | STRING    | City/Region            |
+
+🖱️ 7. events
+| Column Name      | Data Type | Description                           |
+| ---------------- | --------- | ------------------------------------- |
+| id               | INTEGER   | Event ID                              |
+| user\_id         | INTEGER   | User who triggered event              |
+| sequence\_number | INTEGER   | Order of events                       |
+| session\_id      | STRING    | Unique session ID                     |
+| created\_at      | TIMESTAMP | When the event occurred               |
+| event\_type      | STRING    | e.g. 'page\_view', 'cart', 'purchase' |
+| user\_agent      | STRING    | Device/browser info                   |
+
+📌 Summary Table
+| Table Name             | Rows    | Purpose                      |
+| ---------------------- | ------- | ---------------------------- |
+| `order_items`          | \~1.5M+ | Transaction-level sales data |
+| `orders`               | \~70k   | Summary of orders            |
+| `products`             | \~500   | Product catalog              |
+| `users`                | \~50k   | Customer demographic info    |
+| `inventory_items`      | \~1.5M+ | Inventory + availability     |
+| `distribution_centers` | <10     | Warehouse locations          |
+| `events`               | \~3M+   | User behavior/session logs   |
+
+
+
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.products` LIMIT 1000;
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.users` LIMIT 1000;
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.order_items` LIMIT 1000;
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.inventory_items` LIMIT 1000;
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.events` LIMIT 1000;
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.items` LIMIT 1000;
+
+SELECT * FROM `bigquery-public-data.thelook_ecommerce.distribution_centers` LIMIT 1000;
+
+
+SELECT * 
+FROM `bigquery-public-data.thelook_ecommerce.__TABLES_SUMMARY__`;
+
+
+

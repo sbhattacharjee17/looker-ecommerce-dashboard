@@ -1,0 +1,281 @@
+| #      | Query Purpose                        | Suggested Name               |
+| ------ | ---------------------- ------------- | ---------------------------- |
+| 1️⃣   | Top Categories by Revenue                          | `top_categories_by_revenue`  |
+| 2️⃣    | Monthly Revenue Trends                              | `monthly_revenue_trend`      |
+| 3️⃣    | Customer Count by Gender                           | `customer_gender_count`      |
+| 4️⃣    | Returning vs New Customers                        | `returning_vs_new_customers` |
+| 5️⃣    | Second Highest Sale Price                          |`second_highest_sale_price`  |
+| 6️⃣    | Most Popular Products by Sales Volume         | `most_popular_products`      |
+| 7️⃣    | Avg Order Value per Month                         | `avg_order_value_monthly`    |
+| 8️⃣    | Inventory by Product                                 | `inventory_by_product`       |
+| 9️⃣    | Avg Purchase by Gender                             | `avg_purchase_by_gender`     |
+| 🔟  | Latest 10 Orders                        | `latest_orders`        |
+|1️⃣1️⃣ | Users by Age Group                                  | `customer_age_group`         |
+| 1️⃣2️⃣ | Monthly Active Users                                | `monthly_active_users`       |
+| 1️⃣3️⃣ | Top Revenue Products                               | `top_revenue_products`       |
+| 1️⃣4️⃣ | Inventory by Center                                  | `inventory_by_distribution`  |
+| 1️⃣5️⃣ | Event Type Distribution                             | `event_type_distribution`    |
+| 1️⃣6️⃣ | Second Last Month Revenue                        | `second_last_month_revenue`  |
+| 1️⃣7️⃣ | Active Users Last 30 Days                          | `active_users_last_30days`   |
+
+
+
+✅ 1. Top Product Categories by Revenue
+
+SELECT 
+  p.category,
+  ROUND(SUM(oi.sale_price), 2) AS total_revenue
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items` oi
+JOIN 
+  `bigquery-public-data.thelook_ecommerce.products` p
+ON 
+  oi.product_id = p.id
+WHERE 
+  oi.status = 'Complete'
+GROUP BY 
+  p.category
+ORDER BY 
+  total_revenue DESC
+LIMIT 10;
+
+
+✅ 2. Monthly Revenue Trends
+
+SELECT 
+  FORMAT_DATE('%Y-%m', created_at) AS month,
+  ROUND(SUM(sale_price), 2) AS monthly_revenue
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items`
+WHERE 
+  status = 'Complete'
+GROUP BY 
+  month
+ORDER BY 
+  month;
+
+
+✅ 3. Customer Count by Gender
+
+SELECT 
+  gender, COUNT(DISTINCT id) AS total_customers
+FROM 
+  `bigquery-public-data.thelook_ecommerce.users`
+GROUP BY 
+  gender;
+
+
+✅ 4. Returning vs New Customers
+
+SELECT 
+  user_id,
+  COUNT(order_id) AS order_count,
+  CASE 
+    WHEN COUNT(order_id) = 1 THEN 'New Customer'
+    ELSE 'Returning Customer'
+  END AS customer_type
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items`
+GROUP BY 
+  user_id;
+
+
+✅ 5. Second Highest Sale Price
+
+SELECT MAX(sale_price) AS second_highest
+FROM `bigquery-public-data.thelook_ecommerce.order_items`
+WHERE sale_price < (
+    SELECT MAX(sale_price)
+    FROM `bigquery-public-data.thelook_ecommerce.order_items`
+);
+
+
+✅ 6. Most Popular Products by Quantity
+
+SELECT 
+  p.name AS product_name,
+  COUNT(*) AS total_units_sold
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items` AS oi
+JOIN 
+  `bigquery-public-data.thelook_ecommerce.products` AS p
+ON 
+  oi.product_id = p.id
+WHERE 
+  oi.status = 'Complete'
+GROUP BY 
+  p.name
+ORDER BY 
+  total_units_sold DESC
+LIMIT 10;
+
+
+✅ 7. Average Order Value per Month
+
+SELECT 
+  FORMAT_DATE('%Y-%m', oi.created_at) AS month,
+  ROUND(SUM(oi.sale_price)/COUNT(DISTINCT oi.order_id), 2) AS avg_order_value
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items` oi
+WHERE 
+  status = 'Complete'
+GROUP BY 
+  month
+ORDER BY 
+  month;
+
+
+✅ 8. Inventory Status by Product
+
+SELECT 
+  product_name,
+  COUNT(id) AS total_inventory_items
+FROM 
+  `bigquery-public-data.thelook_ecommerce.inventory_items`
+GROUP BY 
+  product_name
+ORDER BY 
+  total_inventory_items DESC;
+
+
+✅ 9. Gender-wise Average Purchase
+
+SELECT 
+  u.gender,
+  ROUND(AVG(oi.sale_price), 2) AS avg_purchase_value
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items` oi
+JOIN 
+  `bigquery-public-data.thelook_ecommerce.users` u
+ON 
+  oi.user_id = u.id
+GROUP BY 
+  u.gender;
+
+
+✅ 10. Latest 10 Orders
+
+SELECT *
+FROM `bigquery-public-data.thelook_ecommerce.orders`
+ORDER BY created_at DESC
+LIMIT 10;
+
+
+✅ 11. Users by Age Group
+
+SELECT 
+  CASE
+    WHEN age BETWEEN 18 AND 25 THEN '18-25'
+    WHEN age BETWEEN 26 AND 35 THEN '26-35'
+    WHEN age BETWEEN 36 AND 50 THEN '36-50'
+    ELSE '50+'
+  END AS age_group,
+  COUNT(*) AS user_count
+FROM 
+  `bigquery-public-data.thelook_ecommerce.users`
+GROUP BY 
+  age_group;
+
+
+✅ 12. Monthly Active Users
+
+SELECT 
+  FORMAT_DATE('%Y-%m', created_at) AS month,
+  COUNT(DISTINCT user_id) AS active_users
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items`
+GROUP BY 
+  month
+ORDER BY 
+  month;
+
+
+✅ 13. Top Revenue Generating Products
+
+SELECT 
+  p.name,
+  ROUND(SUM(oi.sale_price), 2) AS total_revenue
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items` oi
+JOIN 
+  `bigquery-public-data.thelook_ecommerce.products` p
+ON 
+  oi.product_id = p.id
+GROUP BY 
+  p.name
+ORDER BY 
+  total_revenue DESC
+LIMIT 10;
+
+
+✅ 14. Inventory by Distribution Center
+
+SELECT 
+  d.name AS distribution_center,
+  COUNT(i.id) AS inventory_count
+FROM 
+  `bigquery-public-data.thelook_ecommerce.inventory_items` i
+JOIN 
+  `bigquery-public-data.thelook_ecommerce.products` p 
+  ON i.product_id = p.id
+JOIN 
+  `bigquery-public-data.thelook_ecommerce.distribution_centers` d 
+  ON p.distribution_center_id = d.id
+GROUP BY 
+  distribution_center;
+
+
+✅ 15. Event Type Distribution
+
+SELECT 
+  event_type,
+  COUNT(*) AS event_count
+FROM 
+  `bigquery-public-data.thelook_ecommerce.events`
+GROUP BY 
+  event_type
+ORDER BY 
+  event_count DESC;
+
+
+✅ 16. Second Last Month's Revenue
+
+SELECT 
+  month,
+  monthly_revenue
+FROM (
+  SELECT 
+    month,
+    ROUND(SUM(sale_price), 2) AS monthly_revenue,
+    RANK() OVER (ORDER BY month DESC) AS month_rank
+  FROM (
+    SELECT 
+      FORMAT_DATE('%Y-%m', created_at) AS month,
+      sale_price
+    FROM 
+      `bigquery-public-data.thelook_ecommerce.order_items`
+    WHERE 
+      status = 'Complete'
+  ) AS sub
+  GROUP BY month
+) AS ranked_data
+WHERE month_rank = 2;
+
+
+
+✅ 17. Recently Active Users (Last 30 Days)
+
+SELECT 
+  user_id,
+  COUNT(order_id) AS orders_count
+FROM 
+  `bigquery-public-data.thelook_ecommerce.order_items`
+WHERE 
+  created_at >= TIMESTAMP(DATE_SUB(CURRENT_DATE(), INTERVAL 30 DAY))
+  AND status = 'Complete'
+GROUP BY 
+  user_id
+ORDER BY 
+  orders_count DESC
+LIMIT 100;
+

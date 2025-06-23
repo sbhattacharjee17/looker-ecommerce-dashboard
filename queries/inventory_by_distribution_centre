@@ -1,0 +1,13 @@
+SELECT
+  d.name AS distribution_center,
+  COUNT(i.id) AS inventory_count
+FROM
+  `bigquery-public-data.thelook_ecommerce.inventory_items` i
+JOIN
+  `bigquery-public-data.thelook_ecommerce.products` p
+  ON i.product_id = p.id
+JOIN
+  `bigquery-public-data.thelook_ecommerce.distribution_centers` d
+  ON p.distribution_center_id = d.id
+GROUP BY
+  distribution_center;
