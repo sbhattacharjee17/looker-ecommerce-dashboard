@@ -128,7 +128,7 @@ Aspiring Data Analyst with hands-on experience in:
 - Dashboard creation with Looker Studio
 - Data modeling and visualization best practices
 
-📬 [Add your LinkedIn, email, or portfolio here]
+📬 https://linkedin.com/souvikbhattacharjee-data 
 
 ---
 
